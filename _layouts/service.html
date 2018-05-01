@@ -1,0 +1,31 @@
+---
+layout: default
+---
+{% assign functions = site.data.esdToolkit.functions_services | where:"Mapped identifier", page.esd_id %}
+{% for function in functions %}
+  <h2>
+      <a href="{{ site.baseurl }}functions/{{ function["Level 1"] | slugify }}">{{ function["Level 1"] }}</a>
+      {% if function["Level 2"] %}
+      <a href="{{ site.baseurl }}functions/{{ function["Level 2"] | slugify }}">{{ function["Level 2"] }}</a>
+      {% endif %}
+      <a href="{{ site.baseurl }}functions/{{ function.Label | slugify }}">{{ function.Label }}</a>
+  </h2>
+{% endfor %}
+<h1>{{ page.title }}</h1>
+
+{{ content }}
+
+<h2>Delivered by</h2>
+
+
+
+<h2>Powers and duties</h2>
+
+<ul>
+{% assign powersAndDuties = site.data.esdToolkit.powersAndDuties_services | where:"Mapped identifier", page.esd_id %}
+{% for power in powersAndDuties %}
+  <li title="{{ power.Description }}">
+    <a href="{{ site.baseurl }}powers-duties/{{ power.Label | slugify }}">{{ power.Label }}</a>
+  </li>
+{% endfor %}
+</ul>

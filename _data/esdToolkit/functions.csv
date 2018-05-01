@@ -1,0 +1,174 @@
+Identifier,Label,Description,Created,Modified,History notes,Type,Parent identifiers,Parent labels,Level 1,Level 2
+1,Advice and benefits,,2013-04-03,2013-04-03,,Function,,,,
+2,Advice and welfare rights,,2013-04-03,2013-04-03,,Function,1,Advice and benefits,Advice and benefits,
+3,Benefits,,2013-04-03,2013-04-03,,Function,1,Advice and benefits,Advice and benefits,
+122,Carer and disability benefits,,2016-09-12,2016-09-12,Added in March 2016 review,Function,3,Benefits,Advice and benefits,Benefits
+121,Death and benefits,,2016-09-12,2016-09-12,Added in March 2016 review,Function,3,Benefits,Advice and benefits,Benefits
+123,Family benefits,,2016-09-12,2016-09-12,Added in March 2016 review,Function,3,Benefits,Advice and benefits,Benefits
+124,Heating and housing benefits,,2016-09-12,2016-09-12,Added in March 2016 review,Function,3,Benefits,Advice and benefits,Benefits
+125,Low income benefits,,2016-09-12,2016-09-12,Added in March 2016 review,Function,3,Benefits,Advice and benefits,Benefits
+4,Community support,,2013-04-03,2013-04-03,,Function,1,Advice and benefits,Advice and benefits,
+5,Grants and aid,,2013-04-03,2013-04-03,,Function,1,Advice and benefits,Advice and benefits,
+126,Community grants,,2016-09-12,2016-09-12,Added in March 2016 review,Function,5,Grants and aid,Advice and benefits,Grants and aid
+127,Disabled facilities grants,,2016-09-12,2016-09-12,Added in March 2016 review,Function,5,Grants and aid,Advice and benefits,Grants and aid
+128,Grants for children and young people,,2016-09-12,2016-09-12,Added in March 2016 review,Function,5,Grants and aid,Advice and benefits,Grants and aid
+129,Housing grants,,2016-09-12,2016-09-12,Added in March 2016 review,Function,5,Grants and aid,Advice and benefits,Grants and aid
+6,Business and employment,,2013-04-03,2013-04-03,,Function,,,,
+7,Business advice and support,,2013-04-03,2013-04-03,,Function,6,Business and employment,Business and employment,
+8,Business grants,,2013-04-03,2013-04-03,,Function,6,Business and employment,Business and employment,
+9,Business rates,,2013-04-03,2013-04-03,,Function,6,Business and employment,Business and employment,
+10,Careers and employment,,2013-04-03,2013-04-03,,Function,6,Business and employment,Business and employment,
+11,Commercial property,,2013-04-03,2013-04-03,,Function,6,Business and employment,Business and employment,
+12,Health and safety,,2013-04-03,2013-04-03,,Function,6,Business and employment,Business and employment,
+13,Regeneration,,2013-04-03,2013-04-03,,Function,6,Business and employment,Business and employment,
+14,Tenders and contracts,,2013-04-03,2013-04-03,,Function,6,Business and employment,Business and employment,
+15,Trading standards,,2013-04-03,2013-04-03,,Function,6,Business and employment,Business and employment,
+16,Community safety,,2013-04-03,2013-04-03,,Function,,,,
+17,Criminal justice,,2013-04-03,2013-04-03,,Function,16,Community safety,Community safety,
+18,Emergencies,,2013-04-03,2013-04-03,,Function,16,Community safety,Community safety,
+19,Fire safety,,2013-04-03,2013-04-03,,Function,16,Community safety,Community safety,
+130,Fire attendance,,2016-09-12,2016-09-12,Added in March 2016 review,Function,19,Fire safety,Community safety,Fire safety
+131,Fire education and certification,,2016-09-12,2016-09-12,Added in March 2016 review,Function,19,Fire safety,Community safety,Fire safety
+21,Neighbourhood security,,2013-04-03,2013-04-03,,Function,16,Community safety,Community safety,
+20,Police services,,2013-04-03,2013-04-03,,Function,16,Community safety,Community safety,
+132,Incident response,,2016-09-12,2016-09-12,Added in March 2016 review,Function,20,Police services,Community safety,Police services
+133,Public safety,,2016-09-12,2016-09-12,Added in March 2016 review,Function,20,Police services,Community safety,Police services
+22,Youth offending,,2013-04-03,2013-04-03,,Function,16,Community safety,Community safety,
+23,Education and learning,,2013-04-03,2013-04-03,,Function,,,,
+24,Adult education and lifelong learning,,2013-04-03,2013-04-03,,Function,23,Education and learning,Education and learning,
+25,Early years and childcare,,2013-04-03,2013-04-03,,Function,23,Education and learning,Education and learning,
+26,Educational support,,2013-04-03,2013-04-03,,Function,23,Education and learning,Education and learning,
+134,Alternative education provision,,2016-09-12,2016-09-12,Added in March 2016 review,Function,26,Educational support,Education and learning,Educational support
+135,Health and welfare at school,,2016-09-12,2016-09-12,Added in March 2016 review,Function,26,Educational support,Education and learning,Educational support
+136,Pupil development and support,,2016-09-12,2016-09-12,Added in March 2016 review,Function,26,Educational support,Education and learning,Educational support
+27,Higher education,,2013-04-03,2013-04-03,,Function,23,Education and learning,Education and learning,
+28,Schools,,2013-04-03,2013-04-03,,Function,23,Education and learning,Education and learning,
+138,Curriculum and policy,,2016-09-12,2016-09-12,Added in March 2016 review,Function,28,Schools,Education and learning,Schools
+139,Extra-curricular activities,,2016-09-12,2016-09-12,Added in March 2016 review,Function,28,Schools,Education and learning,Schools
+137,School admissions,,2016-09-12,2016-09-12,Added in March 2016 review,Function,28,Schools,Education and learning,Schools
+29,Special education needs,,2013-04-03,2013-04-03,,Function,23,Education and learning,Education and learning,
+30,Environmental protection,,2013-04-03,2013-04-03,,Function,,,,
+31,Animal welfare,,2013-04-03,2013-04-03,,Function,30,Environmental protection,Environmental protection,
+32,Conservation and sustainability,,2013-04-03,2013-04-03,,Function,30,Environmental protection,Environmental protection,
+33,Countryside and farming,,2013-04-03,2013-04-03,,Function,30,Environmental protection,Environmental protection,
+34,Environmental health,,2013-04-03,2013-04-03,,Function,30,Environmental protection,Environmental protection,
+35,Funerals and cremations,,2013-04-03,2013-04-03,,Function,30,Environmental protection,Environmental protection,
+36,Parks and open spaces,,2013-04-03,2013-04-03,,Function,30,Environmental protection,Environmental protection,
+37,Pollution control,,2013-04-03,2013-04-03,,Function,30,Environmental protection,Environmental protection,
+39,Recycling,,2013-04-03,2013-04-03,,Function,30,Environmental protection,Environmental protection,
+40,Street care and cleaning,,2013-04-03,2013-04-03,,Function,30,Environmental protection,Environmental protection,
+41,Utilites,,2013-04-03,2013-04-03,,Function,30,Environmental protection,Environmental protection,
+38,Waste management,,2013-04-03,2013-04-03,,Function,30,Environmental protection,Environmental protection,
+140,Commercial waste,,2016-09-12,2016-09-12,Added in March 2016 review,Function,38,Waste management,Environmental protection,Waste management
+141,Hazardous waste,,2016-09-12,2016-09-12,Added in March 2016 review,Function,38,Waste management,Environmental protection,Waste management
+142,Household waste,,2016-09-12,2016-09-12,Added in March 2016 review,Function,38,Waste management,Environmental protection,Waste management
+143,Waste policy,,2016-09-12,2016-09-12,Added in March 2016 review,Function,38,Waste management,Environmental protection,Waste management
+42,"Government, citizens and rights",,2013-04-03,2013-04-03,,Function,,,,
+43,Accessing and updating personal information,,2013-04-03,2013-04-03,,Function,42,"Government, citizens and rights","Government, citizens and rights",
+44,Asylum and immigration,,2013-04-03,2013-04-03,,Function,42,"Government, citizens and rights","Government, citizens and rights",
+45,Commercial activities,,2013-04-03,2013-04-03,,Function,42,"Government, citizens and rights","Government, citizens and rights",
+144,Goods and services,,2016-09-12,2016-09-12,Added in March 2016 review,Function,45,Commercial activities,"Government, citizens and rights",Commercial activities
+145,Procurement,,2016-09-12,2016-09-12,Added in March 2016 review,Function,45,Commercial activities,"Government, citizens and rights",Commercial activities
+46,Communications and publicity,,2013-04-03,2013-04-03,,Function,42,"Government, citizens and rights","Government, citizens and rights",
+47,Complaints and compliments,,2013-04-03,2013-04-03,,Function,42,"Government, citizens and rights","Government, citizens and rights",
+48,Consultations,,2013-04-03,2013-04-03,,Function,42,"Government, citizens and rights","Government, citizens and rights",
+49,Data protection and freedom of information,,2013-04-03,2013-04-03,,Function,42,"Government, citizens and rights","Government, citizens and rights",
+50,Democracy,,2013-04-03,2013-04-03,,Function,42,"Government, citizens and rights","Government, citizens and rights",
+146,Democratic services,,2016-09-12,2016-09-12,Added in March 2016 review,Function,50,Democracy,"Government, citizens and rights",Democracy
+147,Elected members,,2016-09-12,2016-09-12,Added in March 2016 review,Function,50,Democracy,"Government, citizens and rights",Democracy
+51,Equality and diversity,,2013-04-03,2013-04-03,,Function,42,"Government, citizens and rights","Government, citizens and rights",
+52,Internal operation,,2013-03-04,2013-04-03,Renamed from 'Municipal operation' in March 2016 review,Function,42,"Government, citizens and rights","Government, citizens and rights",
+114,Corporate management,,2015-03-17,2015-03-17,,Function,52,Internal operation,"Government, citizens and rights",Internal operation
+115,Democratic services,,2015-03-17,2015-03-17,,Function,52,Internal operation,"Government, citizens and rights",Internal operation
+118,Facilities,,2015-03-17,2015-03-17,,Function,52,Internal operation,"Government, citizens and rights",Internal operation
+116,Finance,,2015-03-17,2015-03-17,,Function,52,Internal operation,"Government, citizens and rights",Internal operation
+119,Human resources,,2015-03-17,2015-03-17,,Function,52,Internal operation,"Government, citizens and rights",Internal operation
+120,Information communication technology,,2015-03-17,2015-03-17,,Function,52,Internal operation,"Government, citizens and rights",Internal operation
+117,Legal,,2015-03-17,2015-03-17,,Function,52,Internal operation,"Government, citizens and rights",Internal operation
+53,Policy and performance,,2013-04-03,2013-04-03,,Function,42,"Government, citizens and rights","Government, citizens and rights",
+54,Registration,,2013-04-03,2013-04-03,,Function,42,"Government, citizens and rights","Government, citizens and rights",
+55,Statistics and census information,,2013-04-03,2013-04-03,,Function,42,"Government, citizens and rights","Government, citizens and rights",
+56,Taxation,,2013-04-03,2013-04-03,,Function,42,"Government, citizens and rights","Government, citizens and rights",
+57,Volunteering and voluntary organisations,,2013-04-03,2013-04-03,,Function,42,"Government, citizens and rights","Government, citizens and rights",
+58,Health and social care,,2013-04-03,2013-04-03,,Function,,,,
+59,Adult services,,2013-04-03,2013-04-03,,Function,58,Health and social care,Health and social care,
+148,Adult social care,,2016-09-12,2016-09-12,Added in March 2016 review,Function,59,Adult services,Health and social care,Adult services
+149,Equipment and supporting services,,2016-09-12,2016-09-12,Added in March 2016 review,Function,59,Adult services,Health and social care,Adult services
+150,Help and advice for adults,,2016-09-12,2016-09-12,Added in March 2016 review,Function,59,Adult services,Health and social care,Adult services
+151,Residential care and housing,,2016-09-12,2016-09-12,Added in March 2016 review,Function,59,Adult services,Health and social care,Adult services
+60,"Care homes, supported and sheltered housing",,2013-04-03,2013-04-03,,Function,58,Health and social care,Health and social care,
+61,Carers,,2013-04-03,2013-04-03,,Function,58,Health and social care,Health and social care,
+63,Children and family care,,2013-04-03,2013-04-03,,Function,58,Health and social care,Health and social care,
+152,Children and young people social care,,2016-09-12,2016-09-12,Added in March 2016 review,Function,63,Children and family care,Health and social care,Children and family care
+153,Fostering and adoption,,2016-09-12,2016-09-12,Added in March 2016 review,Function,63,Children and family care,Health and social care,Children and family care
+154,Looked after children,,2016-09-12,2016-09-12,Added in March 2016 review,Function,63,Children and family care,Health and social care,Children and family care
+155,Support for children and young people,,2016-09-12,2016-09-12,Added in March 2016 review,Function,63,Children and family care,Health and social care,Children and family care
+62,Community centres and facilities,,2013-04-03,2013-04-03,,Function,58,Health and social care,Health and social care,
+64,"Doctors, GPs and hospitals",,2013-04-03,2013-04-03,,Function,58,Health and social care,Health and social care,
+65,Public health,,2013-03-04,2013-04-03,Renamed from  'Health and medical advice' in March 2016 review,Function,58,Health and social care,Health and social care,
+66,Housing,,2013-04-03,2013-04-03,,Function,,,,
+67,Council and community housing,,2013-04-03,2013-04-03,,Function,66,Housing,Housing,
+156,Housing allocation,,2016-09-12,2016-09-12,Added in March 2016 review,Function,67,Council and community housing,Housing,Council and community housing
+157,Housing finance,,2016-09-12,2016-09-12,Added in March 2016 review,Function,67,Council and community housing,Housing,Council and community housing
+158,Housing policy,,2016-09-12,2016-09-12,Added in March 2016 review,Function,67,Council and community housing,Housing,Council and community housing
+159,Housing services,,2016-09-12,2016-09-12,Added in March 2016 review,Function,67,Council and community housing,Housing,Council and community housing
+68,Homelessness and prevention,,2013-04-03,2013-04-03,,Function,66,Housing,Housing,
+69,Housing advice,,2013-04-03,2013-04-03,,Function,66,Housing,Housing,
+70,Improvements and repairs,,2013-04-03,2013-04-03,,Function,66,Housing,Housing,
+71,Multiple occupancy homes,,2013-04-03,2013-04-03,,Function,66,Housing,Housing,
+72,Leisure and culture,,2013-04-03,2013-04-03,,Function,,,,
+73,Arts and entertainment,,2013-04-03,2013-04-03,,Function,72,Leisure and culture,Leisure and culture,
+74,Events and exhibitions,,2013-04-03,2013-04-03,,Function,72,Leisure and culture,Leisure and culture,
+75,Leisure activities,,2013-04-03,2013-04-03,,Function,72,Leisure and culture,Leisure and culture,
+76,Libraries,,2013-04-03,2013-04-03,,Function,72,Leisure and culture,Leisure and culture,
+160,Library membership,,2016-09-12,2016-09-12,Added in March 2016 review,Function,76,Libraries,Leisure and culture,Libraries
+161,Reference and research,,2016-09-12,2016-09-12,Added in March 2016 review,Function,76,Libraries,Leisure and culture,Libraries
+162,School and special libraries,,2016-09-12,2016-09-12,Added in March 2016 review,Function,76,Libraries,Leisure and culture,Libraries
+77,Local history and heritage,,2013-04-03,2013-04-03,,Function,72,Leisure and culture,Leisure and culture,
+78,Museums and galleries,,2013-04-03,2013-04-03,,Function,72,Leisure and culture,Leisure and culture,
+79,Religion and culture,,2013-04-03,2013-04-03,,Function,72,Leisure and culture,Leisure and culture,
+80,Sports and sporting venues,,2013-04-03,2013-04-03,,Function,72,Leisure and culture,Leisure and culture,
+81,Tourism,,2013-04-03,2013-04-03,,Function,72,Leisure and culture,Leisure and culture,
+82,"Licences, permits and permissions",,2013-04-03,2013-04-03,,Function,,,,
+83,Alcohol and entertainment,,2013-04-03,2013-04-03,,Function,82,"Licences, permits and permissions","Licences, permits and permissions",
+165,Permissions and consents,,2016-09-12,2016-09-12,Added in March 2016 review,Function,83,Alcohol and entertainment,"Licences, permits and permissions",Alcohol and entertainment
+84,Animals,,2013-04-03,2013-04-03,,Function,82,"Licences, permits and permissions","Licences, permits and permissions",
+85,Building and construction,,2013-04-03,2013-04-03,,Function,82,"Licences, permits and permissions","Licences, permits and permissions",
+86,Businesses and markets,,2013-04-03,2013-04-03,,Function,82,"Licences, permits and permissions","Licences, permits and permissions",
+163,Businesses,,2016-09-12,2016-09-12,Added in March 2016 review,Function,86,Businesses and markets,"Licences, permits and permissions",Businesses and markets
+164,Markets,,2016-09-12,2016-09-12,Added in March 2016 review,Function,86,Businesses and markets,"Licences, permits and permissions",Businesses and markets
+89,Food,,2013-04-03,2013-04-03,,Function,82,"Licences, permits and permissions","Licences, permits and permissions",
+90,Gambling and lottery,,2013-04-03,2013-04-03,,Function,82,"Licences, permits and permissions","Licences, permits and permissions",
+88,Hazardous materials,,2013-04-03,2013-04-03,,Function,82,"Licences, permits and permissions","Licences, permits and permissions",
+87,Social care and education,,2013-04-03,2013-04-03,,Function,82,"Licences, permits and permissions","Licences, permits and permissions",
+91,Transport,,2013-04-03,2013-04-03,,Function,82,"Licences, permits and permissions","Licences, permits and permissions",
+166,Roads and streets,,2016-09-12,2016-09-12,Added in March 2016 review,Function,91,Transport,"Licences, permits and permissions",Transport
+167,Taxi and private hire,,2016-09-12,2016-09-12,Added in March 2016 review,Function,91,Transport,"Licences, permits and permissions",Transport
+92,Utilites,,2013-04-03,2013-04-03,,Function,82,"Licences, permits and permissions","Licences, permits and permissions",
+93,Waste and pollution,,2013-04-03,2013-04-03,,Function,82,"Licences, permits and permissions","Licences, permits and permissions",
+94,Water activities,,2013-04-03,2013-04-03,,Function,82,"Licences, permits and permissions","Licences, permits and permissions",
+95,Marine and waterway services,,2013-04-03,2013-04-03,,Function,,,,
+96,Coastline,,2013-04-03,2013-04-03,,Function,95,Marine and waterway services,Marine and waterway services,
+97,Inland waterways,,2013-04-03,2013-04-03,,Function,95,Marine and waterway services,Marine and waterway services,
+98,Ports and harbours,,2013-04-03,2013-04-03,,Function,95,Marine and waterway services,Marine and waterway services,
+168,Port and harbour facilities,,2016-09-12,2016-09-12,Added in March 2016 review,Function,98,Ports and harbours,Marine and waterway services,Ports and harbours
+169,Port and harbour operations,,2016-09-12,2016-09-12,Added in March 2016 review,Function,98,Ports and harbours,Marine and waterway services,Ports and harbours
+99,Planning and building control,,2013-04-03,2013-04-03,,Function,,,,
+100,Building control,,2013-04-03,2013-04-03,,Function,99,Planning and building control,Planning and building control,
+101,Development control,,2013-04-03,2013-04-03,,Function,99,Planning and building control,Planning and building control,
+102,Heritage and landscape,,2013-04-03,2013-04-03,,Function,99,Planning and building control,Planning and building control,
+103,Planning policy,,2013-04-03,2013-04-03,,Function,99,Planning and building control,Planning and building control,
+170,Planning services,,2016-09-12,2016-09-12,Added in March 2016 review,Function,99,Planning and building control,Planning and building control,
+104,Town centre management,,2013-04-03,2013-04-03,,Function,99,Planning and building control,Planning and building control,
+105,Transport and highways,,2013-04-03,2013-04-03,,Function,,,,
+106,Community transport,,2013-04-03,2013-04-03,,Function,105,Transport and highways,Transport and highways,
+107,Cycling,,2013-04-03,2013-04-03,,Function,105,Transport and highways,Transport and highways,
+108,"Footpaths, byways and bridleways",,2013-04-03,2013-04-03,,Function,105,Transport and highways,Transport and highways,
+171,Highways,,2016-09-12,2016-09-12,Added in March 2016 review,Function,105,Transport and highways,Transport and highways,
+109,Highway maintenance,,2013-04-03,2013-04-03,,Function,171,Highways,Transport and highways,Highways
+172,Highways policy,,2016-09-12,2016-09-12,Added in March 2016 review,Function,171,Highways,Transport and highways,Highways
+173,Road signs and markings,,2016-09-12,2016-09-12,Added in March 2016 review,Function,171,Highways,Transport and highways,Highways
+110,Parking,,2013-04-03,2013-04-03,,Function,105,Transport and highways,Transport and highways,
+111,Public transport,,2013-04-03,2013-04-03,,Function,105,Transport and highways,Transport and highways,
+112,Road safety,,2013-04-03,2013-04-03,,Function,105,Transport and highways,Transport and highways,
+113,Transport schemes,,2013-04-03,2013-04-03,,Function,105,Transport and highways,Transport and highways,

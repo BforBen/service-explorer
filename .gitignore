@@ -57,3 +57,10 @@ typings/
 # dotenv environment variables file
 .env
 
+# Jekyll
+_site
+.sass-cache
+.jekyll-metadata
+
+# Cloud9
+.c9

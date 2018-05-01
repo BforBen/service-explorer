@@ -1,0 +1,737 @@
+Identifier,Label,Description,Created,Modified,History notes,Type,Parent identifiers,Parent labels,Level 1,Level 2,Mapping type,Mapped identifier,Mapped label,Mapped type
+200,Agency and other public bodies,,2016-09-19,2016-09-19,,Organisation type,,,,,,,,
+201,Advisory non-departmental public body,,2016-09-19,2016-09-19,,Organisation type,200,Agency and other public bodies,Agency and other public bodies,,,,,
+202,Executive agency,,2016-09-19,2016-09-19,,Organisation type,200,Agency and other public bodies,Agency and other public bodies,,,,,
+203,Executive non-departmental public body,,2016-09-19,2016-09-19,,Organisation type,200,Agency and other public bodies,Agency and other public bodies,,,,,
+204,Independent monitoring body,,2016-09-19,2016-09-19,,Organisation type,200,Agency and other public bodies,Agency and other public bodies,,,,,
+205,Other agency,,2016-09-19,2016-09-19,,Organisation type,200,Agency and other public bodies,Agency and other public bodies,,,,,
+206,Public corporation,,2016-09-19,2016-09-19,,Organisation type,200,Agency and other public bodies,Agency and other public bodies,,,,,
+207,Tribunal non-departmental public body,,2016-09-19,2016-09-19,,Organisation type,200,Agency and other public bodies,Agency and other public bodies,,,,,
+111,Central Government,,2016-09-19,2016-09-19,,Organisation type,,,,,,,,
+208,Ministerial department,,2016-09-19,2016-09-19,,Organisation type,111,Central Government,Central Government,,,,,
+209,Non-ministerial department,,2016-09-19,2016-09-19,,Organisation type,111,Central Government,Central Government,,,,,
+210,Devolved administration,,2016-09-19,2016-09-19,,Organisation type,,,,,,,,
+56,Education and training organisation,,2016-09-19,2016-09-19,,Organisation type,,,,,,,,
+211,Adult education institution,,2016-09-19,2016-09-19,,Organisation type,56,Education and training organisation,Education and training organisation,,,,,
+58,Further education college,,2016-09-19,2016-09-19,,Organisation type,56,Education and training organisation,Education and training organisation,,,,,
+64,Independent training provider,,2016-09-19,2016-09-19,,Organisation type,56,Education and training organisation,Education and training organisation,,,,,
+57,School,,2016-09-19,2016-09-19,,Organisation type,56,Education and training organisation,Education and training organisation,,,,,
+214,Academy,,2016-09-19,2016-09-19,,Organisation type,57,School,Education and training organisation,School,,,,
+215,City technology college,,2016-09-19,2016-09-19,,Organisation type,57,School,Education and training organisation,School,,,,
+212,Faith school,,2016-09-19,2016-09-19,,Organisation type,57,School,Education and training organisation,School,,,,
+213,Free school,,2016-09-19,2016-09-19,,Organisation type,57,School,Education and training organisation,School,,,,
+63,Private school,,2016-09-19,2016-09-19,,Organisation type,57,School,Education and training organisation,School,,,,
+216,State boarding school,,2016-09-19,2016-09-19,,Organisation type,57,School,Education and training organisation,School,,,,
+59,University,,2016-09-19,2016-09-19,,Organisation type,56,Education and training organisation,Education and training organisation,,,,,
+65,Voluntary sector training provider,,2016-09-19,2016-09-19,,Organisation type,56,Education and training organisation,Education and training organisation,,,,,
+217,Employment organisation,,2016-09-19,2016-09-19,,Organisation type,,,,,,,,
+218,Employers organisation,,2016-09-19,2016-09-19,,Organisation type,217,Employment organisation,Employment organisation,,,,,
+219,Professional association,,2016-09-19,2016-09-19,,Organisation type,217,Employment organisation,Employment organisation,,,,,
+108,Trade association,,2016-09-19,2016-09-19,,Organisation type,217,Employment organisation,Employment organisation,,,,,
+109,Trade union,,2016-09-19,2016-09-19,,Organisation type,217,Employment organisation,Employment organisation,,,,,
+220,Health provider,,2016-09-19,2016-09-19,,Organisation type,,,,,,,,
+5,Acute trust,,2016-09-19,2016-09-19,,Organisation type,220,Health provider,Health provider,,,,,
+9,Ambulance trust,,2016-09-19,2016-09-19,,Organisation type,220,Health provider,Health provider,,,,,
+221,Clinical commissioning group,,2016-09-19,2016-09-19,,Organisation type,220,Health provider,Health provider,,,,,
+222,Foundation trust,,2016-09-19,2016-09-19,,Organisation type,220,Health provider,Health provider,,,,,
+4,Mental health trust,,2016-09-19,2016-09-19,,Organisation type,220,Health provider,Health provider,,,,,
+23,Law and public safety,,2016-09-19,2016-09-19,,Organisation type,,,,,,,,
+24,Police force,,2016-09-19,2016-09-19,,Organisation type,23,Law and public safety,Law and public safety,,,,,
+35,Local  and regional government,,2016-09-19,2016-09-19,,Organisation type,,,,,,,,
+43,Community council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,,,,
+39,County council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,24,Adult education and lifelong learning,Function
+39,County council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,59,Adult services,Function
+39,County council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,148,Adult social care,Function
+39,County council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,134,Alternative education provision,Function
+39,County council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,44,Asylum and immigration,Function
+39,County council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,61,Carers,Function
+39,County council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,63,Children and family care,Function
+39,County council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,152,Children and young people social care,Function
+39,County council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,45,Commercial activities,Function
+39,County council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,46,Communications and publicity,Function
+39,County council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,62,Community centres and facilities,Function
+39,County council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,106,Community transport,Function
+39,County council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,47,Complaints and compliments,Function
+39,County council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,48,Consultations,Function
+39,County council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,114,Corporate management,Function
+39,County council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,138,Curriculum and policy,Function
+39,County council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,107,Cycling,Function
+39,County council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,49,Data protection and freedom of information,Function
+39,County council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,50,Democracy,Function
+39,County council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,115,Democratic services,Function
+39,County council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,146,Democratic services,Function
+39,County council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,25,Early years and childcare,Function
+39,County council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,23,Education and learning,Function
+39,County council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,26,Educational support,Function
+39,County council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,147,Elected members,Function
+39,County council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,149,Equipment and supporting services,Function
+39,County council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,139,Extra-curricular activities,Function
+39,County council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,118,Facilities,Function
+39,County council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,116,Finance,Function
+39,County council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,108,"Footpaths, byways and bridleways",Function
+39,County council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,153,Fostering and adoption,Function
+39,County council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,35,Funerals and cremations,Function
+39,County council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,144,Goods and services,Function
+39,County council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,42,"Government, citizens and rights",Function
+39,County council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,58,Health and social care,Function
+39,County council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,135,Health and welfare at school,Function
+39,County council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,150,Help and advice for adults,Function
+39,County council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,27,Higher education,Function
+39,County council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,109,Highway maintenance,Function
+39,County council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,171,Highways,Function
+39,County council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,172,Highways policy,Function
+39,County council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,119,Human resources,Function
+39,County council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,120,Information communication technology,Function
+39,County council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,52,Internal operation,Function
+39,County council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,117,Legal,Function
+39,County council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,76,Libraries,Function
+39,County council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,160,Library membership,Function
+39,County council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,154,Looked after children,Function
+39,County council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,53,Policy and performance,Function
+39,County council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,145,Procurement,Function
+39,County council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,65,Public health,Function
+39,County council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,136,Pupil development and support,Function
+39,County council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,161,Reference and research,Function
+39,County council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,151,Residential care and housing,Function
+39,County council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,112,Road safety,Function
+39,County council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,173,Road signs and markings,Function
+39,County council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,137,School admissions,Function
+39,County council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,162,School and special libraries,Function
+39,County council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,28,Schools,Function
+39,County council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,29,Special education needs,Function
+39,County council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,55,Statistics and census information,Function
+39,County council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,155,Support for children and young people,Function
+39,County council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,15,Trading standards,Function
+39,County council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,105,Transport and highways,Function
+39,County council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,113,Transport schemes,Function
+39,County council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,22,Youth offending,Function
+38,District council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,1,Advice and benefits,Function
+38,District council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,2,Advice and welfare rights,Function
+38,District council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,83,Alcohol and entertainment,Function
+38,District council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,31,Animal welfare,Function
+38,District council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,84,Animals,Function
+38,District council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,73,Arts and entertainment,Function
+38,District council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,44,Asylum and immigration,Function
+38,District council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,3,Benefits,Function
+38,District council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,85,Building and construction,Function
+38,District council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,100,Building control,Function
+38,District council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,7,Business advice and support,Function
+38,District council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,6,Business and employment,Function
+38,District council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,8,Business grants,Function
+38,District council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,9,Business rates,Function
+38,District council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,163,Businesses,Function
+38,District council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,86,Businesses and markets,Function
+38,District council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,10,Careers and employment,Function
+38,District council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,122,Carer and disability benefits,Function
+38,District council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,96,Coastline,Function
+38,District council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,45,Commercial activities,Function
+38,District council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,11,Commercial property,Function
+38,District council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,140,Commercial waste,Function
+38,District council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,46,Communications and publicity,Function
+38,District council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,62,Community centres and facilities,Function
+38,District council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,126,Community grants,Function
+38,District council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,16,Community safety,Function
+38,District council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,106,Community transport,Function
+38,District council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,47,Complaints and compliments,Function
+38,District council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,32,Conservation and sustainability,Function
+38,District council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,48,Consultations,Function
+38,District council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,114,Corporate management,Function
+38,District council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,67,Council and community housing,Function
+38,District council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,33,Countryside and farming,Function
+38,District council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,107,Cycling,Function
+38,District council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,49,Data protection and freedom of information,Function
+38,District council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,121,Death and benefits,Function
+38,District council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,50,Democracy,Function
+38,District council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,115,Democratic services,Function
+38,District council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,146,Democratic services,Function
+38,District council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,101,Development control,Function
+38,District council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,127,Disabled facilities grants,Function
+38,District council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,147,Elected members,Function
+38,District council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,18,Emergencies,Function
+38,District council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,34,Environmental health,Function
+38,District council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,30,Environmental protection,Function
+38,District council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,74,Events and exhibitions,Function
+38,District council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,118,Facilities,Function
+38,District council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,123,Family benefits,Function
+38,District council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,116,Finance,Function
+38,District council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,131,Fire education and certification,Function
+38,District council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,19,Fire safety,Function
+38,District council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,89,Food,Function
+38,District council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,35,Funerals and cremations,Function
+38,District council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,90,Gambling and lottery,Function
+38,District council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,144,Goods and services,Function
+38,District council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,42,"Government, citizens and rights",Function
+38,District council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,5,Grants and aid,Function
+38,District council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,128,Grants for children and young people,Function
+38,District council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,88,Hazardous materials,Function
+38,District council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,141,Hazardous waste,Function
+38,District council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,12,Health and safety,Function
+38,District council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,124,Heating and housing benefits,Function
+38,District council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,68,Homelessness and prevention,Function
+38,District council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,142,Household waste,Function
+38,District council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,66,Housing,Function
+38,District council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,69,Housing advice,Function
+38,District council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,156,Housing allocation,Function
+38,District council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,157,Housing finance,Function
+38,District council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,129,Housing grants,Function
+38,District council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,158,Housing policy,Function
+38,District council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,159,Housing services,Function
+38,District council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,119,Human resources,Function
+38,District council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,70,Improvements and repairs,Function
+38,District council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,132,Incident response,Function
+38,District council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,120,Information communication technology,Function
+38,District council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,97,Inland waterways,Function
+38,District council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,52,Internal operation,Function
+38,District council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,117,Legal,Function
+38,District council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,75,Leisure activities,Function
+38,District council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,72,Leisure and culture,Function
+38,District council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,82,"Licences, permits and permissions",Function
+38,District council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,77,Local history and heritage,Function
+38,District council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,125,Low income benefits,Function
+38,District council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,95,Marine and waterway services,Function
+38,District council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,164,Markets,Function
+38,District council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,71,Multiple occupancy homes,Function
+38,District council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,78,Museums and galleries,Function
+38,District council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,21,Neighbourhood security,Function
+38,District council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,110,Parking,Function
+38,District council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,36,Parks and open spaces,Function
+38,District council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,165,Permissions and consents,Function
+38,District council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,99,Planning and building control,Function
+38,District council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,103,Planning policy,Function
+38,District council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,170,Planning services,Function
+38,District council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,53,Policy and performance,Function
+38,District council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,37,Pollution control,Function
+38,District council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,168,Port and harbour facilities,Function
+38,District council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,169,Port and harbour operations,Function
+38,District council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,98,Ports and harbours,Function
+38,District council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,145,Procurement,Function
+38,District council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,65,Public health,Function
+38,District council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,133,Public safety,Function
+38,District council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,111,Public transport,Function
+38,District council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,39,Recycling,Function
+38,District council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,13,Regeneration,Function
+38,District council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,79,Religion and culture,Function
+38,District council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,166,Roads and streets,Function
+38,District council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,80,Sports and sporting venues,Function
+38,District council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,55,Statistics and census information,Function
+38,District council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,40,Street care and cleaning,Function
+38,District council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,56,Taxation,Function
+38,District council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,167,Taxi and private hire,Function
+38,District council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,81,Tourism,Function
+38,District council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,91,Transport,Function
+38,District council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,105,Transport and highways,Function
+38,District council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,41,Utilites,Function
+38,District council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,57,Volunteering and voluntary organisations,Function
+38,District council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,93,Waste and pollution,Function
+38,District council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,38,Waste management,Function
+38,District council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,143,Waste policy,Function
+38,District council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,94,Water activities,Function
+53,Fire and rescue authority,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,46,Communications and publicity,Function
+53,Fire and rescue authority,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,47,Complaints and compliments,Function
+53,Fire and rescue authority,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,48,Consultations,Function
+53,Fire and rescue authority,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,114,Corporate management,Function
+53,Fire and rescue authority,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,49,Data protection and freedom of information,Function
+53,Fire and rescue authority,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,118,Facilities,Function
+53,Fire and rescue authority,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,116,Finance,Function
+53,Fire and rescue authority,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,130,Fire attendance,Function
+53,Fire and rescue authority,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,131,Fire education and certification,Function
+53,Fire and rescue authority,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,19,Fire safety,Function
+53,Fire and rescue authority,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,144,Goods and services,Function
+53,Fire and rescue authority,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,42,"Government, citizens and rights",Function
+53,Fire and rescue authority,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,119,Human resources,Function
+53,Fire and rescue authority,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,132,Incident response,Function
+53,Fire and rescue authority,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,120,Information communication technology,Function
+53,Fire and rescue authority,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,52,Internal operation,Function
+53,Fire and rescue authority,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,117,Legal,Function
+53,Fire and rescue authority,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,53,Policy and performance,Function
+53,Fire and rescue authority,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,145,Procurement,Function
+53,Fire and rescue authority,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,133,Public safety,Function
+53,Fire and rescue authority,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,55,Statistics and census information,Function
+224,Combined fire authority,,2016-09-19,2016-09-19,,Organisation type,53,Fire and rescue authority,Local  and regional government,Fire and rescue authority,,,,
+223,County fire authority,,2016-09-19,2016-09-19,,Organisation type,53,Fire and rescue authority,Local  and regional government,Fire and rescue authority,,,,
+42,London borough council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,24,Adult education and lifelong learning,Function
+42,London borough council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,59,Adult services,Function
+42,London borough council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,148,Adult social care,Function
+42,London borough council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,1,Advice and benefits,Function
+42,London borough council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,2,Advice and welfare rights,Function
+42,London borough council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,83,Alcohol and entertainment,Function
+42,London borough council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,134,Alternative education provision,Function
+42,London borough council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,31,Animal welfare,Function
+42,London borough council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,84,Animals,Function
+42,London borough council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,73,Arts and entertainment,Function
+42,London borough council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,44,Asylum and immigration,Function
+42,London borough council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,3,Benefits,Function
+42,London borough council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,85,Building and construction,Function
+42,London borough council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,100,Building control,Function
+42,London borough council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,7,Business advice and support,Function
+42,London borough council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,6,Business and employment,Function
+42,London borough council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,8,Business grants,Function
+42,London borough council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,9,Business rates,Function
+42,London borough council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,163,Businesses,Function
+42,London borough council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,86,Businesses and markets,Function
+42,London borough council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,10,Careers and employment,Function
+42,London borough council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,122,Carer and disability benefits,Function
+42,London borough council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,61,Carers,Function
+42,London borough council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,63,Children and family care,Function
+42,London borough council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,152,Children and young people social care,Function
+42,London borough council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,96,Coastline,Function
+42,London borough council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,45,Commercial activities,Function
+42,London borough council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,11,Commercial property,Function
+42,London borough council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,140,Commercial waste,Function
+42,London borough council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,46,Communications and publicity,Function
+42,London borough council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,62,Community centres and facilities,Function
+42,London borough council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,126,Community grants,Function
+42,London borough council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,16,Community safety,Function
+42,London borough council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,106,Community transport,Function
+42,London borough council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,47,Complaints and compliments,Function
+42,London borough council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,32,Conservation and sustainability,Function
+42,London borough council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,48,Consultations,Function
+42,London borough council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,114,Corporate management,Function
+42,London borough council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,67,Council and community housing,Function
+42,London borough council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,33,Countryside and farming,Function
+42,London borough council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,138,Curriculum and policy,Function
+42,London borough council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,107,Cycling,Function
+42,London borough council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,49,Data protection and freedom of information,Function
+42,London borough council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,121,Death and benefits,Function
+42,London borough council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,50,Democracy,Function
+42,London borough council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,115,Democratic services,Function
+42,London borough council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,146,Democratic services,Function
+42,London borough council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,101,Development control,Function
+42,London borough council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,127,Disabled facilities grants,Function
+42,London borough council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,25,Early years and childcare,Function
+42,London borough council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,23,Education and learning,Function
+42,London borough council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,26,Educational support,Function
+42,London borough council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,147,Elected members,Function
+42,London borough council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,18,Emergencies,Function
+42,London borough council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,34,Environmental health,Function
+42,London borough council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,30,Environmental protection,Function
+42,London borough council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,149,Equipment and supporting services,Function
+42,London borough council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,74,Events and exhibitions,Function
+42,London borough council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,139,Extra-curricular activities,Function
+42,London borough council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,118,Facilities,Function
+42,London borough council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,123,Family benefits,Function
+42,London borough council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,116,Finance,Function
+42,London borough council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,89,Food,Function
+42,London borough council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,108,"Footpaths, byways and bridleways",Function
+42,London borough council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,153,Fostering and adoption,Function
+42,London borough council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,35,Funerals and cremations,Function
+42,London borough council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,90,Gambling and lottery,Function
+42,London borough council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,144,Goods and services,Function
+42,London borough council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,42,"Government, citizens and rights",Function
+42,London borough council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,5,Grants and aid,Function
+42,London borough council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,128,Grants for children and young people,Function
+42,London borough council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,88,Hazardous materials,Function
+42,London borough council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,141,Hazardous waste,Function
+42,London borough council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,12,Health and safety,Function
+42,London borough council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,58,Health and social care,Function
+42,London borough council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,135,Health and welfare at school,Function
+42,London borough council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,124,Heating and housing benefits,Function
+42,London borough council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,150,Help and advice for adults,Function
+42,London borough council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,27,Higher education,Function
+42,London borough council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,109,Highway maintenance,Function
+42,London borough council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,171,Highways,Function
+42,London borough council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,172,Highways policy,Function
+42,London borough council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,68,Homelessness and prevention,Function
+42,London borough council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,142,Household waste,Function
+42,London borough council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,66,Housing,Function
+42,London borough council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,69,Housing advice,Function
+42,London borough council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,156,Housing allocation,Function
+42,London borough council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,157,Housing finance,Function
+42,London borough council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,129,Housing grants,Function
+42,London borough council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,158,Housing policy,Function
+42,London borough council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,159,Housing services,Function
+42,London borough council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,119,Human resources,Function
+42,London borough council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,70,Improvements and repairs,Function
+42,London borough council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,132,Incident response,Function
+42,London borough council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,120,Information communication technology,Function
+42,London borough council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,97,Inland waterways,Function
+42,London borough council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,52,Internal operation,Function
+42,London borough council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,117,Legal,Function
+42,London borough council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,75,Leisure activities,Function
+42,London borough council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,72,Leisure and culture,Function
+42,London borough council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,76,Libraries,Function
+42,London borough council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,160,Library membership,Function
+42,London borough council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,82,"Licences, permits and permissions",Function
+42,London borough council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,77,Local history and heritage,Function
+42,London borough council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,154,Looked after children,Function
+42,London borough council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,125,Low income benefits,Function
+42,London borough council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,95,Marine and waterway services,Function
+42,London borough council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,164,Markets,Function
+42,London borough council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,71,Multiple occupancy homes,Function
+42,London borough council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,78,Museums and galleries,Function
+42,London borough council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,21,Neighbourhood security,Function
+42,London borough council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,110,Parking,Function
+42,London borough council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,36,Parks and open spaces,Function
+42,London borough council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,165,Permissions and consents,Function
+42,London borough council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,99,Planning and building control,Function
+42,London borough council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,103,Planning policy,Function
+42,London borough council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,170,Planning services,Function
+42,London borough council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,53,Policy and performance,Function
+42,London borough council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,37,Pollution control,Function
+42,London borough council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,145,Procurement,Function
+42,London borough council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,133,Public safety,Function
+42,London borough council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,111,Public transport,Function
+42,London borough council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,136,Pupil development and support,Function
+42,London borough council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,39,Recycling,Function
+42,London borough council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,161,Reference and research,Function
+42,London borough council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,13,Regeneration,Function
+42,London borough council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,54,Registration,Function
+42,London borough council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,79,Religion and culture,Function
+42,London borough council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,151,Residential care and housing,Function
+42,London borough council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,112,Road safety,Function
+42,London borough council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,173,Road signs and markings,Function
+42,London borough council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,166,Roads and streets,Function
+42,London borough council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,137,School admissions,Function
+42,London borough council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,162,School and special libraries,Function
+42,London borough council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,28,Schools,Function
+42,London borough council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,29,Special education needs,Function
+42,London borough council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,80,Sports and sporting venues,Function
+42,London borough council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,55,Statistics and census information,Function
+42,London borough council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,40,Street care and cleaning,Function
+42,London borough council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,155,Support for children and young people,Function
+42,London borough council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,56,Taxation,Function
+42,London borough council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,167,Taxi and private hire,Function
+42,London borough council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,81,Tourism,Function
+42,London borough council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,15,Trading standards,Function
+42,London borough council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,91,Transport,Function
+42,London borough council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,105,Transport and highways,Function
+42,London borough council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,113,Transport schemes,Function
+42,London borough council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,41,Utilites,Function
+42,London borough council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,57,Volunteering and voluntary organisations,Function
+42,London borough council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,93,Waste and pollution,Function
+42,London borough council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,38,Waste management,Function
+42,London borough council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,143,Waste policy,Function
+42,London borough council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,94,Water activities,Function
+42,London borough council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,22,Youth offending,Function
+41,Metropolitan borough council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,24,Adult education and lifelong learning,Function
+41,Metropolitan borough council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,59,Adult services,Function
+41,Metropolitan borough council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,148,Adult social care,Function
+41,Metropolitan borough council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,1,Advice and benefits,Function
+41,Metropolitan borough council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,2,Advice and welfare rights,Function
+41,Metropolitan borough council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,83,Alcohol and entertainment,Function
+41,Metropolitan borough council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,134,Alternative education provision,Function
+41,Metropolitan borough council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,31,Animal welfare,Function
+41,Metropolitan borough council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,84,Animals,Function
+41,Metropolitan borough council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,73,Arts and entertainment,Function
+41,Metropolitan borough council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,44,Asylum and immigration,Function
+41,Metropolitan borough council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,3,Benefits,Function
+41,Metropolitan borough council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,85,Building and construction,Function
+41,Metropolitan borough council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,100,Building control,Function
+41,Metropolitan borough council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,7,Business advice and support,Function
+41,Metropolitan borough council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,6,Business and employment,Function
+41,Metropolitan borough council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,8,Business grants,Function
+41,Metropolitan borough council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,9,Business rates,Function
+41,Metropolitan borough council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,163,Businesses,Function
+41,Metropolitan borough council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,86,Businesses and markets,Function
+41,Metropolitan borough council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,10,Careers and employment,Function
+41,Metropolitan borough council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,122,Carer and disability benefits,Function
+41,Metropolitan borough council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,61,Carers,Function
+41,Metropolitan borough council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,63,Children and family care,Function
+41,Metropolitan borough council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,152,Children and young people social care,Function
+41,Metropolitan borough council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,96,Coastline,Function
+41,Metropolitan borough council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,45,Commercial activities,Function
+41,Metropolitan borough council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,11,Commercial property,Function
+41,Metropolitan borough council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,140,Commercial waste,Function
+41,Metropolitan borough council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,46,Communications and publicity,Function
+41,Metropolitan borough council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,62,Community centres and facilities,Function
+41,Metropolitan borough council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,126,Community grants,Function
+41,Metropolitan borough council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,16,Community safety,Function
+41,Metropolitan borough council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,106,Community transport,Function
+41,Metropolitan borough council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,47,Complaints and compliments,Function
+41,Metropolitan borough council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,32,Conservation and sustainability,Function
+41,Metropolitan borough council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,48,Consultations,Function
+41,Metropolitan borough council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,114,Corporate management,Function
+41,Metropolitan borough council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,67,Council and community housing,Function
+41,Metropolitan borough council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,33,Countryside and farming,Function
+41,Metropolitan borough council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,138,Curriculum and policy,Function
+41,Metropolitan borough council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,107,Cycling,Function
+41,Metropolitan borough council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,49,Data protection and freedom of information,Function
+41,Metropolitan borough council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,121,Death and benefits,Function
+41,Metropolitan borough council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,50,Democracy,Function
+41,Metropolitan borough council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,115,Democratic services,Function
+41,Metropolitan borough council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,146,Democratic services,Function
+41,Metropolitan borough council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,101,Development control,Function
+41,Metropolitan borough council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,127,Disabled facilities grants,Function
+41,Metropolitan borough council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,25,Early years and childcare,Function
+41,Metropolitan borough council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,23,Education and learning,Function
+41,Metropolitan borough council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,26,Educational support,Function
+41,Metropolitan borough council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,147,Elected members,Function
+41,Metropolitan borough council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,18,Emergencies,Function
+41,Metropolitan borough council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,34,Environmental health,Function
+41,Metropolitan borough council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,30,Environmental protection,Function
+41,Metropolitan borough council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,149,Equipment and supporting services,Function
+41,Metropolitan borough council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,74,Events and exhibitions,Function
+41,Metropolitan borough council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,139,Extra-curricular activities,Function
+41,Metropolitan borough council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,118,Facilities,Function
+41,Metropolitan borough council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,123,Family benefits,Function
+41,Metropolitan borough council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,116,Finance,Function
+41,Metropolitan borough council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,89,Food,Function
+41,Metropolitan borough council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,108,"Footpaths, byways and bridleways",Function
+41,Metropolitan borough council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,153,Fostering and adoption,Function
+41,Metropolitan borough council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,35,Funerals and cremations,Function
+41,Metropolitan borough council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,90,Gambling and lottery,Function
+41,Metropolitan borough council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,144,Goods and services,Function
+41,Metropolitan borough council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,42,"Government, citizens and rights",Function
+41,Metropolitan borough council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,5,Grants and aid,Function
+41,Metropolitan borough council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,128,Grants for children and young people,Function
+41,Metropolitan borough council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,88,Hazardous materials,Function
+41,Metropolitan borough council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,141,Hazardous waste,Function
+41,Metropolitan borough council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,12,Health and safety,Function
+41,Metropolitan borough council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,58,Health and social care,Function
+41,Metropolitan borough council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,135,Health and welfare at school,Function
+41,Metropolitan borough council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,124,Heating and housing benefits,Function
+41,Metropolitan borough council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,150,Help and advice for adults,Function
+41,Metropolitan borough council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,27,Higher education,Function
+41,Metropolitan borough council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,109,Highway maintenance,Function
+41,Metropolitan borough council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,171,Highways,Function
+41,Metropolitan borough council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,172,Highways policy,Function
+41,Metropolitan borough council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,68,Homelessness and prevention,Function
+41,Metropolitan borough council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,142,Household waste,Function
+41,Metropolitan borough council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,66,Housing,Function
+41,Metropolitan borough council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,69,Housing advice,Function
+41,Metropolitan borough council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,156,Housing allocation,Function
+41,Metropolitan borough council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,157,Housing finance,Function
+41,Metropolitan borough council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,129,Housing grants,Function
+41,Metropolitan borough council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,158,Housing policy,Function
+41,Metropolitan borough council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,159,Housing services,Function
+41,Metropolitan borough council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,119,Human resources,Function
+41,Metropolitan borough council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,70,Improvements and repairs,Function
+41,Metropolitan borough council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,132,Incident response,Function
+41,Metropolitan borough council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,120,Information communication technology,Function
+41,Metropolitan borough council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,97,Inland waterways,Function
+41,Metropolitan borough council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,52,Internal operation,Function
+41,Metropolitan borough council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,117,Legal,Function
+41,Metropolitan borough council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,75,Leisure activities,Function
+41,Metropolitan borough council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,72,Leisure and culture,Function
+41,Metropolitan borough council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,76,Libraries,Function
+41,Metropolitan borough council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,160,Library membership,Function
+41,Metropolitan borough council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,82,"Licences, permits and permissions",Function
+41,Metropolitan borough council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,77,Local history and heritage,Function
+41,Metropolitan borough council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,154,Looked after children,Function
+41,Metropolitan borough council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,125,Low income benefits,Function
+41,Metropolitan borough council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,95,Marine and waterway services,Function
+41,Metropolitan borough council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,164,Markets,Function
+41,Metropolitan borough council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,71,Multiple occupancy homes,Function
+41,Metropolitan borough council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,78,Museums and galleries,Function
+41,Metropolitan borough council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,21,Neighbourhood security,Function
+41,Metropolitan borough council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,110,Parking,Function
+41,Metropolitan borough council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,36,Parks and open spaces,Function
+41,Metropolitan borough council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,165,Permissions and consents,Function
+41,Metropolitan borough council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,99,Planning and building control,Function
+41,Metropolitan borough council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,103,Planning policy,Function
+41,Metropolitan borough council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,170,Planning services,Function
+41,Metropolitan borough council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,53,Policy and performance,Function
+41,Metropolitan borough council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,37,Pollution control,Function
+41,Metropolitan borough council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,145,Procurement,Function
+41,Metropolitan borough council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,133,Public safety,Function
+41,Metropolitan borough council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,111,Public transport,Function
+41,Metropolitan borough council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,136,Pupil development and support,Function
+41,Metropolitan borough council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,39,Recycling,Function
+41,Metropolitan borough council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,161,Reference and research,Function
+41,Metropolitan borough council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,13,Regeneration,Function
+41,Metropolitan borough council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,54,Registration,Function
+41,Metropolitan borough council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,79,Religion and culture,Function
+41,Metropolitan borough council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,151,Residential care and housing,Function
+41,Metropolitan borough council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,112,Road safety,Function
+41,Metropolitan borough council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,173,Road signs and markings,Function
+41,Metropolitan borough council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,166,Roads and streets,Function
+41,Metropolitan borough council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,137,School admissions,Function
+41,Metropolitan borough council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,162,School and special libraries,Function
+41,Metropolitan borough council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,28,Schools,Function
+41,Metropolitan borough council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,29,Special education needs,Function
+41,Metropolitan borough council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,80,Sports and sporting venues,Function
+41,Metropolitan borough council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,55,Statistics and census information,Function
+41,Metropolitan borough council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,40,Street care and cleaning,Function
+41,Metropolitan borough council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,155,Support for children and young people,Function
+41,Metropolitan borough council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,56,Taxation,Function
+41,Metropolitan borough council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,167,Taxi and private hire,Function
+41,Metropolitan borough council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,81,Tourism,Function
+41,Metropolitan borough council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,15,Trading standards,Function
+41,Metropolitan borough council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,91,Transport,Function
+41,Metropolitan borough council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,105,Transport and highways,Function
+41,Metropolitan borough council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,113,Transport schemes,Function
+41,Metropolitan borough council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,41,Utilites,Function
+41,Metropolitan borough council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,57,Volunteering and voluntary organisations,Function
+41,Metropolitan borough council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,93,Waste and pollution,Function
+41,Metropolitan borough council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,38,Waste management,Function
+41,Metropolitan borough council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,143,Waste policy,Function
+41,Metropolitan borough council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,94,Water activities,Function
+41,Metropolitan borough council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,22,Youth offending,Function
+55,National park,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,,,,
+37,Parish council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,,,,
+86,Passenger transport authority,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,,,,
+91,Port authority,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,,,,
+36,Town council,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,,,,
+40,Unitary authority,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,24,Adult education and lifelong learning,Function
+40,Unitary authority,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,59,Adult services,Function
+40,Unitary authority,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,148,Adult social care,Function
+40,Unitary authority,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,1,Advice and benefits,Function
+40,Unitary authority,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,2,Advice and welfare rights,Function
+40,Unitary authority,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,83,Alcohol and entertainment,Function
+40,Unitary authority,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,134,Alternative education provision,Function
+40,Unitary authority,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,31,Animal welfare,Function
+40,Unitary authority,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,84,Animals,Function
+40,Unitary authority,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,73,Arts and entertainment,Function
+40,Unitary authority,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,44,Asylum and immigration,Function
+40,Unitary authority,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,3,Benefits,Function
+40,Unitary authority,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,85,Building and construction,Function
+40,Unitary authority,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,100,Building control,Function
+40,Unitary authority,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,7,Business advice and support,Function
+40,Unitary authority,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,6,Business and employment,Function
+40,Unitary authority,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,8,Business grants,Function
+40,Unitary authority,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,9,Business rates,Function
+40,Unitary authority,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,163,Businesses,Function
+40,Unitary authority,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,86,Businesses and markets,Function
+40,Unitary authority,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,10,Careers and employment,Function
+40,Unitary authority,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,122,Carer and disability benefits,Function
+40,Unitary authority,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,61,Carers,Function
+40,Unitary authority,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,63,Children and family care,Function
+40,Unitary authority,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,152,Children and young people social care,Function
+40,Unitary authority,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,96,Coastline,Function
+40,Unitary authority,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,45,Commercial activities,Function
+40,Unitary authority,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,11,Commercial property,Function
+40,Unitary authority,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,140,Commercial waste,Function
+40,Unitary authority,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,46,Communications and publicity,Function
+40,Unitary authority,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,62,Community centres and facilities,Function
+40,Unitary authority,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,126,Community grants,Function
+40,Unitary authority,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,16,Community safety,Function
+40,Unitary authority,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,106,Community transport,Function
+40,Unitary authority,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,47,Complaints and compliments,Function
+40,Unitary authority,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,32,Conservation and sustainability,Function
+40,Unitary authority,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,48,Consultations,Function
+40,Unitary authority,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,114,Corporate management,Function
+40,Unitary authority,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,67,Council and community housing,Function
+40,Unitary authority,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,33,Countryside and farming,Function
+40,Unitary authority,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,138,Curriculum and policy,Function
+40,Unitary authority,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,107,Cycling,Function
+40,Unitary authority,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,49,Data protection and freedom of information,Function
+40,Unitary authority,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,121,Death and benefits,Function
+40,Unitary authority,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,50,Democracy,Function
+40,Unitary authority,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,146,Democratic services,Function
+40,Unitary authority,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,115,Democratic services,Function
+40,Unitary authority,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,101,Development control,Function
+40,Unitary authority,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,127,Disabled facilities grants,Function
+40,Unitary authority,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,25,Early years and childcare,Function
+40,Unitary authority,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,23,Education and learning,Function
+40,Unitary authority,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,26,Educational support,Function
+40,Unitary authority,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,147,Elected members,Function
+40,Unitary authority,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,18,Emergencies,Function
+40,Unitary authority,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,34,Environmental health,Function
+40,Unitary authority,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,30,Environmental protection,Function
+40,Unitary authority,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,149,Equipment and supporting services,Function
+40,Unitary authority,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,74,Events and exhibitions,Function
+40,Unitary authority,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,139,Extra-curricular activities,Function
+40,Unitary authority,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,118,Facilities,Function
+40,Unitary authority,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,123,Family benefits,Function
+40,Unitary authority,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,116,Finance,Function
+40,Unitary authority,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,89,Food,Function
+40,Unitary authority,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,108,"Footpaths, byways and bridleways",Function
+40,Unitary authority,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,153,Fostering and adoption,Function
+40,Unitary authority,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,35,Funerals and cremations,Function
+40,Unitary authority,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,90,Gambling and lottery,Function
+40,Unitary authority,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,144,Goods and services,Function
+40,Unitary authority,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,42,"Government, citizens and rights",Function
+40,Unitary authority,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,5,Grants and aid,Function
+40,Unitary authority,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,128,Grants for children and young people,Function
+40,Unitary authority,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,88,Hazardous materials,Function
+40,Unitary authority,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,141,Hazardous waste,Function
+40,Unitary authority,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,12,Health and safety,Function
+40,Unitary authority,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,58,Health and social care,Function
+40,Unitary authority,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,135,Health and welfare at school,Function
+40,Unitary authority,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,124,Heating and housing benefits,Function
+40,Unitary authority,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,150,Help and advice for adults,Function
+40,Unitary authority,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,27,Higher education,Function
+40,Unitary authority,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,109,Highway maintenance,Function
+40,Unitary authority,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,171,Highways,Function
+40,Unitary authority,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,172,Highways policy,Function
+40,Unitary authority,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,68,Homelessness and prevention,Function
+40,Unitary authority,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,142,Household waste,Function
+40,Unitary authority,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,66,Housing,Function
+40,Unitary authority,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,69,Housing advice,Function
+40,Unitary authority,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,156,Housing allocation,Function
+40,Unitary authority,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,157,Housing finance,Function
+40,Unitary authority,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,129,Housing grants,Function
+40,Unitary authority,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,158,Housing policy,Function
+40,Unitary authority,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,159,Housing services,Function
+40,Unitary authority,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,119,Human resources,Function
+40,Unitary authority,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,70,Improvements and repairs,Function
+40,Unitary authority,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,132,Incident response,Function
+40,Unitary authority,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,120,Information communication technology,Function
+40,Unitary authority,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,97,Inland waterways,Function
+40,Unitary authority,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,52,Internal operation,Function
+40,Unitary authority,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,117,Legal,Function
+40,Unitary authority,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,75,Leisure activities,Function
+40,Unitary authority,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,72,Leisure and culture,Function
+40,Unitary authority,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,76,Libraries,Function
+40,Unitary authority,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,160,Library membership,Function
+40,Unitary authority,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,82,"Licences, permits and permissions",Function
+40,Unitary authority,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,77,Local history and heritage,Function
+40,Unitary authority,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,154,Looked after children,Function
+40,Unitary authority,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,125,Low income benefits,Function
+40,Unitary authority,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,95,Marine and waterway services,Function
+40,Unitary authority,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,164,Markets,Function
+40,Unitary authority,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,71,Multiple occupancy homes,Function
+40,Unitary authority,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,78,Museums and galleries,Function
+40,Unitary authority,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,21,Neighbourhood security,Function
+40,Unitary authority,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,110,Parking,Function
+40,Unitary authority,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,36,Parks and open spaces,Function
+40,Unitary authority,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,165,Permissions and consents,Function
+40,Unitary authority,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,99,Planning and building control,Function
+40,Unitary authority,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,103,Planning policy,Function
+40,Unitary authority,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,170,Planning services,Function
+40,Unitary authority,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,53,Policy and performance,Function
+40,Unitary authority,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,37,Pollution control,Function
+40,Unitary authority,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,145,Procurement,Function
+40,Unitary authority,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,65,Public health,Function
+40,Unitary authority,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,133,Public safety,Function
+40,Unitary authority,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,111,Public transport,Function
+40,Unitary authority,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,136,Pupil development and support,Function
+40,Unitary authority,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,39,Recycling,Function
+40,Unitary authority,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,161,Reference and research,Function
+40,Unitary authority,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,13,Regeneration,Function
+40,Unitary authority,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,54,Registration,Function
+40,Unitary authority,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,79,Religion and culture,Function
+40,Unitary authority,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,151,Residential care and housing,Function
+40,Unitary authority,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,112,Road safety,Function
+40,Unitary authority,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,173,Road signs and markings,Function
+40,Unitary authority,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,166,Roads and streets,Function
+40,Unitary authority,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,137,School admissions,Function
+40,Unitary authority,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,162,School and special libraries,Function
+40,Unitary authority,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,28,Schools,Function
+40,Unitary authority,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,29,Special education needs,Function
+40,Unitary authority,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,80,Sports and sporting venues,Function
+40,Unitary authority,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,55,Statistics and census information,Function
+40,Unitary authority,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,40,Street care and cleaning,Function
+40,Unitary authority,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,155,Support for children and young people,Function
+40,Unitary authority,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,56,Taxation,Function
+40,Unitary authority,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,167,Taxi and private hire,Function
+40,Unitary authority,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,81,Tourism,Function
+40,Unitary authority,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,15,Trading standards,Function
+40,Unitary authority,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,91,Transport,Function
+40,Unitary authority,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,105,Transport and highways,Function
+40,Unitary authority,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,113,Transport schemes,Function
+40,Unitary authority,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,41,Utilites,Function
+40,Unitary authority,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,57,Volunteering and voluntary organisations,Function
+40,Unitary authority,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,93,Waste and pollution,Function
+40,Unitary authority,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,38,Waste management,Function
+40,Unitary authority,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,143,Waste policy,Function
+40,Unitary authority,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,94,Water activities,Function
+40,Unitary authority,,2016-09-19,2016-09-19,,Organisation type,35,Local  and regional government,Local  and regional government,,performs,22,Youth offending,Function
+11,Waste disposal authority,,2016-09-19,2016-09-19,,Organisation type,40,Unitary authority,Local  and regional government,Unitary authority,,,,
+83,Private sector business,,2016-09-19,2016-09-19,,Organisation type,,,,,,,,
+225,Franchise,,2016-09-19,2016-09-19,,Organisation type,83,Private sector business,Private sector business,,,,,
+226,Private limited company,,2016-09-19,2016-09-19,,Organisation type,83,Private sector business,Private sector business,,,,,
+227,Public company,,2016-09-19,2016-09-19,,Organisation type,83,Private sector business,Private sector business,,,,,
+228,Small and medium-sized enterprise (SME),,2016-09-19,2016-09-19,,Organisation type,83,Private sector business,Private sector business,,,,,
+90,Utility,,2016-09-19,2016-09-19,,Organisation type,83,Private sector business,Private sector business,,,,,
+71,Voluntary and charity sector,,2016-09-19,2016-09-19,,Organisation type,,,,,,,,
+229,Charity,,2016-09-19,2016-09-19,,Organisation type,71,Voluntary and charity sector,Voluntary and charity sector,,,,,
+95,Community group,,2016-09-19,2016-09-19,,Organisation type,71,Voluntary and charity sector,Voluntary and charity sector,,,,,
+230,Community interest company,,2016-09-19,2016-09-19,,Organisation type,71,Voluntary and charity sector,Voluntary and charity sector,,,,,
+231,Co-operative,,2016-09-19,2016-09-19,,Organisation type,71,Voluntary and charity sector,Voluntary and charity sector,,,,,
+98,Faith group,,2016-09-19,2016-09-19,,Organisation type,71,Voluntary and charity sector,Voluntary and charity sector,,,,,
+104,Housing association,,2016-09-19,2016-09-19,,Organisation type,71,Voluntary and charity sector,Voluntary and charity sector,,,,,
+97,Tenants and residents association,,2016-09-19,2016-09-19,,Organisation type,71,Voluntary and charity sector,Voluntary and charity sector,,,,,
+232,Trust,,2016-09-19,2016-09-19,,Organisation type,71,Voluntary and charity sector,Voluntary and charity sector,,,,,
+233,Unincorporated association,,2016-09-19,2016-09-19,,Organisation type,71,Voluntary and charity sector,Voluntary and charity sector,,,,,
+234,Voluntary organisation,,2016-09-19,2016-09-19,,Organisation type,71,Voluntary and charity sector,Voluntary and charity sector,,,,,

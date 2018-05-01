@@ -1,0 +1,132 @@
+Identifier,Label,Description,Created,Modified,History notes,Type,Mapping type,Mapped identifier,Mapped label,Mapped type
+1,Becoming a carer,,2013-04-03,2013-04-03,,Life event,determines,225,Adult carers,Service
+1,Becoming a carer,,2013-04-03,2013-04-03,,Life event,determines,162,Advocacy for carers,Service
+1,Becoming a carer,,2013-04-03,2013-04-03,,Life event,determines,1283,Care ambassadors,Service
+1,Becoming a carer,,2013-04-03,2013-04-03,,Life event,determines,298,Carers support groups,Service
+1,Becoming a carer,,2013-04-03,2013-04-03,,Life event,determines,227,Respite care for adults,Service
+1,Becoming a carer,,2013-04-03,2013-04-03,,Life event,determines,229,Shared care for adults,Service
+1,Becoming a carer,,2013-04-03,2013-04-03,,Life event,determines,300,Young carers support,Service
+2,Becoming a parent,,2013-04-03,2013-04-03,,Life event,determines,160,Adoption,Service
+2,Becoming a parent,,2013-04-03,2013-04-03,,Life event,determines,320,Birth - re-registering,Service
+2,Becoming a parent,,2013-04-03,2013-04-03,,Life event,determines,319,Birth registration,Service
+2,Becoming a parent,,2013-04-03,2013-04-03,,Life event,determines,20,Childminding,Service
+2,Becoming a parent,,2013-04-03,2013-04-03,,Life event,determines,663,Copy certificates,Service
+2,Becoming a parent,,2013-04-03,2013-04-03,,Life event,determines,159,Fostering,Service
+2,Becoming a parent,,2013-04-03,2013-04-03,,Life event,determines,927,Midwifery and maternity services,Service
+2,Becoming a parent,,2013-04-03,2013-04-03,,Life event,determines,925,Registration of responsibilities for children,Service
+2,Becoming a parent,,2013-04-03,2013-04-03,,Life event,determines,1586,Roads - child play areas,Service
+3,Becoming a victim of crime,,2013-04-03,2013-04-03,,Life event,determines,1600,Alarm notification area,Service
+3,Becoming a victim of crime,,2013-04-03,2013-04-03,,Life event,determines,657,Alley gating,Service
+3,Becoming a victim of crime,,2013-04-03,2013-04-03,,Life event,determines,870,Community safety,Service
+3,Becoming a victim of crime,,2013-04-03,2013-04-03,,Life event,determines,1044,Community wardens,Service
+3,Becoming a victim of crime,,2013-04-03,2013-04-03,,Life event,determines,947,Crime prevention,Service
+3,Becoming a victim of crime,,2013-04-03,2013-04-03,,Life event,determines,937,Home security assessment,Service
+3,Becoming a victim of crime,,2013-04-03,2013-04-03,,Life event,determines,97,Housing crime support,Service
+3,Becoming a victim of crime,,2013-04-03,2013-04-03,,Life event,determines,99,Housing estate safety,Service
+3,Becoming a victim of crime,,2013-04-03,2013-04-03,,Life event,determines,930,Neighbourhood watch,Service
+4,Becoming disabled,,2013-04-03,2013-04-03,,Life event,determines,1466,Accessibility - local facilities,Service
+4,Becoming disabled,,2013-04-03,2013-04-03,,Life event,determines,209,Care needs assessment,Service
+4,Becoming disabled,,2013-04-03,2013-04-03,,Life event,determines,221,Disabled and older people - rail card,Service
+4,Becoming disabled,,2013-04-03,2013-04-03,,Life event,determines,137,Disabled facilities grant,Service
+4,Becoming disabled,,2013-04-03,2013-04-03,,Life event,determines,280,Disabled people - bus passes,Service
+4,Becoming disabled,,2013-04-03,2013-04-03,,Life event,determines,239,Disabled people - employment and training schemes,Service
+4,Becoming disabled,,2013-04-03,2013-04-03,,Life event,determines,130,Disabled people - home adaptations,Service
+4,Becoming disabled,,2013-04-03,2013-04-03,,Life event,determines,178,Disabled people - home adaptations and aids,Service
+4,Becoming disabled,,2013-04-03,2013-04-03,,Life event,determines,276,Disabled people - Motability scheme,Service
+4,Becoming disabled,,2013-04-03,2013-04-03,,Life event,determines,274,Disabled people - parking bays,Service
+4,Becoming disabled,,2013-04-03,2013-04-03,,Life event,determines,279,Disabled people - parking permits,Service
+4,Becoming disabled,,2013-04-03,2013-04-03,,Life event,determines,275,Disabled people - taxi card,Service
+4,Becoming disabled,,2013-04-03,2013-04-03,,Life event,determines,11,Education - grants - disabled students allowance,Service
+4,Becoming disabled,,2013-04-03,2013-04-03,,Life event,determines,854,Household waste assisted collection,Service
+4,Becoming disabled,,2013-04-03,2013-04-03,,Life event,determines,204,Independence support for disabled people,Service
+4,Becoming disabled,,2013-04-03,2013-04-03,,Life event,determines,1615,Public toilets - RADAR keys ,Service
+4,Becoming disabled,,2013-04-03,2013-04-03,,Life event,determines,205,Specialist equipment for disabled people,Service
+5,Becoming unemployed,,2013-04-03,2013-04-03,,Life event,determines,190,Benefits advice and assessment,Service
+5,Becoming unemployed,,2013-04-03,2013-04-03,,Life event,determines,63,Council tax benefit new claim,Service
+5,Becoming unemployed,,2013-04-03,2013-04-03,,Life event,determines,651,Debt counselling,Service
+5,Becoming unemployed,,2013-04-03,2013-04-03,,Life event,determines,299,Disabled people - employment advice,Service
+5,Becoming unemployed,,2013-04-03,2013-04-03,,Life event,determines,343,Employment and training initiatives,Service
+5,Becoming unemployed,,2013-04-03,2013-04-03,,Life event,determines,69,Housing benefit new claim,Service
+5,Becoming unemployed,,2013-04-03,2013-04-03,,Life event,determines,345,Jobs - New Deal - traineeships,Service
+5,Becoming unemployed,,2013-04-03,2013-04-03,,Life event,determines,189,Welfare rights advice,Service
+6,Bereavement,,2013-04-03,2013-04-03,,Life event,determines,328,Bereavement support,Service
+6,Bereavement,,2013-04-03,2013-04-03,,Life event,determines,1538,Cemeteries and crematoria,Service
+6,Bereavement,,2013-04-03,2013-04-03,,Life event,determines,875,Civil funerals,Service
+6,Bereavement,,2013-04-03,2013-04-03,,Life event,determines,331,Death - funerals - cost information,Service
+6,Bereavement,,2013-04-03,2013-04-03,,Life event,determines,330,Death - funerals - cremations,Service
+6,Bereavement,,2013-04-03,2013-04-03,,Life event,determines,321,Death registration,Service
+6,Bereavement,,2013-04-03,2013-04-03,,Life event,determines,671,Funeral payment,Service
+6,Bereavement,,2013-04-03,2013-04-03,,Life event,determines,333,Grave purchasing,Service
+6,Bereavement,,2013-04-03,2013-04-03,,Life event,determines,825,Independent funerals,Service
+6,Bereavement,,2013-04-03,2013-04-03,,Life event,determines,334,Memorial construction,Service
+6,Bereavement,,2013-04-03,2013-04-03,,Life event,determines,325,Mortuaries,Service
+6,Bereavement,,2013-04-03,2013-04-03,,Life event,determines,329,Municipal funerals,Service
+6,Bereavement,,2013-04-03,2013-04-03,,Life event,determines,326,Repatriation of bodies - England and Wales,Service
+6,Bereavement,,2013-04-03,2013-04-03,,Life event,determines,327,Repatriation of bodies abroad,Service
+6,Bereavement,,2013-04-03,2013-04-03,,Life event,determines,322,Stillbirth registration,Service
+7,Changing school,,2013-04-03,2013-04-03,,Life event,determines,12,Nursery school places,Service
+7,Changing school,,2013-04-03,2013-04-03,,Life event,determines,13,Primary school places,Service
+7,Changing school,,2013-04-03,2013-04-03,,Life event,determines,705,School admission appeals,Service
+7,Changing school,,2013-04-03,2013-04-03,,Life event,determines,14,Secondary school places,Service
+7,Changing school,,2013-04-03,2013-04-03,,Life event,determines,894,Transition between schools,Service
+8,Getting divorced/separated,,2013-04-03,2013-04-03,,Life event,determines,923,Child maintenance payments,Service
+8,Getting divorced/separated,,2013-04-03,2013-04-03,,Life event,determines,922,Parental custody,Service
+9,Getting into debt,,2013-04-03,2013-04-03,,Life event,determines,190,Benefits advice and assessment,Service
+9,Getting into debt,,2013-04-03,2013-04-03,,Life event,determines,63,Council tax benefit new claim,Service
+9,Getting into debt,,2013-04-03,2013-04-03,,Life event,determines,1520,Debt enforcement,Service
+9,Getting into debt,,2013-04-03,2013-04-03,,Life event,determines,69,Housing benefit new claim,Service
+9,Getting into debt,,2013-04-03,2013-04-03,,Life event,determines,110,Housing legal advice,Service
+9,Getting into debt,,2013-04-03,2013-04-03,,Life event,determines,189,Welfare rights advice,Service
+10,Getting married/Civil partnership,,2013-04-03,2013-04-03,,Life event,determines,874,Marriage renewal,Service
+10,Getting married/Civil partnership,,2013-04-03,2013-04-03,,Life event,determines,876,Notice of marriage or civil partnership,Service
+10,Getting married/Civil partnership,,2013-04-03,2013-04-03,,Life event,determines,318,Wedding venue licence,Service
+10,Getting married/Civil partnership,,2013-04-03,2013-04-03,,Life event,determines,317,Wedding venues,Service
+11,Going into further education,,2013-04-03,2013-04-03,,Life event,determines,1614,16 to 19 bursary fund,Service
+11,Going into further education,,2013-04-03,2013-04-03,,Life event,determines,23,Education - grants - education maintenance award,Service
+11,Going into further education,,2013-04-03,2013-04-03,,Life event,determines,24,Education - grants - student awards,Service
+11,Going into further education,,2013-04-03,2013-04-03,,Life event,determines,25,Education - loans - student loan,Service
+11,Going into further education,,2013-04-03,2013-04-03,,Life event,determines,1135,Education transport for 16-19 year olds,Service
+12,Learning to drive,,2013-04-03,2013-04-03,,Life event,,,,
+13,Leaving school,,2013-04-03,2013-04-03,,Life event,determines,887,Careers advice,Service
+13,Leaving school,,2013-04-03,2013-04-03,,Life event,determines,1394,Support when leaving education,Service
+13,Leaving school,,2013-04-03,2013-04-03,,Life event,determines,52,Work experience placements,Service
+14,Moving home,,2013-04-03,2013-04-03,,Life event,determines,370,Change of circumstances,Service
+14,Moving home,,2013-04-03,2013-04-03,,Life event,determines,58,Council tax account enquiries,Service
+14,Moving home,,2013-04-03,2013-04-03,,Life event,determines,1619,Ending housing tenancy,Service
+14,Moving home,,2013-04-03,2013-04-03,,Life event,determines,524,Household waste collection,Service
+14,Moving home,,2013-04-03,2013-04-03,,Life event,determines,17,Local schools,Service
+14,Moving home,,2013-04-03,2013-04-03,,Life event,determines,1617,Mortgage references,Service
+15,Retiring/Reaching pensionable age,,2013-04-03,2013-04-03,,Life event,determines,147,Assisted garden maintenance,Service
+15,Retiring/Reaching pensionable age,,2013-04-03,2013-04-03,,Life event,determines,242,Care at home,Service
+15,Retiring/Reaching pensionable age,,2013-04-03,2013-04-03,,Life event,determines,313,Community alarms and Telecare,Service
+15,Retiring/Reaching pensionable age,,2013-04-03,2013-04-03,,Life event,determines,221,Disabled and older people - rail card,Service
+15,Retiring/Reaching pensionable age,,2013-04-03,2013-04-03,,Life event,determines,130,Disabled people - home adaptations,Service
+15,Retiring/Reaching pensionable age,,2013-04-03,2013-04-03,,Life event,determines,640,Older people's  activities,Service
+15,Retiring/Reaching pensionable age,,2013-04-03,2013-04-03,,Life event,determines,273,Older people's bus pass,Service
+15,Retiring/Reaching pensionable age,,2013-04-03,2013-04-03,,Life event,determines,230,Sheltered housing - older people,Service
+16,Starting school,,2013-04-03,2013-04-03,,Life event,determines,4,Free school meals,Service
+16,Starting school,,2013-04-03,2013-04-03,,Life event,determines,17,Local schools,Service
+16,Starting school,,2013-04-03,2013-04-03,,Life event,determines,12,Nursery school places,Service
+16,Starting school,,2013-04-03,2013-04-03,,Life event,determines,13,Primary school places,Service
+16,Starting school,,2013-04-03,2013-04-03,,Life event,determines,705,School admission appeals,Service
+16,Starting school,,2013-04-03,2013-04-03,,Life event,determines,2,School clothing grants/vouchers,Service
+16,Starting school,,2013-04-03,2013-04-03,,Life event,determines,891,School transport,Service
+16,Starting school,,2013-04-03,2013-04-03,,Life event,determines,3,School transport - additional support,Service
+17,Starting up a business,,2013-04-03,2013-04-03,,Life event,determines,346,Business - business plans - advice,Service
+17,Starting up a business,,2013-04-03,2013-04-03,,Life event,determines,685,Business - exporters' forums,Service
+17,Starting up a business,,2013-04-03,2013-04-03,,Life event,determines,1037,Business - notification to council - employees,Service
+17,Starting up a business,,2013-04-03,2013-04-03,,Life event,determines,349,Business advice,Service
+17,Starting up a business,,2013-04-03,2013-04-03,,Life event,determines,690,Business awards,Service
+17,Starting up a business,,2013-04-03,2013-04-03,,Life event,determines,1618,Business centres,Service
+17,Starting up a business,,2013-04-03,2013-04-03,,Life event,determines,351,Business co-operatives,Service
+17,Starting up a business,,2013-04-03,2013-04-03,,Life event,determines,350,Business grants,Service
+17,Starting up a business,,2013-04-03,2013-04-03,,Life event,determines,56,Business rates account enquiries,Service
+17,Starting up a business,,2013-04-03,2013-04-03,,Life event,determines,54,Business rates annual notification,Service
+17,Starting up a business,,2013-04-03,2013-04-03,,Life event,determines,692,Business security advice,Service
+17,Starting up a business,,2013-04-03,2013-04-03,,Life event,determines,693,Business security grants,Service
+17,Starting up a business,,2013-04-03,2013-04-03,,Life event,determines,1539,Business travel and commuting,Service
+17,Starting up a business,,2013-04-03,2013-04-03,,Life event,determines,487,Full planning applications,Service
+17,Starting up a business,,2013-04-03,2013-04-03,,Life event,determines,1038,Registering business premises,Service
+18,Starting work,,2013-04-03,2013-04-03,,Life event,determines,299,Disabled people - employment advice,Service
+18,Starting work,,2013-04-03,2013-04-03,,Life event,determines,343,Employment and training initiatives,Service
+18,Starting work,,2013-04-03,2013-04-03,,Life event,determines,344,Equal opportunities advice,Service

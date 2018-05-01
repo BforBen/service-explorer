@@ -1,0 +1,33 @@
+Identifier,Label,Description,Created,Modified,History notes,Type,Parent identifiers,Parent labels
+0,Applications for service,,2013-04-03,2013-04-03,,Interaction,,
+10,Appealing,,2013-04-03,2013-04-03,,Interaction,0,Applications for service
+30,Application for exemption,,2013-04-03,2013-04-03,,Interaction,0,Applications for service
+21,Appointment booking,,2013-04-03,2013-04-03,,Interaction,0,Applications for service
+11,Changing circumstances,,2013-04-03,2013-04-03,,Interaction,0,Applications for service
+13,Complaining,,2013-04-03,2013-04-03,,Interaction,0,Applications for service
+20,Entitlement/eligibility checking,,2013-04-03,2013-04-03,,Interaction,0,Applications for service
+14,Renewing,,2013-04-03,2013-04-03,,Interaction,0,Applications for service
+15,Repairing,,2013-04-03,2013-04-03,,Interaction,0,Applications for service
+16,Replacing,,2013-04-03,2013-04-03,,Interaction,0,Applications for service
+17,Reporting,,2013-04-03,2013-04-03,,Interaction,0,Applications for service
+12,Status checking,,2013-04-03,2013-04-03,,Interaction,0,Applications for service
+33,Tell us once,,2013-04-03,2013-04-03,,Interaction,0,Applications for service
+1,"Booking venues, resources and courses",,2013-04-03,2013-04-03,,Interaction,,
+24,Course booking,,2013-04-03,2013-04-03,,Interaction,1,"Booking venues, resources and courses"
+23,Reserving a resource,,2013-04-03,2013-04-03,,Interaction,1,"Booking venues, resources and courses"
+22,Venue/facility booking,,2013-04-03,2013-04-03,,Interaction,1,"Booking venues, resources and courses"
+2,Collecting revenue,,2013-04-03,2013-04-03,,Interaction,,
+3,Consultation,,2013-04-03,2013-04-03,,Interaction,,
+27,Customer surveys,,2013-04-03,2013-04-03,,Interaction,3,Consultation
+26,Democratic consultation,,2013-04-03,2013-04-03,,Interaction,3,Consultation
+25,Statutory consultation,,2013-04-03,2013-04-03,,Interaction,3,Consultation
+4,Paying for goods and services,,2013-04-03,2013-04-03,,Interaction,,
+5,Procurement,,2013-04-03,2013-04-03,,Interaction,,
+6,"Providing access to community, professionals or business networks",,2013-04-03,2013-04-03,,Interaction,,
+7,Providing benefits and grants,,2013-04-03,2013-04-03,,Interaction,,
+8,Providing information,,2013-04-03,2013-04-03,,Interaction,,
+9,Regulation,,2013-04-03,2013-04-03,,Interaction,,
+29,Enforcement,,2013-04-03,2013-04-03,,Interaction,9,Regulation
+28,"Issuing (licence, consent or permit)",,2013-04-03,2013-04-03,,Interaction,9,Regulation
+31,Notifying of incidents or instances,,2013-04-03,2013-04-03,,Interaction,9,Regulation
+32,Providing periodic returns ,,2013-04-03,2013-04-03,,Interaction,9,Regulation

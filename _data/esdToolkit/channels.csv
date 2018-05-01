@@ -1,0 +1,23 @@
+Identifier,Label,Description,Created,Modified,History notes,Type,Alternate labels,Parent identifiers,Parent labels,Level 1,Level 2,Level 3
+0,All,,2013-04-03,2013-04-03,,Channel,,,,,,
+3,Face to face,,2013-04-03,2013-04-03,,Channel,In person,0,All,All,,
+7,One Stop Shops,,2013-04-03,2013-04-03,,Channel,First Stop Shops,3,Face to face,All,Face to face,
+5,Non-electronic,,2013-04-03,2013-04-03,,Channel,,0,All,All,,
+9,Post,,2013-04-03,2013-04-03,,Channel,,5,Non-electronic,All,Non-electronic,
+4,Other electronic media,,2013-04-03,2013-04-03,,Channel,,0,All,All,,
+24,Automated bank payments,,2013-04-03,2013-04-03,,Channel,,4,Other electronic media,All,Other electronic media,
+26,BACS,,2013-04-03,2013-04-03,,Channel,,24,Automated bank payments,All,Other electronic media,Automated bank payments
+28,Direct debit,,2013-04-03,2013-04-03,,Channel,,24,Automated bank payments,All,Other electronic media,Automated bank payments
+30,Standing order,,2013-04-03,2013-04-03,,Channel,,24,Automated bank payments,All,Other electronic media,Automated bank payments
+10,E-mail,,2013-04-03,2013-04-03,,Channel,,4,Other electronic media,All,Other electronic media,
+11,Interactive Digital Television,,2013-04-03,2013-04-03,,Channel,,4,Other electronic media,All,Other electronic media,
+12,Kiosks,,2013-04-03,2013-04-03,,Channel,,4,Other electronic media,All,Other electronic media,
+13,Texting,,2013-04-03,2013-04-03,,Channel,,4,Other electronic media,All,Other electronic media,
+14,Video conferencing,,2013-04-03,2013-04-03,,Channel,,4,Other electronic media,All,Other electronic media,
+2,Telephone,,2013-04-03,2013-04-03,,Channel,,0,All,All,,
+15,Call centres,,2013-04-03,2013-04-03,,Channel,,2,Telephone,All,Telephone,
+16,Fax,,2013-04-03,2013-04-03,,Channel,,2,Telephone,All,Telephone,
+17,Voice,,2013-04-03,2013-04-03,,Channel,,2,Telephone,All,Telephone,
+1,Web site,,2013-04-03,2013-04-03,,Channel,,0,All,All,,
+18,Information page,,2013-04-03,2013-04-03,,Channel,,1,Web site,All,Web site,
+19,Online form,,2013-04-03,2013-04-03,,Channel,,1,Web site,All,Web site,

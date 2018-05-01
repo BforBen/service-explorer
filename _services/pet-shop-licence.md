@@ -1,0 +1,12 @@
+---
+esd_id: 375
+internal: false
+title: "Pet shop licence"
+history: >-
+  Added scope notes in version 2.02. Term name changed from 'Licence - pet shop' to 'Licences - pet shops' in version 3.00. Name changed to 'Pet shop licence' in version 4.00.
+
+---
+
+"Regulation of the sale of pet animals from pet shops. Officers may inspect the premises to check compliance with general health and safety requirements and also the welfare of the animals prior to issuing of the licence.
+In the UK one of the legislative provisions is that a pet animal, as defined, cannot be sold to a person under the age of twelve."@en
+

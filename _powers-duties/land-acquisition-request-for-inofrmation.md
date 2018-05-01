@@ -1,0 +1,7 @@
+---
+esd_id: 2329
+title: "Land acquisition - request for inofrmation"
+---
+
+This applies to information about land in relation to which an acquiring authority is entitled to exercise a power of compulsory purchase.  The acquiring authority may serve a notice requiring information
+
