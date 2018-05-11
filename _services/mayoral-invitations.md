@@ -1,9 +1,12 @@
 ---
 esd_id: 360
-internal: false
 title: "Mayoral invitations"
 history: >-
   Added scope notes in version 2.02. Scope notes changed in version 3.00 to include the Provost in Scotland. Term name changed from 'Mayoral invitations' to 'Mayor - invitations' in version 3.00.  Name changed to 'Mayoral invitations' in version 4.00.
+function: 147
+interactions: [8]
+powers: []
+internal: false
 
 ---
 

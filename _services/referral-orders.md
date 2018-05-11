@@ -1,9 +1,12 @@
 ---
 esd_id: 836
-internal: false
 title: "Referral orders"
 history: >-
   Added scope notes in version 2.02. Term name changed from 'Referral orders' to 'Youth justice - referral orders' in version 3.00.
+function: 22
+interactions: [8]
+powers: [776, 776, 776, 776, 776, 776, 776, 777, 777, 777, 777, 777, 777, 777, 778, 778, 778, 778, 778, 778, 778]
+internal: false
 
 ---
 

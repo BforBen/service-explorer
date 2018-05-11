@@ -1,9 +1,12 @@
 ---
 esd_id: 91
-internal: false
 title: "Housing tenant support"
 history: >-
   Added scope notes in version 2.02. Term name changed from 'Council housing - tenancy issues' to 'Housing - tenancy issues' in version 3.00. Name changed to 'Housing tenant support' in version 4.00.
+function: 159
+interactions: [8]
+powers: []
+internal: false
 
 ---
 

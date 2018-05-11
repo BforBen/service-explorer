@@ -1,9 +1,12 @@
 ---
 esd_id: 362
-internal: false
 title: "Voting"
 history: >-
   Added scope notes in version 2.02. Name changed to 'Voting' in version 4.00.
+function: 146
+interactions: [0, 8]
+powers: [2961, 2961]
+internal: false
 
 ---
 

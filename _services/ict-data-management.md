@@ -1,9 +1,12 @@
 ---
 esd_id: 986
-internal: true
 title: "ICT - data management"
 history: >-
   Term name changed from 'Data management' to 'ICT - data management' in version 3.00.
+function: 120
+interactions: []
+powers: []
+internal: true
 
 ---
 

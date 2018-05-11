@@ -1,9 +1,12 @@
 ---
 esd_id: 847
-internal: false
 title: "Rabies protection"
 history: >-
   Added scope notes in version 2.02. Scope notes updated in version 3.0 to include relevant legislation. Term name changed from 'Rabies protection' to 'Ports and harbours - rabies protection' in version 3.00. Name changed to 'Rabies protection' in version 4.00.
+function: 169
+interactions: [6, 8]
+powers: []
+internal: false
 
 ---
 

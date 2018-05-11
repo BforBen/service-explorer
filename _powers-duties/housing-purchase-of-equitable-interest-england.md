@@ -1,6 +1,8 @@
 ---
-esd_id: 2882
 title: "Housing - purchase of equitable interest (England)"
+esd_id: 2882
+type: power
+parent_id:  
 ---
 
 A local authority as housing authority may with the agreement of the tenant purchase an equitable interest in a flat where the conditions in paragraph (2) are satisfied.

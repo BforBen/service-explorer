@@ -1,9 +1,12 @@
 ---
 esd_id: 833
-internal: false
 title: "Leaving hospital"
 history: >-
   Added scope notes in version 2.02. Term name changed from 'Help leaving hospital' to 'Social services - hospitalisation - help returning home' in version 3.00. name changed to 'Leaving hospital' in version 4.00. Revised scope notes in version 4.0.1.
+function: 148
+interactions: [0, 8]
+powers: [1955, 1955, 2350, 2350, 2472, 2709, 2709]
+internal: false
 
 ---
 

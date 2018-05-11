@@ -1,9 +1,12 @@
 ---
 esd_id: 535
-internal: false
 title: "Composters"
 history: >-
   Added scope notes in version 2.02. Name changed to 'Composters' in version 4.00.
+function: 39
+interactions: [0, 8]
+powers: [1215, 1215]
+internal: false
 
 ---
 

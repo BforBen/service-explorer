@@ -1,9 +1,12 @@
 ---
 esd_id: 1123
-internal: false
 title: "Affordable housing"
 history: >-
   Name changed to 'Affordable housing' and scope notes revised in version 4.00.
+function: 158
+interactions: [0, 6, 8]
+powers: []
+internal: false
 
 ---
 

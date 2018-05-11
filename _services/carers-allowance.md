@@ -1,9 +1,12 @@
 ---
 esd_id: 1437
-internal: false
 title: "Carers allowance"
 history: >-
   Added in version 3.09. Add to LGSL, update description and scope notes in version 4.0.1.
+function: 61
+interactions: []
+powers: [2066, 2066, 2066, 2066, 2066, 2066, 2066, 2066, 2066, 2066, 2066, 2066, 2066, 2066, 2066, 2066, 2066, 2066, 2066, 2066]
+internal: false
 
 ---
 

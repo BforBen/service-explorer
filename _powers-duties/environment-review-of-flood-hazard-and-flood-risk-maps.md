@@ -1,6 +1,8 @@
 ---
-esd_id: 2835
 title: "Environment - review of flood hazard and flood risk maps"
+esd_id: 2835
+type: duty
+parent_id:  
 ---
 
 A local authority must review each flood hazard map and each flood risk map prepared by it under regulation 19.

@@ -1,9 +1,12 @@
 ---
 esd_id: 571
-internal: false
 title: "Speed limits"
 history: >-
   Added scope notes in version 2.02. Term name changed from 'Roads and highways - speed limits' to 'Roads - speed limits' in version 3.00. Name changed to 'Speed limits' in version 4.00.
+function: 112
+interactions: [8]
+powers: [2367, 2367]
+internal: false
 
 ---
 

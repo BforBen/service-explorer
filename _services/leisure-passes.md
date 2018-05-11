@@ -1,9 +1,12 @@
 ---
 esd_id: 456
-internal: false
 title: "Leisure passes"
 history: >-
   Added scope notes in version 2.02. Term name changed from 'Leisure passes' to 'Council passes - leisure and sport' in version 3.00. Name changed to 'Leisure pasees' in version 4.00.
+function: 75
+interactions: [0, 4, 8]
+powers: [1775, 1775, 2066, 2066, 2066, 2066, 2066, 2066, 2066, 2066, 2066, 2066, 2066, 2066, 2066, 2066, 2066, 2066, 2066, 2066, 2066, 2066]
+internal: false
 
 ---
 

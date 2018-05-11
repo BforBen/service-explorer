@@ -1,9 +1,12 @@
 ---
 esd_id: 1077
-internal: false
 title: "Performing animals licence"
 history: >-
   Name changed to 'Performing animals licnece' in version 4.00.@en
+function: 84
+interactions: [0, 4, 8, 9]
+powers: [1758, 1759, 1760]
+internal: false
 
 ---
 

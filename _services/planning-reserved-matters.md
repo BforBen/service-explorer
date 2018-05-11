@@ -1,9 +1,12 @@
 ---
 esd_id: 1731
-internal: false
 title: "Planning reserved matters"
 history: >-
   
+function: 101
+interactions: [0, 8]
+powers: [2821, 2821, 2821, 2821, 2821, 2821, 2821, 2821, 2821, 2821, 2821, 2821, 2821, 2821, 2821, 2821, 2821]
+internal: false
 
 ---
 

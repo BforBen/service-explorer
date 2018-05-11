@@ -1,9 +1,12 @@
 ---
 esd_id: 1704
-internal: false
 title: "Home school agreement"
 history: >-
   
+function: 138
+interactions: []
+powers: [1144, 1144]
+internal: false
 
 ---
 

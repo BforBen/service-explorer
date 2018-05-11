@@ -1,9 +1,12 @@
 ---
 esd_id: 272
-internal: false
 title: "Community transport"
 history: >-
   Added scope notes in version 2.02. Term name changed from 'Community transport' to 'Transport - community services' in version 3.00. Name changed to 'Community transport' in version 4.00.
+function: 106
+interactions: [0, 1, 8]
+powers: [1649, 1649, 1649, 1649, 1649, 1825, 1826, 1827, 1828, 1829, 1933, 1933, 1934, 1934, 1940, 1940, 1940, 1940, 1940, 1940, 1941, 1941, 1942, 1942, 3098, 3098, 3099, 3099]
+internal: false
 
 ---
 

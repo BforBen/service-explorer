@@ -1,9 +1,12 @@
 ---
 esd_id: 1088
-internal: false
 title: "Re-use of public sector information"
 history: >-
   Name changed to 'Re-use of public sector information' in version 4.00
+function: 49
+interactions: [0, 8]
+powers: [2812, 2812, 2812, 2812, 2812, 3190, 3190, 3191, 3191, 3191, 3191, 3191, 3191, 3191, 3191, 3191]
+internal: false
 
 ---
 

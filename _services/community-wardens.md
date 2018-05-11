@@ -1,9 +1,12 @@
 ---
 esd_id: 1044
-internal: false
 title: "Community wardens"
 history: >-
   
+function: 21
+interactions: [0, 8]
+powers: [406, 406, 406, 406, 406, 406, 407, 407, 407, 407, 407, 407, 408, 408, 408, 408, 408, 408, 1766, 1766]
+internal: false
 
 ---
 

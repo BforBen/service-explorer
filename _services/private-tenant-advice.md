@@ -1,9 +1,12 @@
 ---
 esd_id: 108
-internal: false
 title: "Private tenant advice"
 history: >-
   Added scope notes in version 2.02. Term name changed from 'Existing private tenancy' to 'Housing - private tenants - advice and support' in version 3.00. Name changed to 'Private tenant advice' in version 4.00.
+function: 69
+interactions: [8]
+powers: [1931, 1931, 1964, 1964]
+internal: false
 
 ---
 

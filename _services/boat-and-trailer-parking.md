@@ -1,9 +1,12 @@
 ---
 esd_id: 757
-internal: false
 title: "Boat and trailer parking"
 history: >-
   Term name changed from 'Boat and trailer parking' to 'Boat and trailer parking' and scope notes added in version 2.02. scope notes revised in version 3.00 to cover lakes/reservoirs. Term name changed from 'Boat and trailer parking' to 'Boats - boat and trailer parking' in version 3.00. Name changed to 'Boat and trailer parking' in version 4.00.
+function: 168
+interactions: [0, 4, 8]
+powers: []
+internal: false
 
 ---
 

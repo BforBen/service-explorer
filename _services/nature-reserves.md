@@ -1,9 +1,12 @@
 ---
 esd_id: 1540
-internal: false
 title: "Nature reserves"
 history: >-
   Added scope notes in version 3.11. Name changed to 'Nature reserves' in version 4.00.
+function: 33
+interactions: [8]
+powers: [1572, 1572, 1572, 1572, 1572, 1572, 1692, 1692]
+internal: false
 
 ---
 

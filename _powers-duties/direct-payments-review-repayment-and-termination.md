@@ -1,6 +1,8 @@
 ---
-esd_id: 2526
 title: "Direct payments - review, repayment and termination"
+esd_id: 2526
+type: duty
+parent_id:  
 ---
 
 A responsible authority must review the making of direct payments:

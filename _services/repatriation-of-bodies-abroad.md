@@ -1,9 +1,12 @@
 ---
 esd_id: 327
-internal: false
 title: "Repatriation of bodies abroad"
 history: >-
   Updated scope notes
+function: 35
+interactions: [8]
+powers: []
+internal: false
 
 ---
 

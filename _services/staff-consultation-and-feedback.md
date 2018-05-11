@@ -1,9 +1,12 @@
 ---
 esd_id: 1641
-internal: true
 title: "Staff - consultation and feedback"
 history: >-
   Added in version 4.00.
+function: 119
+interactions: []
+powers: []
+internal: true
 
 ---
 

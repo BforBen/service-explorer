@@ -1,6 +1,8 @@
 ---
-esd_id: 3116
 title: "Cycle tracks - conversion of footpaths into cycle tracks"
+esd_id: 3116
+type: power
+parent_id:  
 ---
 
 A local highway authority may, to the extent allowed by the Act, in the case of any footpath for which they are the highway authority by order made by them and either-

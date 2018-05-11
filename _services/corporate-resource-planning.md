@@ -1,9 +1,12 @@
 ---
 esd_id: 1631
-internal: true
 title: "Corporate - resource planning"
 history: >-
   Added in version 4.00.
+function: 114
+interactions: []
+powers: [2555, 2555, 2686, 2686]
+internal: true
 
 ---
 

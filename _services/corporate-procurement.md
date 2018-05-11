@@ -1,9 +1,12 @@
 ---
 esd_id: 1629
-internal: true
 title: "Corporate - procurement"
 history: >-
   Added in version 4.00. Name/scope notes changed in version 4.0.1.
+function: 145
+interactions: []
+powers: [2150, 2150, 2151, 2151, 2908, 2908, 2908]
+internal: true
 
 ---
 

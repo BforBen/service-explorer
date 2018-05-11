@@ -1,9 +1,12 @@
 ---
 esd_id: 862
-internal: false
 title: "Local access forums"
 history: >-
   Term name changed from 'Countryside local access forum' to 'Countryside - local access forums' in version 3.00. name changed to 'Local access forums' in version 4.00.
+function: 32
+interactions: [3, 8]
+powers: [468, 1689, 1689, 1689, 1689, 1691, 1691, 1702, 1702, 1702, 1703, 1703, 1703, 1704, 1704, 1704, 1705, 1705]
+internal: false
 
 ---
 

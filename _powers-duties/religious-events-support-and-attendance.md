@@ -1,6 +1,8 @@
 ---
-esd_id: 3003
 title: "Religious events - support and attendance"
+esd_id: 3003
+type: power
+parent_id:  
 ---
 
 A local authority in England may support or facilitate, or make arrangements to be represented at, any of the following—

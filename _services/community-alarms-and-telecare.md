@@ -1,9 +1,12 @@
 ---
 esd_id: 313
-internal: false
 title: "Community alarms and Telecare"
 history: >-
   Added scope notes in version 2.02. Term name changed from 'Care/scan/community alarm services' to 'Social services - community alarm services' in version 3.00.  Changed name from 'Social services - community alarm services' to 'Social services - Community alarms and Telecare' in version 3.07.  Changed name for SSL and scope  notes in version 3.07. Name changed to 'Community alarms and Telecare' in version 4.00.
+function: 149
+interactions: [0, 8]
+powers: [156, 156, 156, 156, 156, 156, 156, 156, 156, 399, 399, 399, 399, 399, 399, 399, 399, 399, 399, 399, 399, 1584, 1584, 1584, 1584, 1584, 1584, 1584, 2477, 2477, 2477, 2477, 2477, 2477, 2479, 2479, 2479, 2479, 2479, 2479, 2484, 2484, 2484, 2484, 2484, 2484, 2484, 2484, 2484]
+internal: false
 
 ---
 

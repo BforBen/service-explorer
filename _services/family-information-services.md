@@ -1,9 +1,12 @@
 ---
 esd_id: 1579
-internal: false
 title: "Family information services"
 history: >-
   Added in version 3.13.
+function: 155
+interactions: [0, 8]
+powers: [156, 156, 156, 156, 156, 156, 156, 156, 156]
+internal: false
 
 ---
 

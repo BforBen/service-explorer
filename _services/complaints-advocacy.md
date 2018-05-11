@@ -1,9 +1,12 @@
 ---
 esd_id: 645
-internal: false
 title: "Complaints advocacy"
 history: >-
   Added scope notes in version 2.02. Term name changed from 'Complaints - advocacy' to 'Council - complaints - advocacy for complainants' in version 3.00. Name changed to 'Complaints advocacy' in version 4.00.
+function: 47
+interactions: [0, 8]
+powers: [367, 367, 367, 2751, 2751, 2841, 2841, 3031, 3031, 3033, 3033]
+internal: false
 
 ---
 

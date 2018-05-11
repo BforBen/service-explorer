@@ -1,9 +1,12 @@
 ---
 esd_id: 1738
-internal: false
 title: "Environmental Impact Assessment screening"
 history: >-
   
+function: 101
+interactions: [0, 8]
+powers: [2539, 2539, 2539, 2539, 2539, 2572, 2821, 2821, 2821, 2821, 2821, 2821, 2821, 2821, 2821, 2821, 2821, 2821, 2821, 2821, 2821, 2821, 2821, 2842, 2878, 2878]
+internal: false
 
 ---
 

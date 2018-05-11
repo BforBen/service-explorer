@@ -1,9 +1,12 @@
 ---
 esd_id: 1580
-internal: false
 title: "Street parties permission"
 history: >-
   Added in version 3.13. Name changed to 'Street parties permission' in version 4.00.
+function: 165
+interactions: [0, 8]
+powers: []
+internal: false
 
 ---
 

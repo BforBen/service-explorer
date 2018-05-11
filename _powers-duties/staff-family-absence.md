@@ -1,6 +1,8 @@
 ---
-esd_id: 2666
 title: "Staff - family absence"
+esd_id: 2666
+type: duty
+parent_id:  
 ---
 
 Local authorities must maintain a record of all notifications made by members of periods of family absence; the periods of family absence taken and keep them for at least 10 years.

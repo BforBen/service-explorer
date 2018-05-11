@@ -1,9 +1,12 @@
 ---
 esd_id: 1786
-internal: false
 title: "Register of land"
 history: >-
   Added in March 2017.
+function: 170
+interactions: [8]
+powers: [3057, 3183, 3183, 3184, 3184, 3185, 3185]
+internal: false
 
 ---
 

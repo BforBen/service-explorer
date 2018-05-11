@@ -1,9 +1,12 @@
 ---
 esd_id: 885
-internal: false
 title: "Sports development"
 history: >-
   Term name changed from 'Sports development' to 'Sports - development' in version 3.00.
+function: 80
+interactions: [8]
+powers: []
+internal: false
 
 ---
 

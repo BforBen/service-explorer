@@ -1,9 +1,12 @@
 ---
 esd_id: 1652
-internal: false
 title: "Universal credit"
 history: >-
   Added in version 4.0.1 to the English hand welsh, local government service list.
+function: 125
+interactions: []
+powers: []
+internal: false
 
 ---
 

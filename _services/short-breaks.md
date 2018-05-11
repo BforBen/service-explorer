@@ -1,9 +1,12 @@
 ---
 esd_id: 1790
-internal: false
 title: "Short breaks"
 history: >-
   Added in March 2017.
+function: 61
+interactions: [0, 8]
+powers: []
+internal: false
 
 ---
 

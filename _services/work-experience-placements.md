@@ -1,9 +1,12 @@
 ---
 esd_id: 52
-internal: false
 title: "Work experience placements"
 history: >-
   Added scope notes in version 2.02. Term name changed from 'Paid work or work experience and school aged pupils' to 'Schools - work experience placements' in version 3.00. Name changed to 'Work experience placements' in version 4.00.
+function: 136
+interactions: [0, 8]
+powers: [928]
+internal: false
 
 ---
 

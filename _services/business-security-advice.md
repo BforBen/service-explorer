@@ -1,9 +1,12 @@
 ---
 esd_id: 692
-internal: false
 title: "Business security advice"
 history: >-
   Added scope notes in version 2.02. Scope notes extended in version 3.00 to provide more detail of the service. Term name changed from 'Security services' to 'Business - security - advice and support' in version 3.00. Name changed to 'Business security advice' in version 4.00.
+function: 7
+interactions: [8]
+powers: []
+internal: false
 
 ---
 

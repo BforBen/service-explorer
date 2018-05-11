@@ -1,9 +1,12 @@
 ---
 esd_id: 1147
-internal: false
 title: "Local Housing Allowance"
 history: >-
   Added in version 3.05.
+function: 129
+interactions: [0, 7, 8]
+powers: []
+internal: false
 
 ---
 

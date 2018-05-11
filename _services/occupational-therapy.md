@@ -1,9 +1,12 @@
 ---
 esd_id: 180
-internal: false
 title: "Occupational therapy"
 history: >-
   Added scope notes in version 2.02. Term name changed from 'Occupational therapy' to 'Social services - occupational therapy' in version 3.00. Name changed to 'Occupational therapy in version 4.00.
+function: 149
+interactions: [0, 1, 8]
+powers: [399, 399, 399, 399, 399, 399, 399, 399, 399, 399, 399, 399]
+internal: false
 
 ---
 

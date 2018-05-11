@@ -1,9 +1,12 @@
 ---
 esd_id: 911
-internal: false
 title: "Housing referrals"
 history: >-
   Term name changed from 'Referrals to other RSLs/LAs' to 'Housing - referrals to housing associations and other local authorities' in version 3.00. Name changed to 'Housing referrals' in version 4.00.
+function: 156
+interactions: [6, 8]
+powers: [955, 955, 955, 966, 966, 966, 967, 967, 970, 970, 971, 971, 971, 974, 974, 974, 976, 976, 976, 976, 1896, 1896, 1896, 1896, 1901, 1901, 1901, 1902, 1902, 1902, 1902, 1918, 1918, 1918, 1918, 1918, 1930, 1930, 1930, 2759, 2759, 2759]
+internal: false
 
 ---
 

@@ -1,9 +1,12 @@
 ---
 esd_id: 1130
-internal: false
 title: "Residential recycling collections"
 history: >-
   name changed to 'Residential recycling collections' in version 4.00.
+function: 39
+interactions: [8, 17]
+powers: [1214, 1214, 1214]
+internal: false
 
 ---
 

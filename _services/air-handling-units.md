@@ -1,9 +1,12 @@
 ---
 esd_id: 411
-internal: false
 title: "Air handling units"
 history: >-
   Added scope notes in version 2.02. Name changed to 'Air handling units' in version 4.00.
+function: 37
+interactions: [8]
+powers: [2718, 2718, 2718]
+internal: false
 
 ---
 

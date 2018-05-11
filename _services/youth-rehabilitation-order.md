@@ -1,9 +1,12 @@
 ---
 esd_id: 1598
-internal: false
 title: "Youth Rehabilitation Order"
 history: >-
   Added in version 4.00.
+function: 22
+interactions: [0, 8]
+powers: [1566, 1567]
+internal: false
 
 ---
 

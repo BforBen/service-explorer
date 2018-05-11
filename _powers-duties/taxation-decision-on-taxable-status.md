@@ -1,6 +1,8 @@
 ---
-esd_id: 3122
 title: "Taxation - decision on taxable status"
+esd_id: 3122
+type: duty
+parent_id:  
 ---
 
 If a local authority enters into a contract to which Section 61M applies, If the contract is entered into on or after 6 April 2017, the duty under subsection (1) must be complied with-

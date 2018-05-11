@@ -1,9 +1,12 @@
 ---
 esd_id: 177
-internal: false
 title: "Reparation orders"
 history: >-
   Added scope notes in version 2.02. Term name changed from 'Reparation orders' to 'Youth justice - reparation orders' in version 3.00. Name changed to 'Reparation orders' in version 4.00.
+function: 22
+interactions: [8]
+powers: [776, 776, 776, 776, 776, 776, 776, 777, 777, 777, 777, 777, 777, 777, 778, 778, 778, 778, 778, 778, 778]
+internal: false
 
 ---
 

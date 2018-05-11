@@ -1,9 +1,12 @@
 ---
 esd_id: 1683
-internal: false
 title: "Club gaming permit"
 history: >-
   
+function: 90
+interactions: []
+powers: [349, 349, 357, 357, 357, 357, 357, 357, 357, 357, 357, 357, 358, 358, 358, 358, 358, 358, 358, 358, 358, 358, 359, 359, 359, 359, 359, 359, 359, 359, 359, 359]
+internal: false
 
 ---
 

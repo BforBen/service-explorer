@@ -1,6 +1,8 @@
 ---
-esd_id: 2379
 title: "Special educational needs or disability - EHC plan"
+esd_id: 2379
+type: duty
+parent_id:  
 ---
 
 Where, in the light of an EHC needs assessment, it is necessary for special educational provision to be made for a child or young person in accordance with an EHC plan—

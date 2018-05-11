@@ -1,9 +1,12 @@
 ---
 esd_id: 143
-internal: false
 title: "Decoration and disturbance allowances"
 history: >-
   Added scope notes in version 2.02. Term name changed from 'Housing repairs - decoration and disturbance allowances' to 'Housing - repairs - decoration and disturbance allowances' in version 3.00. Name changed to 'Decoration and disturbance allowance' in verison 4.00.
+function: 124
+interactions: [0, 7, 8]
+powers: []
+internal: false
 
 ---
 

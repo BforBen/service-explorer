@@ -1,9 +1,12 @@
 ---
 esd_id: 732
-internal: false
 title: "Alternative care providers"
 history: >-
   Added scope notes in version 2.02. Term name changed from 'Alternative providers of care' to 'Care - alternative providers' in version 3.00. Name changed to 'Alternative care providers' in version 4.00.
+function: 61
+interactions: [6, 8]
+powers: [1586, 1586]
+internal: false
 
 ---
 

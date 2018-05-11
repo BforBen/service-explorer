@@ -1,6 +1,8 @@
 ---
-esd_id: 2385
 title: "Special educational needs or disability - review of EHC plan"
+esd_id: 2385
+type: duty
+parent_id:  
 ---
 
 A local authority must review an EHC plan that it maintains—

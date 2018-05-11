@@ -1,6 +1,8 @@
 ---
-esd_id: 3061
 title: "Regulated activities - guidance and enforcement"
+esd_id: 3061
+type: duty
+parent_id:  
 ---
 
 A local authority has responsibilities under the Act with respect to any of the following matters—

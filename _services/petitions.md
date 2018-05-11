@@ -1,9 +1,12 @@
 ---
 esd_id: 1306
-internal: false
 title: "Petitions"
 history: >-
   Added in version 3.08.
+function: 48
+interactions: [0, 8]
+powers: []
+internal: false
 
 ---
 

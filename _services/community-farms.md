@@ -1,9 +1,12 @@
 ---
 esd_id: 746
-internal: false
 title: "Community farms"
 history: >-
   Added scope notes in version 2.02. Term name changed from 'Farm management' to 'Farming - farm management' in version 3.00. Name changed to 'Community farms' in version 4.00.
+function: 33
+interactions: [3, 8]
+powers: [1570, 1570, 1570, 1570, 1570, 1570]
+internal: false
 
 ---
 

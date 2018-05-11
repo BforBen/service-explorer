@@ -1,6 +1,8 @@
 ---
-esd_id: 3004
 title: "Events - health and safety notifications"
+esd_id: 3004
+type: duty
+parent_id:  
 ---
 
 If in relation to a required permission to hold an event. for a reason related to the health or safety of any person, or for reasons that include such a reason, the decision has effect to—

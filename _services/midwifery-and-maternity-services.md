@@ -1,9 +1,12 @@
 ---
 esd_id: 927
-internal: false
 title: "Midwifery and maternity services"
 history: >-
   Term name changed from 'Midwifery services' to 'Children and young people - midwifery services' in version 3.00. Name changed to 'Midwifery services' in version 4.00. Add to LGSL, update description and scope notes in version 4.0.1.
+function: 65
+interactions: [8]
+powers: [370, 370, 370, 370, 370, 370, 370, 370, 370, 370, 370, 373, 373, 373, 373, 373, 373, 373, 373, 373, 373, 373, 374, 374, 374, 374, 374, 374, 374, 374, 374, 374, 374, 385, 385, 385]
+internal: false
 
 ---
 

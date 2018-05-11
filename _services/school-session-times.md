@@ -1,9 +1,12 @@
 ---
 esd_id: 1764
-internal: false
 title: "School session times"
 history: >-
   Added in March 2016 review of legislation
+function: 138
+interactions: [8]
+powers: [855, 926, 926, 2527]
+internal: false
 
 ---
 

@@ -1,9 +1,12 @@
 ---
 esd_id: 142
-internal: false
 title: "Overdue housing repairs - discretionary allowance"
 history: >-
   Added scope notes in version 2.02. Term name changed from 'Housing repairs - overdue repairs - discretionary allowance' to 'Housing - repairs - overdue repairs - discretionary allowance' in version 3.00. Name changed to 'Overdue housing repairs - discretionary allowance' in version 4.00.
+function: 124
+interactions: [0, 7, 8]
+powers: [535, 535, 535, 535, 535, 535, 535]
+internal: false
 
 ---
 

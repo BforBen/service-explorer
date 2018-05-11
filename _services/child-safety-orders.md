@@ -1,9 +1,12 @@
 ---
 esd_id: 1694
-internal: false
 title: "Child safety orders"
 history: >-
   
+function: 22
+interactions: []
+powers: [772, 776, 776, 776, 776, 776, 776, 776, 777, 777, 777, 777, 777, 777, 777, 778, 778, 778, 778, 778, 778, 778, 1984, 1984, 1984, 1984, 1984, 1984, 1984]
+internal: false
 
 ---
 

@@ -1,9 +1,12 @@
 ---
 esd_id: 336
-internal: false
 title: "Municipal golf courses"
 history: >-
   Added scope notes in version 2.02. Term name changed from 'Municipal golf courses' to 'Sports - golf - municipal courses' in version 3.00. Name changed to 'Municipal golf courses' in version 4.00.
+function: 80
+interactions: [1, 4, 8]
+powers: [1490, 1490, 1490, 1490, 1490, 1490]
+internal: false
 
 ---
 

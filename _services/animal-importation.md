@@ -1,9 +1,12 @@
 ---
 esd_id: 772
-internal: false
 title: "Animal importation"
 history: >-
   Added scope notes in version 2.02. Scope notes revised in version 3.00 to clarify service responsibility. Term name changed from 'Importation of animals' to 'Ports of entry - animals - importation' in version 3.00. Name changed to 'Animal importation' in version 4.00.
+function: 169
+interactions: [0, 8]
+powers: [2576, 2577, 2940, 2940, 2940, 2943, 2943, 2943, 2944, 2944, 2944]
+internal: false
 
 ---
 

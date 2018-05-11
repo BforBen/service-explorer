@@ -1,9 +1,12 @@
 ---
 esd_id: 1754
-internal: false
 title: "Premises closure notice"
 history: >-
   
+function: 133
+interactions: [8]
+powers: [2430, 2431, 2432, 2433, 2434, 2435, 2436, 2437]
+internal: false
 
 ---
 

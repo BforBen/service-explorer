@@ -1,9 +1,12 @@
 ---
 esd_id: 888
-internal: false
 title: "Early years grant"
 history: >-
   Term name changed from 'Early years education grant' to 'Education - early years - grant' in version 3.00. Name changed to 'Early years grant' in version 4.00.
+function: 128
+interactions: [0, 7, 8]
+powers: [188, 188, 188, 188, 189, 189, 189, 189, 189, 190, 190, 190, 190, 190, 191, 191, 191, 191, 191, 194, 194, 194, 194, 197, 197, 197, 197, 197, 197, 198, 198, 198, 198, 200, 200, 200, 200, 200, 1147, 1147, 1147, 1147, 1147]
+internal: false
 
 ---
 

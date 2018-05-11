@@ -1,9 +1,12 @@
 ---
 esd_id: 1799
-internal: false
 title: "Cycle and motorcycle parking"
 history: >-
   Added in March 2018
+function: 110
+interactions: [8]
+powers: []
+internal: false
 
 ---
 

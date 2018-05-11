@@ -1,9 +1,12 @@
 ---
 esd_id: 511
-internal: false
 title: "Conservation areas"
 history: >-
   Added scope notes in version 2.02. Scope notes updated in version 3.00 to include maintaining the statutory register. Term name changed from 'Conservation and urban design planning - conservation areas' to 'Planning - conservation areas' in version 3.00. Name changed to 'Conservation areas' in version 4.00.
+function: 103
+interactions: [8]
+powers: [1349, 1349, 1362, 1362, 1362, 1369, 1369, 1370, 1370, 1371, 1371, 1372, 1372, 1372, 1372, 1372, 1373, 1373, 1374, 1374, 1375, 1375, 1375, 1375, 1376, 1376, 1377, 1377, 2620, 2620, 2620, 2740, 2740]
+internal: false
 
 ---
 

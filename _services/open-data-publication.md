@@ -1,9 +1,12 @@
 ---
 esd_id: 1577
-internal: false
 title: "Open data publication"
 history: >-
   Added scope notes in version 3.12. Name changed to 'Open data publication' in version 4.00.
+function: 53
+interactions: [0, 8]
+powers: [2803, 2803, 2803, 2812, 2812, 2812, 2812, 2812, 2816, 2816, 2816]
+internal: false
 
 ---
 

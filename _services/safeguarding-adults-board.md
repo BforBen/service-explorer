@@ -1,9 +1,12 @@
 ---
 esd_id: 1758
-internal: false
 title: "Safeguarding adults board"
 history: >-
   
+function: 148
+interactions: [8]
+powers: [2463, 2464, 2464, 2758, 2758, 2758]
+internal: false
 
 ---
 

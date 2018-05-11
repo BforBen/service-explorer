@@ -1,9 +1,12 @@
 ---
 esd_id: 919
-internal: false
 title: "Youth leadership training"
 history: >-
   Term name changed from 'Youth leadership training' to 'Children and young people - youth leadership training' in version 3.00. Name changed to 'Youth leadership training' in version 4.00.
+function: 57
+interactions: [0, 8]
+powers: []
+internal: false
 
 ---
 

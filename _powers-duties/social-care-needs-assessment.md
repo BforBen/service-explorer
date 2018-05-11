@@ -1,6 +1,8 @@
 ---
-esd_id: 2447
 title: "Social care - needs assessment"
+esd_id: 2447
+type: duty
+parent_id:  
 ---
 
 A local authority must  where it appears to a local authority that an adult may have needs for care and support, assess—

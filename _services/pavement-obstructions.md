@@ -1,9 +1,12 @@
 ---
 esd_id: 536
-internal: false
 title: "Pavement obstructions"
 history: >-
   Added scope notes in version 2.02. Term name changed from 'Obstructed pavements' to 'Roads - pavements - obstructions' in version 3.00. Name changed to 'Pavement obstructions' in version 4.00.
+function: 109
+interactions: [0, 8, 17]
+powers: [2282, 2282, 2282, 2282, 2283, 2283, 2283]
+internal: false
 
 ---
 

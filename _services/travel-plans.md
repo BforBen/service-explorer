@@ -1,9 +1,12 @@
 ---
 esd_id: 1132
-internal: false
 title: "Travel plans"
 history: >-
   Name changed to 'Travel plans' in version 4.00.
+function: 113
+interactions: [8]
+powers: []
+internal: false
 
 ---
 

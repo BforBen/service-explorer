@@ -3,29 +3,56 @@ layout: default
 ---
 {% assign functions = site.data.esdToolkit.functions_services | where:"Mapped identifier", page.esd_id %}
 {% for function in functions %}
-  <h2>
-      <a href="{{ site.baseurl }}functions/{{ function["Level 1"] | slugify }}">{{ function["Level 1"] }}</a>
+  <ul class="breadcrumb">
+      <li class="breadcrumb-item"><a href="{{ site.baseurl }}functions/{{ function["Level 1"] | slugify }}">{{ function["Level 1"] }}</a></li>
       {% if function["Level 2"] %}
-      <a href="{{ site.baseurl }}functions/{{ function["Level 2"] | slugify }}">{{ function["Level 2"] }}</a>
+      <li class="breadcrumb-item"><a href="{{ site.baseurl }}functions/{{ function["Level 2"] | slugify }}">{{ function["Level 2"] }}</a></li>
       {% endif %}
-      <a href="{{ site.baseurl }}functions/{{ function.Label | slugify }}">{{ function.Label }}</a>
-  </h2>
+      <li class="breadcrumb-item"><a href="{{ site.baseurl }}functions/{{ function.Label | slugify }}">{{ function.Label }}</a></li>
+  </ul>
 {% endfor %}
 <h1>{{ page.title }}</h1>
 
 {{ content }}
 
+<h2>Interactions</h2>
+<ul>
+  {%for interaction in page.interactions %}
+  {% assign intr = site.data.esdToolkit.interactions[interaction] %}
+  <li>{{ intr[1] }}</li>
+  {% endfor %}
+</ul>
+
 <h2>Delivered by</h2>
 
-
-
+{% assign powersAndDuties = site.data.esdToolkit.powersAndDuties_services | where:"Mapped identifier", page.esd_id %}
+{% if powersAndDuties.size > 0 %}
 <h2>Powers and duties</h2>
 
 <ul>
-{% assign powersAndDuties = site.data.esdToolkit.powersAndDuties_services | where:"Mapped identifier", page.esd_id %}
+
 {% for power in powersAndDuties %}
   <li title="{{ power.Description }}">
     <a href="{{ site.baseurl }}powers-duties/{{ power.Label | slugify }}">{{ power.Label }}</a>
   </li>
 {% endfor %}
 </ul>
+{% endif %}
+
+<style>
+  .breadcrumb { 
+    display: flex;
+    flex-wrap: wrap;
+    list-style: none;
+    margin: 1rem 0;
+  }
+  .breadcrumb-item+.breadcrumb-item::before {
+    display: inline-block;
+    padding-right: .5rem;
+    color: #6c757d;
+    content: "/";
+  }
+  .breadcrumb-item+.breadcrumb-item {
+    padding-left: .5rem;
+}
+</style>

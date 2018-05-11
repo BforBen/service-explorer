@@ -1,6 +1,8 @@
 ---
-esd_id: 2917
 title: "Weights and measures - fees for work resulting from EU obligation"
+esd_id: 2917
+type: power
+parent_id:  
 ---
 
 A local weights and measures authority may charge such reasonable fees as they may determine—

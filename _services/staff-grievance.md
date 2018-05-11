@@ -1,9 +1,12 @@
 ---
 esd_id: 1290
-internal: true
 title: "Staff - grievance"
 history: >-
   Added in version 3.07
+function: 119
+interactions: []
+powers: []
+internal: true
 
 ---
 

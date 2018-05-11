@@ -1,9 +1,12 @@
 ---
 esd_id: 689
-internal: false
 title: "Skip services"
 history: >-
   Added scope notes in version 2.02. Scope notes updated in version 3.00. Term name changed from 'Commercial waste - skip services' to 'Refuse - skip services' in version 3.00. Name changed to 'Skip services' in version 4.00.
+function: 140
+interactions: [0, 4, 8]
+powers: []
+internal: false
 
 ---
 

@@ -1,9 +1,12 @@
 ---
 esd_id: 18
-internal: false
 title: "School holiday schemes"
 history: >-
   Added scope notes in version 2.02. Term name changed from 'School holiday schemes' to 'Schools - holiday schemes' in version 3.00. Term name changed to 'School holiday schemes' in version 4.00.
+function: 25
+interactions: [0, 8]
+powers: [3102, 3102, 3103, 3103]
+internal: false
 
 ---
 

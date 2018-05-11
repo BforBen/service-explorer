@@ -1,6 +1,8 @@
 ---
-esd_id: 2989
 title: "Consumer rights enforcement - entry and observation"
+esd_id: 2989
+type: power
+parent_id:  
 ---
 
 A local authority or an authorised officer may 

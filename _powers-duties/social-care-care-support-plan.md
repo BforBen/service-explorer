@@ -1,6 +1,8 @@
 ---
-esd_id: 2456
 title: "Social care - care support plan"
+esd_id: 2456
+type: duty
+parent_id:  
 ---
 
 Where a local authority is required to meet needs under sections or 20(1) or decides to do so under sections 19(1) and (2) or 20(6), it must—

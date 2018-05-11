@@ -1,9 +1,12 @@
 ---
 esd_id: 1141
-internal: false
 title: "Library loans"
 history: >-
   Scope notes amended in version 3.05. Name changed to 'Library loans' in version 4.00.
+function: 160
+interactions: [0, 8]
+powers: [1625, 1625, 1625, 1625, 1625, 1625, 1625, 1625, 1625, 1625, 1626, 1626, 1626, 1626, 1626, 1626, 1626, 1626, 1626, 1626, 1626, 3138, 3138, 3138, 3138, 3138, 3138, 3138]
+internal: false
 
 ---
 

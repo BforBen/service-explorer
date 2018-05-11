@@ -1,9 +1,12 @@
 ---
 esd_id: 7
-internal: false
 title: "Psychological, psychiatric or social work services in schools"
 history: >-
   Added scope notes in version 2.02. Term name changed from 'Psychology, psychiatry or social work services' to 'Schools - psychological, psychiatric or social work services' in version 3.00.
+function: 135
+interactions: [0, 8]
+powers: [2543, 2543]
+internal: false
 
 ---
 

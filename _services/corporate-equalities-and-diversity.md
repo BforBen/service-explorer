@@ -1,9 +1,12 @@
 ---
 esd_id: 1623
-internal: true
 title: "Corporate - equalities and diversity"
 history: >-
   Added in version 4.00.
+function: 53
+interactions: []
+powers: [84, 84, 85, 85, 86, 86, 87, 87, 2634, 2634, 2634]
+internal: true
 
 ---
 

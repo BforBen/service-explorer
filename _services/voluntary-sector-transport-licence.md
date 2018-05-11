@@ -1,9 +1,12 @@
 ---
 esd_id: 387
-internal: false
 title: "Voluntary sector transport licence"
 history: >-
   Added scope notes in version 2.02. Scope notes updated in version 3.00 for clarity. Term name changed from 'Licence - voluntary mini-cab licensing scheme' to 'Licences - transport - voluntary sector ' in version 3.00. Name changed to 'Voluntary sector transport licence' in version 4.00.
+function: 167
+interactions: [0, 4, 8, 9]
+powers: []
+internal: false
 
 ---
 

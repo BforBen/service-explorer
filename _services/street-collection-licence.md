@@ -1,9 +1,12 @@
 ---
 esd_id: 647
-internal: false
 title: "Street collection licence"
 history: >-
   Added scope notes in version 2.02. Scope notes changed in version 3.00 to include Scottish legislation. Term name changed from 'Licence - street collection' to 'Licences - street collection' in version 3.00. Name changed to 'Street collection licence' in version 4.00.
+function: 163
+interactions: [0, 4, 8, 9]
+powers: [1761]
+internal: false
 
 ---
 

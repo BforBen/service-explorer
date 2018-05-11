@@ -1,9 +1,12 @@
 ---
 esd_id: 1795
-internal: false
 title: "Local crisis payment"
 history: >-
   Added in March 2017.
+function: 125
+interactions: [0, 8]
+powers: []
+internal: false
 
 ---
 

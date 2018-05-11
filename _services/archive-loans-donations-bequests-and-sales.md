@@ -1,9 +1,12 @@
 ---
 esd_id: 604
-internal: false
 title: "Archive loans, donations, bequests and sales"
 history: >-
   Added scope notes in version 2.02. Term name changed from 'Loans, donations, bequests and sale to the Records Office' to 'Archives - loans, donations bequests and sales' in version 3.00. Name changed to 'Archive loans, donations, bequests and sales' in version 4.00.
+function: 77
+interactions: [8]
+powers: [2156, 2156]
+internal: false
 
 ---
 

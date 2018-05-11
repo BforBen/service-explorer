@@ -1,9 +1,12 @@
 ---
 esd_id: 496
-internal: false
 title: "Shop front improvement grants"
 history: >-
   Added scope notes in version 2.02. Term name changed from 'Town centre management - shop front grant' to 'Town centres - shop front improvement grants' in version 3.00. Name changed to 'Shop front improvement grants' in version 4.00.
+function: 8
+interactions: [0, 7, 8]
+powers: []
+internal: false
 
 ---
 

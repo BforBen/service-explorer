@@ -1,9 +1,12 @@
 ---
 esd_id: 703
-internal: false
 title: "Emergency plan"
 history: >-
   Added scope notes in version 2.02. Scope notes updated in version 3.00 to clarify council responsibility. Term name changed from 'Major emergency incident' to 'Civil emergencies - emergency plan' in version 3.00. Name changed to 'Emergency plan' in version 4.00.
+function: 18
+interactions: [6, 8]
+powers: [203, 203, 203, 203, 203, 203, 204, 204, 204, 204, 204, 204, 206, 206, 206, 206, 206, 206, 2904, 2904, 2904, 2904]
+internal: false
 
 ---
 

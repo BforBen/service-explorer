@@ -1,9 +1,12 @@
 ---
 esd_id: 505
-internal: false
 title: "Tree management"
 history: >-
   Added scope notes in version 2.02. Term name changed from 'Conservation and urban design planning - tree management' to 'Planning - tree management' in version 3.00. Name changed to 'Tree management' in version 4.00.
+function: 170
+interactions: [0, 8, 17]
+powers: [1436, 1436, 1492, 1492, 1492]
+internal: false
 
 ---
 

@@ -1,9 +1,12 @@
 ---
 esd_id: 1680
-internal: false
 title: "Childcare sufficiency assessment"
 history: >-
   
+function: 25
+interactions: []
+powers: [193, 196, 196, 196, 2655]
+internal: false
 
 ---
 

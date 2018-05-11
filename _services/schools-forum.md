@@ -1,9 +1,12 @@
 ---
 esd_id: 1773
-internal: false
 title: "Schools forum"
 history: >-
   Added in March 2016 review of legislation
+function: 138
+interactions: [8]
+powers: [1097, 1097, 1134, 1134, 1134, 1134, 1134, 2648, 2648]
+internal: false
 
 ---
 

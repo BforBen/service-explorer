@@ -1,9 +1,12 @@
 ---
 esd_id: 1084
-internal: false
 title: "Exhaust emission testing"
 history: >-
   Name changed to 'Exhaust emission testing' in version 4.00.
+function: 37
+interactions: [0, 4, 8]
+powers: []
+internal: false
 
 ---
 

@@ -1,9 +1,12 @@
 ---
 esd_id: 1330
-internal: false
 title: "Solvent emissions regulation"
 history: >-
   Added in version 3.09. Name changed to 'Solvent emissions regulation' in version 4.00.
+function: 163
+interactions: []
+powers: []
+internal: false
 
 ---
 

@@ -1,6 +1,8 @@
 ---
-esd_id: 2665
 title: "Schools - national curriculum attainment targets"
+esd_id: 2665
+type: duty
+parent_id:  
 ---
 
 Schools have a duty to follow the National Curriculum  attainment targets for core and other foundation subjects at all four key stages (except that there are no attainment targets at

@@ -1,9 +1,12 @@
 ---
 esd_id: 1782
-internal: false
 title: "Counter terrorism (Prevent)"
 history: >-
   Added in March 2017.
+function: 21
+interactions: [8]
+powers: [2997, 2998, 2998, 2999, 2999]
+internal: false
 
 ---
 

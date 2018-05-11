@@ -1,9 +1,12 @@
 ---
 esd_id: 1767
-internal: false
 title: "School register of attendance"
 history: >-
   Added in March 2016 review of legislation
+function: 138
+interactions: [8]
+powers: [837, 2545]
+internal: false
 
 ---
 

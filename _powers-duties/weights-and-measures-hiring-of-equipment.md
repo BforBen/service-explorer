@@ -1,6 +1,8 @@
 ---
-esd_id: 2912
 title: "Weights and measures - hiring of equipment"
+esd_id: 2912
+type: power
+parent_id:  
 ---
 
 A local authority may 

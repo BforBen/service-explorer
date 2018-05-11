@@ -1,9 +1,12 @@
 ---
 esd_id: 1725
-internal: false
 title: "Lorry parking"
 history: >-
   
+function: 110
+interactions: []
+powers: [2255, 3134]
+internal: false
 
 ---
 

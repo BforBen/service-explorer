@@ -1,9 +1,12 @@
 ---
 esd_id: 221
-internal: false
 title: "Disabled and older people - rail card"
 history: >-
   Added scope notes in version 2.02. Term name changed from 'Rail card' to 'Disabled and older people - rail card' in version 3.00.
+function: 106
+interactions: [0, 8]
+powers: [1649, 1649, 1649, 1649, 1649, 1940, 1940, 1940, 1940, 1940, 1940]
+internal: false
 
 ---
 

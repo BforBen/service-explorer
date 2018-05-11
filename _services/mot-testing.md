@@ -1,9 +1,12 @@
 ---
 esd_id: 869
-internal: false
 title: "MOT testing"
 history: >-
   Term name changed from 'MOT testing' to 'Council - commercial activities - MOT testing' in version 3.00. name changed to MOT testing' in version 4.00.
+function: 144
+interactions: [0, 1, 4, 8, 9]
+powers: [2879, 2879, 2879, 2879, 2879, 2879, 2879]
+internal: false
 
 ---
 

@@ -1,9 +1,12 @@
 ---
 esd_id: 1787
-internal: false
 title: "Sensory rooms"
 history: >-
   Added in March 2017.
+function: 155
+interactions: [0, 8]
+powers: []
+internal: false
 
 ---
 

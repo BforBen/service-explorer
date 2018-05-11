@@ -1,6 +1,8 @@
 ---
-esd_id: 2475
 title: "Social care - optional registers of sight impaired and disabled adults"
+esd_id: 2475
+type: power
+parent_id:  
 ---
 
 A local authority may establish and maintain one or more registers of adults with a disability or with a mental or physical impairment  who are ordinarily resident in the local authority's area, for the purposes in particular of—

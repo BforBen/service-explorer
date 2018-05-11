@@ -1,9 +1,12 @@
 ---
 esd_id: 760
-internal: false
 title: "Coastal events"
 history: >-
   Added scope notes in version 2.02. Term name changed from 'Events (marine)' to 'Coastline - events' in version 3.00. Name changed to 'Coastal events' in version 4.00.
+function: 96
+interactions: [8]
+powers: []
+internal: false
 
 ---
 

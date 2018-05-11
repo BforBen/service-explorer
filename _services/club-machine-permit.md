@@ -1,9 +1,12 @@
 ---
 esd_id: 1684
-internal: false
 title: "Club machine permit"
 history: >-
   
+function: 90
+interactions: []
+powers: [349, 349, 357, 357, 357, 357, 357, 357, 357, 357, 357, 357, 358, 358, 358, 358, 358, 358, 358, 358, 358, 358, 359, 359, 359, 359, 359, 359, 359, 359, 359, 359]
+internal: false
 
 ---
 

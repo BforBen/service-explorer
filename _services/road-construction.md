@@ -1,9 +1,12 @@
 ---
 esd_id: 1762
-internal: false
 title: "Road construction"
 history: >-
   Added in March 2016 review of legislation
+function: 109
+interactions: [8]
+powers: [1895, 1895, 1895, 1895, 2514]
+internal: false
 
 ---
 

@@ -1,6 +1,8 @@
 ---
-esd_id: 2454
 title: "Social care - provision of carer support"
+esd_id: 2454
+type: power
+parent_id:  
 ---
 
 A local authority may meet a carer's needs for support if it is satisfied that it is not required to meet the carer's needs under this section; but, in so far as meeting the carer's needs involves the provision of care and support to the adult needing care, it may do so only if the adult needing care agrees to the needs being met in that way.

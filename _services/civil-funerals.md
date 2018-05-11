@@ -1,9 +1,12 @@
 ---
 esd_id: 875
-internal: false
 title: "Civil funerals"
 history: >-
   Term name changed from 'Civil funerals' to 'Death - funerals - civil' in version 3.00. Name changed to 'Civil funerals' in version 4.00.
+function: 35
+interactions: [0, 1, 4, 8]
+powers: []
+internal: false
 
 ---
 

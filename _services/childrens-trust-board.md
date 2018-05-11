@@ -1,9 +1,12 @@
 ---
 esd_id: 1678
-internal: false
 title: "Children's Trust Board"
 history: >-
   
+function: 152
+interactions: []
+powers: [161, 162, 171]
+internal: false
 
 ---
 

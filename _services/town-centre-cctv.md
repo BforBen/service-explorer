@@ -1,9 +1,12 @@
 ---
 esd_id: 498
-internal: false
 title: "Town centre CCTV"
 history: >-
   Added scope notes in version 2.02. Term name changed from 'Town centre management - CCTV' to 'Town centres - closed circuit television (CCTV)' in version 3.00. Name changed to 'Town centre CCTV' in version 4.00.
+function: 21
+interactions: [8]
+powers: [2691, 2691, 2691, 2691]
+internal: false
 
 ---
 

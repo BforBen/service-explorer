@@ -1,9 +1,12 @@
 ---
 esd_id: 1614
-internal: false
 title: "16 to 19 bursary fund"
 history: >-
   Added in version 4.00.
+function: 27
+interactions: [0, 8]
+powers: [793, 793, 2585]
+internal: false
 
 ---
 

@@ -1,6 +1,8 @@
 ---
-esd_id: 2911
 title: "Weights and measures - exchange of standards or equipment"
+esd_id: 2911
+type: power
+parent_id:  
 ---
 
 A local authority may—

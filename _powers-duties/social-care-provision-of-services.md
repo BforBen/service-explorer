@@ -1,6 +1,8 @@
 ---
-esd_id: 2484
 title: "Social care - provision of services"
+esd_id: 2484
+type: duty
+parent_id:  
 ---
 
 A local authority must have regard to section 8 of the Care Act 2014 when considering how to make needs under section 18 to 20

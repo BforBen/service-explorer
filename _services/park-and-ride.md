@@ -1,9 +1,12 @@
 ---
 esd_id: 1112
-internal: false
 title: "Park and ride"
 history: >-
   Name changed to 'Park and ride' in version 4.00.
+function: 113
+interactions: [8]
+powers: [3132, 3132]
+internal: false
 
 ---
 

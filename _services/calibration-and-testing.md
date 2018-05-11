@@ -1,9 +1,12 @@
 ---
 esd_id: 1046
-internal: false
 title: "Calibration and testing"
 history: >-
   Name changed to 'Calibration and testing' and scope notes revised in version 4.00.
+function: 144
+interactions: [0, 4, 8]
+powers: [1640, 1640, 1640, 1640, 1640, 1640, 1640, 1641, 1641, 1641, 1641, 1641, 1641, 1641, 1642, 1642, 1642, 1642, 1642, 1642, 1642, 1643, 1643, 1643, 1643, 1643, 1643, 1644, 1644, 1644, 1644, 1644, 1644, 1644, 1943, 1943, 1959, 1959, 1959, 1959, 1959, 2879, 2879, 2879, 2879, 2879, 2879, 2879]
+internal: false
 
 ---
 

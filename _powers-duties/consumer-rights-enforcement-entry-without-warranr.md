@@ -1,6 +1,8 @@
 ---
-esd_id: 2990
 title: "Consumer rights enforcement - entry without warranr"
+esd_id: 2990
+type: power
+parent_id:  
 ---
 
 A local authority authorised officer may enter non-domestic premises without a warrant providing appropriate notice has been given for routine inspections. 

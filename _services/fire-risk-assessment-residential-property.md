@@ -1,9 +1,12 @@
 ---
 esd_id: 1119
-internal: false
 title: "Fire risk assessment - residential property"
 history: >-
   Name changed to 'Fire risk assessment - residential property' and scope notes updated in version 4.00.
+function: 131
+interactions: [0, 6, 8]
+powers: [284, 284, 284, 284, 284, 284, 284, 284, 284, 284, 284, 284, 284, 284, 284, 284, 284, 284, 284, 284, 284, 284, 284, 284, 284, 284, 284, 284, 284, 284, 290, 290, 290, 290, 290, 290, 290, 290, 290, 290, 290, 290, 290, 290, 290, 290, 290, 290, 290, 290, 290, 290, 290, 290, 290, 290, 290, 290, 290, 290, 290, 290, 290, 290]
+internal: false
 
 ---
 

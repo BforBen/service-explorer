@@ -1,9 +1,12 @@
 ---
 esd_id: 1470
-internal: false
 title: "Household waste enforcement"
 history: >-
   Added in version 3.11. Name changed to 'Household waste enforcement' in version 4.00.
+function: 142
+interactions: [0, 8]
+powers: [3124, 3124, 3124, 3124, 3124]
+internal: false
 
 ---
 

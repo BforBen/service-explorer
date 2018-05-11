@@ -1,9 +1,12 @@
 ---
 esd_id: 638
-internal: false
 title: "Sports employment"
 history: >-
   Added scope notes in version 2.02. Term name changed from 'Sports employment' to 'Jobs - sports employment' in version 3.00.  Name changed to 'Sports employment' in version 4.00.
+function: 10
+interactions: [0, 8]
+powers: []
+internal: false
 
 ---
 

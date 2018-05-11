@@ -1,9 +1,12 @@
 ---
 esd_id: 85
-internal: false
 title: "Hard to let properties"
 history: >-
   Added scope notes in version 2.02 Scope notes updated in version 3.00. Term name changed from 'Housing allocations - hard to let/easy access properties' to 'Housing - allocations - hard to let properties' in version 3.00. Name changed to 'Hard to let properties' in version 4.00.
+function: 158
+interactions: [8]
+powers: []
+internal: false
 
 ---
 

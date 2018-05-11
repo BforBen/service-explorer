@@ -1,9 +1,12 @@
 ---
 esd_id: 1690
-internal: false
 title: "Selective housing areas"
 history: >-
   
+function: 85
+interactions: []
+powers: [575, 575, 576, 577, 578]
+internal: false
 
 ---
 

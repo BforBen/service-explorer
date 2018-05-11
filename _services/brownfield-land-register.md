@@ -1,9 +1,12 @@
 ---
 esd_id: 1797
-internal: false
 title: "Brownfield land register"
 history: >-
   Added in August 2017
+function: 101
+interactions: [8]
+powers: [3090]
+internal: false
 
 ---
 

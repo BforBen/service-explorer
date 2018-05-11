@@ -1,9 +1,12 @@
 ---
 esd_id: 981
-internal: true
 title: "Staff - redeployment"
 history: >-
   Term name changed from 'Redeployment' to 'Staff - redeployment' in version 3.00.  Scope notes added in version 3.01.
+function: 119
+interactions: []
+powers: [939, 1127, 1127, 1300]
+internal: true
 
 ---
 

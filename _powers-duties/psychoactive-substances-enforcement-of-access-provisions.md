@@ -1,6 +1,8 @@
 ---
-esd_id: 3037
 title: "Psychoactive substances - enforcement of access provisions"
+esd_id: 3037
+type: power
+parent_id:  
 ---
 
 A person authorised  by a local authority may—

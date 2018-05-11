@@ -1,9 +1,12 @@
 ---
 esd_id: 1739
-internal: false
 title: "Planning non-material amendments"
 history: >-
   
+function: 101
+interactions: [0, 8]
+powers: [1394, 1394, 1394, 1394, 1394, 1394, 1394, 1394, 2821, 2821, 2821, 2821, 2821, 2821, 2821, 2821, 2821, 2821, 2821, 2821, 2821, 2821, 2821, 2821, 2821]
+internal: false
 
 ---
 

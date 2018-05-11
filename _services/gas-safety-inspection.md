@@ -1,9 +1,12 @@
 ---
 esd_id: 1796
-internal: false
 title: "Gas safety inspection"
 history: >-
   Added in March 2017.
+function: 159
+interactions: [0, 8]
+powers: []
+internal: false
 
 ---
 

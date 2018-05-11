@@ -1,6 +1,8 @@
 ---
-esd_id: 2391
 title: "Special educational needs or disability - maintenance of EHC plan on release from detention"
+esd_id: 2391
+type: duty
+parent_id:  
 ---
 
 Where a child or young person who has been subject to a detention order is released,

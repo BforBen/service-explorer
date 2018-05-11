@@ -1,9 +1,12 @@
 ---
 esd_id: 913
-internal: false
 title: "Empty residential properties"
 history: >-
   Term name changed from 'Empty residential properties' to 'Housing - empty residential properties' in version 3.00. Name changed to 'Empty residential properties' in version 4.00.
+function: 158
+interactions: [8]
+powers: [598, 598, 599, 599, 600, 600, 601, 601, 602, 602, 603, 603, 610, 610, 610, 610, 610, 610, 610, 611, 611, 611, 611, 611, 611, 611, 612, 612, 612, 612, 612, 612, 612, 613, 613, 613, 613, 613, 613, 613, 614, 614, 614, 614, 614, 614, 614, 614, 614]
+internal: false
 
 ---
 

@@ -1,9 +1,12 @@
 ---
 esd_id: 324
-internal: false
 title: "Death - historical searches"
 history: >-
   Added scope notes in version 2.02. Term name changed from 'Deaths historical searches' to 'Death - historical searches' in version 3.00.
+function: 54
+interactions: [0, 4, 8]
+powers: [1716, 1716, 1716, 1716, 1716, 1716, 1716, 1716, 1716, 1716, 1716, 1716, 1716, 1717, 1717, 1717, 1717, 1717, 1717, 1717, 1717, 1717, 1717, 1717, 1717, 1717, 1718, 1718, 1718, 1718, 1718, 1718, 1718, 1718, 1718, 1718, 1718, 1718, 1718, 1719, 1719, 1719, 1719, 1719, 1719, 1719, 1719, 1719, 1719, 1719, 1719, 1719, 3191, 3191, 3191, 3191, 3191, 3191, 3191, 3191, 3191]
+internal: false
 
 ---
 

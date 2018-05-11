@@ -1,9 +1,12 @@
 ---
 esd_id: 1689
-internal: false
 title: "Designated public places order"
 history: >-
   
+function: 133
+interactions: []
+powers: [469, 469, 470, 470]
+internal: false
 
 ---
 

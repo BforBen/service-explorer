@@ -1,9 +1,12 @@
 ---
 esd_id: 1717
-internal: false
 title: "Moveable dwelling site licence"
 history: >-
   
+function: 163
+interactions: []
+powers: [1809]
+internal: false
 
 ---
 

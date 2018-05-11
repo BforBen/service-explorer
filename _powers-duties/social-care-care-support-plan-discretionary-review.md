@@ -1,6 +1,8 @@
 ---
-esd_id: 2458
 title: "Social care - care support plan discretionary review"
+esd_id: 2458
+type: power
+parent_id:  
 ---
 
 A local authority may revise a care and support plan; and in deciding whether or how to do so, it—

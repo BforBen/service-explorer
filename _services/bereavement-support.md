@@ -1,9 +1,12 @@
 ---
 esd_id: 328
-internal: false
 title: "Bereavement support"
 history: >-
   Term name changed from 'Bereavement' to 'Help with bereavement' and scope notes added in version 2.02. Term name changed from 'Help with bereavement' to 'Death - bereavement - advice and support' in version 3.00. Name changed to 'Bereavement support' in version 4.00.
+function: 2
+interactions: [8]
+powers: []
+internal: false
 
 ---
 

@@ -1,6 +1,8 @@
 ---
-esd_id: 2440
 title: "Social care - promoting individual wellbeing"
+esd_id: 2440
+type: duty
+parent_id:  
 ---
 
 The general duty of a local authority, in exercising a function under this Part in the case of an individual, is to promote that individual’s well-being.

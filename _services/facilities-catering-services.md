@@ -1,9 +1,12 @@
 ---
 esd_id: 955
-internal: true
 title: "Facilities - catering services"
 history: >-
   Term name changed from 'Catering services' to 'Facilities - catering services' in version 3.00.
+function: 118
+interactions: []
+powers: []
+internal: true
 
 ---
 

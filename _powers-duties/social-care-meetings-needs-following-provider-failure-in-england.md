@@ -1,6 +1,8 @@
 ---
-esd_id: 2466
 title: "Social care - meetings needs following provider failure in England"
+esd_id: 2466
+type: duty
+parent_id:  
 ---
 
 Where a Registered Care Provider becomes unable to carry on a regulated activity because of business failure.

@@ -1,9 +1,12 @@
 ---
 esd_id: 1063
-internal: false
 title: "Online library resources"
 history: >-
   Name changed to 'Online library resources' in version 4.00.
+function: 161
+interactions: [8]
+powers: []
+internal: false
 
 ---
 

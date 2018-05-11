@@ -1,9 +1,12 @@
 ---
 esd_id: 1412
-internal: false
 title: "Community noticeboards"
 history: >-
   Added in version 3.09. Name changed to 'Community noticeboards' and scope notes revised in version 4.00.
+function: 46
+interactions: [0, 8]
+powers: []
+internal: false
 
 ---
 

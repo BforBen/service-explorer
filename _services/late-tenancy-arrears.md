@@ -1,9 +1,12 @@
 ---
 esd_id: 119
-internal: false
 title: "Late tenancy arrears"
 history: >-
   Added scope notes in version 2.02. Term name changed from 'Council housing - late tenancy arrears - rents' to 'Housing - council - late tenancy arrears - rents' in version 3.00. Name changed to 'Late tenancy arrears' in version 4.00.
+function: 157
+interactions: [2, 8]
+powers: []
+internal: false
 
 ---
 

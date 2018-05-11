@@ -1,6 +1,8 @@
 ---
-esd_id: 2416
 title: "Access land - improvement or repair to means of access"
+esd_id: 2416
+type: power
+parent_id:  
 ---
 
 A local authority where, in respect of any access land—

@@ -1,6 +1,8 @@
 ---
-esd_id: 2832
 title: "Environment - significant flood risk"
+esd_id: 2832
+type: duty
+parent_id:  
 ---
 
 A local authority must (subject to Part V)—

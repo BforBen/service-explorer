@@ -1,9 +1,12 @@
 ---
 esd_id: 366
-internal: false
 title: "Community engagement"
 history: >-
   Added scope notes in version 2.02, updated in version 3.06. Term name changed from 'Council - consultation - open forums' to 'Council - consultation and community engagement' in version 3.06. Name changed to 'Community engagement' and scope notes revised in version 4.00.
+function: 48
+interactions: [8]
+powers: []
+internal: false
 
 ---
 

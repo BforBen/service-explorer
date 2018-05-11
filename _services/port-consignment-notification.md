@@ -1,9 +1,12 @@
 ---
 esd_id: 775
-internal: false
 title: "Port consignment notification"
 history: >-
   Added scope notes in version 2.02. Scope notes extended in version 3.0 to provide additional detail. Term name changed from 'Notification of consignment to be imported' to 'Ports of entry - notification of consignment to be imported' in version 3.00. Name changed to 'Port consignment notification' in version 4.00.
+function: 169
+interactions: [0, 8]
+powers: []
+internal: false
 
 ---
 

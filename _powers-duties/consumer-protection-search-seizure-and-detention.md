@@ -1,6 +1,8 @@
 ---
-esd_id: 2926
 title: "Consumer protection - search, seizure and detention"
+esd_id: 2926
+type: power
+parent_id:  
 ---
 
 A duly authorised officer of an enforcement authority may at any reasonable hour and on production, if required, of his credentials - 

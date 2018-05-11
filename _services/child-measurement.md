@@ -1,9 +1,12 @@
 ---
 esd_id: 1748
-internal: false
 title: "Child measurement"
 history: >-
   
+function: 65
+interactions: [8]
+powers: [370, 370, 370, 370, 370, 370, 370, 370, 370, 370, 370, 373, 373, 373, 373, 373, 373, 373, 373, 373, 373, 373, 374, 374, 374, 374, 374, 374, 374, 374, 374, 374, 374, 392, 2687]
+internal: false
 
 ---
 

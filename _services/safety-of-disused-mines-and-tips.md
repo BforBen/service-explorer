@@ -1,9 +1,12 @@
 ---
 esd_id: 1673
-internal: false
 title: "Safety of disused mines and tips"
 history: >-
   
+function: 12
+interactions: []
+powers: [1594, 1595, 1596, 1597, 1598, 1599, 1600, 1601, 1602, 1603, 2904, 2904, 2904, 2904]
+internal: false
 
 ---
 

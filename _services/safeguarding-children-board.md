@@ -1,9 +1,12 @@
 ---
 esd_id: 1760
-internal: false
 title: "Safeguarding Children Board"
 history: >-
   Added in March 2016 review of legislation
+function: 152
+interactions: [8]
+powers: [163, 163, 164, 164, 165, 165, 175, 175, 176, 176, 177, 177]
+internal: false
 
 ---
 

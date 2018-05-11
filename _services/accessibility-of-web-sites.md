@@ -1,9 +1,12 @@
 ---
 esd_id: 853
-internal: false
 title: "Accessibility of Web sites"
 history: >-
   Added scope notes in version 2.02. Term name changed from 'Internet service standards' to 'Council websites - accessibility' in version 3.00. name changed to 'Accessibility of Web sites' in version 4.00.
+function: 46
+interactions: [8]
+powers: []
+internal: false
 
 ---
 

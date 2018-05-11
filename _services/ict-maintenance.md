@@ -1,9 +1,12 @@
 ---
 esd_id: 1634
-internal: true
 title: "ICT - maintenance"
 history: >-
   Added in version 4.00.
+function: 120
+interactions: []
+powers: []
+internal: true
 
 ---
 

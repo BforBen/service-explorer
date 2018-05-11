@@ -1,9 +1,12 @@
 ---
 esd_id: 1720
-internal: false
 title: "Shared home ownership"
 history: >-
   
+function: 158
+interactions: []
+powers: [1922]
+internal: false
 
 ---
 

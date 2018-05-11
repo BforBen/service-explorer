@@ -1,9 +1,12 @@
 ---
 esd_id: 117
-internal: false
 title: "Housing evictions"
 history: >-
   Added scope notes in version 2.02. Term name changed from 'Council housing - evictions' to 'Housing - council - evictions' in version 3.00. Name changed to 'Housing evictions' in version 4.00.
+function: 156
+interactions: [8]
+powers: []
+internal: false
 
 ---
 

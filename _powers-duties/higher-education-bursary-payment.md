@@ -1,6 +1,8 @@
 ---
-esd_id: 2585
 title: "Higher education - bursary payment"
+esd_id: 2585
+type: power
+parent_id:  
 ---
 
 A local authority may pay the bursary of £2,000 payable to a former relevant child who begins a higher education course on or after 1 September 2010 in accordance with their pathway plan as a lump sum or by instalments, within prescribed time limits.

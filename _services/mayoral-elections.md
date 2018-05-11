@@ -1,9 +1,12 @@
 ---
 esd_id: 1701
-internal: false
 title: "Mayoral elections"
 history: >-
   
+function: 147
+interactions: []
+powers: [1045, 1078, 2618, 2631, 2631, 2631, 3012, 3012, 3016, 3016, 3017, 3017]
+internal: false
 
 ---
 

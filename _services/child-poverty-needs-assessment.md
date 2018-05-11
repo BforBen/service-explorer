@@ -1,9 +1,12 @@
 ---
 esd_id: 1676
-internal: false
 title: "Child poverty needs assessment"
 history: >-
   
+function: 155
+interactions: []
+powers: [54, 1984, 1984, 1984, 1984, 1984, 1984, 1984]
+internal: false
 
 ---
 

@@ -1,9 +1,12 @@
 ---
 esd_id: 843
-internal: false
 title: "Weighbridge operator licence"
 history: >-
   Added scope notes in version 2.02. Term name changed from 'Licence - weighbridge operator' to 'Licences - weighbridge operator's' in version 3.00.. Name changed to 'Weighbridge operator licence' in version 4.00.
+function: 166
+interactions: [0, 4, 8, 9]
+powers: [3198]
+internal: false
 
 ---
 

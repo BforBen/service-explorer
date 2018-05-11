@@ -1,9 +1,12 @@
 ---
 esd_id: 1761
-internal: false
 title: "Parenting contract"
 history: >-
   Added in March 2016 review of legislation
+function: 135
+interactions: [8]
+powers: [439, 441]
+internal: false
 
 ---
 

@@ -1,9 +1,12 @@
 ---
 esd_id: 1
-internal: false
 title: "Home schooling"
 history: >-
   Added scope notes in version 2.02. Term name changed from 'Educating your child at home' to 'Schools - home schooling' in version 3.00. . Term name changed to 'Home schooling' in version 4.00
+function: 134
+interactions: [0, 8]
+powers: [799, 799, 799, 799, 839, 839, 840, 840, 840, 840, 840]
+internal: false
 
 ---
 

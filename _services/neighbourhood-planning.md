@@ -1,9 +1,12 @@
 ---
 esd_id: 1708
-internal: false
 title: "Neighbourhood planning"
 history: >-
   Added in March 2016 review of legislation
+function: 103
+interactions: []
+powers: [2511, 2521, 2521, 2521, 2521, 2627, 2628]
+internal: false
 
 ---
 

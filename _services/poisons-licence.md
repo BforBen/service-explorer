@@ -1,9 +1,12 @@
 ---
 esd_id: 380
-internal: false
 title: "Poisons licence"
 history: >-
   Term name changed from 'Licence - non medicinal poisons' to 'Licence - non-medicinal poisons' and scope notes added in version 2.02. Term name changed from 'Licence - non-medicinal poisons' to 'Licences - poisons' in version 3.00. Name changed to 'poisons licence' in version 4.00.
+function: 88
+interactions: [0, 4, 8, 9]
+powers: []
+internal: false
 
 ---
 

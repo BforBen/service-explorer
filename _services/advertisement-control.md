@@ -1,9 +1,12 @@
 ---
 esd_id: 1082
-internal: false
 title: "Advertisement control"
 history: >-
   Name changed to 'Advertisement control' in version 4.00.
+function: 101
+interactions: [8]
+powers: [1446, 1447, 1447, 1448]
+internal: false
 
 ---
 

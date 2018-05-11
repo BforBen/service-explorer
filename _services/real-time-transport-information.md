@@ -1,9 +1,12 @@
 ---
 esd_id: 903
-internal: false
 title: "Real time transport information"
 history: >-
   Term name changed from 'Real time information' to 'Transport - real time information' in version 3.00. Name changed to 'Real time transport information' in version 4.00.
+function: 111
+interactions: [0, 8]
+powers: [1183, 1183, 1183, 1183, 1183, 3148, 3148, 3148, 3148, 3148, 3148, 3148, 3148]
+internal: false
 
 ---
 

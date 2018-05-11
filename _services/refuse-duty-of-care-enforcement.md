@@ -1,9 +1,12 @@
 ---
 esd_id: 1472
-internal: false
 title: "Refuse duty of care - enforcement"
 history: >-
   Added in version 3.11.
+function: 143
+interactions: [0, 8]
+powers: []
+internal: false
 
 ---
 

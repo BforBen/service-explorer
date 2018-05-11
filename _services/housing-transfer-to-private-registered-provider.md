@@ -1,9 +1,12 @@
 ---
 esd_id: 1777
-internal: false
 title: "Housing transfer to private registered provider"
 history: >-
   Added in March 2016 review of legislation
+function: 158
+interactions: [8]
+powers: [2684, 3020, 3020, 3020, 3120, 3120]
+internal: false
 
 ---
 

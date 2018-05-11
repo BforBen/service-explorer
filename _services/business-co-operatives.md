@@ -1,9 +1,12 @@
 ---
 esd_id: 351
-internal: false
 title: "Business co-operatives"
 history: >-
   Added scope notes in version 2.02. Term name changed from 'Co-operative development' to 'Business - co-operatives - development' in version 3.00. Name changed to 'Business co-operatives' in version 4.00.
+function: 7
+interactions: [8]
+powers: []
+internal: false
 
 ---
 

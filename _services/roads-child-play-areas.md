@@ -1,9 +1,12 @@
 ---
 esd_id: 1586
-internal: false
 title: "Roads - child play areas"
 history: >-
   Added in version 3.14.
+function: 112
+interactions: [0, 8]
+powers: [2361]
+internal: false
 
 ---
 

@@ -1,9 +1,12 @@
 ---
 esd_id: 1394
-internal: false
 title: "Support when leaving education"
 history: >-
   Added in version 3.09. Name changed to 'Support when leaving education' and scope notes revised in version 4.00.
+function: 136
+interactions: [0, 8]
+powers: [791, 791, 791, 791, 792, 792, 792, 1888, 1888, 1888, 1888]
+internal: false
 
 ---
 

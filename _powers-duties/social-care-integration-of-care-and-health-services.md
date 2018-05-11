@@ -1,6 +1,8 @@
 ---
-esd_id: 2441
 title: "Social care - integration of care and health services"
+esd_id: 2441
+type: duty
+parent_id:  
 ---
 
 A local authority must exercise its functions under this Part with a view to ensuring the integration of care and support provision with health provision and health-related provision where it considers that this would—

@@ -1,9 +1,12 @@
 ---
 esd_id: 382
-internal: false
 title: "Scaffolding and hoarding licence"
 history: >-
   Added scope notes in version 2.02. Scope notes changed in version 3.00 to include Scottish legislation. Term name changed from 'Licence - scaffolding and hoarding' to 'Licences - obstructions - scaffolding and hoarding' in version 3.00. Name changed to 'Scaffolding and hoarding licence' in version 4.00.
+function: 85
+interactions: [0, 4, 8, 9]
+powers: [3203]
+internal: false
 
 ---
 

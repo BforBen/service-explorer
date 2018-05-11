@@ -1,9 +1,12 @@
 ---
 esd_id: 1012
-internal: false
 title: "Tenant participation"
 history: >-
   Name changed to 'Tenant participation' in version 4.00.@en
+function: 159
+interactions: [3, 8]
+powers: [2608]
+internal: false
 
 ---
 

@@ -1,9 +1,12 @@
 ---
 esd_id: 520
-internal: false
 title: "Commercial waste disposal sites"
 history: >-
   Added scope notes in version 2.02. Term name changed from 'Commercial waste - disposal sites' to 'Refuse - commercial waste - disposal sites' in version 3.00. name changed to 'Commercial waste disposal sites' in version 4.00.
+function: 140
+interactions: [8]
+powers: [1208, 1208, 1208, 1208, 1208, 1208, 1208, 1208, 1209, 1209, 1209, 1209, 1209, 1209, 1209, 1209, 1209, 1224, 1532, 1532, 1532, 1532, 1533, 1533, 1533, 1533, 2100, 2100, 2100, 2100]
+internal: false
 
 ---
 

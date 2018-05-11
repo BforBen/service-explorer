@@ -1,9 +1,12 @@
 ---
 esd_id: 1765
-internal: false
 title: "Alternative provision of education"
 history: >-
   Added in March 2016 review of legislation
+function: 134
+interactions: [8]
+powers: [799, 799, 799, 799, 2530, 3023, 3023, 3023, 3023]
+internal: false
 
 ---
 

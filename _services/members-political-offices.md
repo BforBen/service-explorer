@@ -1,9 +1,12 @@
 ---
 esd_id: 1032
-internal: true
 title: "Members - political offices"
 history: >-
   Term name changed from 'Political offices' to 'Members - political offices' in version 3.00.  Scope notes added in version 3.01.
+function: 115
+interactions: []
+powers: []
+internal: true
 
 ---
 

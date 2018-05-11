@@ -1,9 +1,12 @@
 ---
 esd_id: 1625
-internal: true
 title: "Corporate - workforce plan"
 history: >-
   Added in version 4.00.
+function: 53
+interactions: []
+powers: [2027]
+internal: true
 
 ---
 

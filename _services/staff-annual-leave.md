@@ -1,9 +1,12 @@
 ---
 esd_id: 1302
-internal: true
 title: "Staff - annual leave"
 history: >-
   Added in version 3.08.
+function: 119
+interactions: [0, 8]
+powers: []
+internal: true
 
 ---
 

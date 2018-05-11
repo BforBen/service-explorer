@@ -1,9 +1,12 @@
 ---
 esd_id: 526
-internal: false
 title: "Household waste containers"
 history: >-
   Added scope notes in version 2.02. Term name changed from 'Household waste - domestic bins' to 'Refuse - household waste - domestic bins' in version 3.00. Name changed to 'Household waste containers' in version 4.00.
+function: 142
+interactions: [0, 8, 17]
+powers: [1215, 1215, 1217, 1217, 1675, 2799, 2799, 3124, 3124, 3124, 3124, 3124]
+internal: false
 
 ---
 

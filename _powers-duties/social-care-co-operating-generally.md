@@ -1,6 +1,8 @@
 ---
-esd_id: 2444
 title: "Social care - co-operating generally"
+esd_id: 2444
+type: duty
+parent_id:  
 ---
 
 A local authority must co-operate with each of its relevant partners, and each relevant partner must co-operate with the authority, in the exercise of—

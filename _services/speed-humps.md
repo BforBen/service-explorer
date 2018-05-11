@@ -1,9 +1,12 @@
 ---
 esd_id: 543
-internal: false
 title: "Speed humps"
 history: >-
   Added scope notes in version 2.02. Term name changed from 'Road markings and signage - speed humps' to 'Roads - safety - speed humps' in version 3.00. Name changed to 'Speed humps' in version 4.00.
+function: 112
+interactions: [8]
+powers: [2237, 2311, 2311]
+internal: false
 
 ---
 

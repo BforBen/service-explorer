@@ -1,9 +1,12 @@
 ---
 esd_id: 429
-internal: false
 title: "Accident reporting"
 history: >-
   Added scope notes in version 2.02. Term name changed from 'Accidents' to 'Safety - health and safety - accident reporting' in version 3.00. Name changed to 'Accident reporting' in version 4.00.
+function: 12
+interactions: [6, 8, 17]
+powers: []
+internal: false
 
 ---
 

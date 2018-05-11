@@ -1,6 +1,8 @@
 ---
-esd_id: 2576
 title: "Animal trade - enforcement (Wales)"
+esd_id: 2576
+type: duty
+parent_id:  
 ---
 
 A local authority must enforce the Regulations in relation to products (at a

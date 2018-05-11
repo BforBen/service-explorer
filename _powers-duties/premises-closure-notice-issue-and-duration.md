@@ -1,6 +1,8 @@
 ---
-esd_id: 2430
 title: "Premises closure notice - issue and duration"
+esd_id: 2430
+type: power
+parent_id:  
 ---
 
 A local authority may issue a closure notice if satisfied on reasonable grounds—

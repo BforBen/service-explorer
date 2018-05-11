@@ -1,9 +1,12 @@
 ---
 esd_id: 1666
-internal: true
 title: "Staff - recognition"
 history: >-
   Added in version 4.0.1 to the internal service list.
+function: 119
+interactions: []
+powers: []
+internal: true
 
 ---
 

@@ -1,9 +1,12 @@
 ---
 esd_id: 540
-internal: false
 title: "Road signs"
 history: >-
   Added scope notes in version 2.02. Term name changed from 'Road markings and signage - road signs' to 'Roads - markings and signage - road signs' in version 3.00. Name changed to 'Road signs' in version 4.00.
+function: 173
+interactions: [8]
+powers: [2042, 2042, 2364, 2365, 2366, 2367, 2367, 3137]
+internal: false
 
 ---
 

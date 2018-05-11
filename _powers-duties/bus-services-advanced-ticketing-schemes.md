@@ -1,6 +1,8 @@
 ---
-esd_id: 3170
 title: "Bus services - advanced ticketing schemes"
+esd_id: 3170
+type: power
+parent_id:  
 ---
 
 A local transport authority or two or more such authorities acting jointly, may make a ticketing scheme (an "advanced ticketing scheme") covering the whole or any part of their area, or combined area, if they consider that the proposed scheme-

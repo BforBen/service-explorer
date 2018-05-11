@@ -1,9 +1,12 @@
 ---
 esd_id: 905
-internal: false
 title: "Transport service disruption information"
 history: >-
   Term name changed from 'Service disruption information' to 'Transport - service disruption information' in version 3.00.
+function: 111
+interactions: [8]
+powers: [1183, 1183, 1183, 1183, 1183, 3148, 3148, 3148, 3148, 3148, 3148, 3148, 3148]
+internal: false
 
 ---
 

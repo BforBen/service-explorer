@@ -1,9 +1,12 @@
 ---
 esd_id: 175
-internal: false
 title: "Parenting orders"
 history: >-
   Added scope notes in version 2.02. Scope notes updated to include Scottish legislation in version 3.00. Term name changed from 'Parenting orders' to 'Families - parenting orders' in version 3.00. Name changed to 'Parenting orders' in version 4.00.
+function: 22
+interactions: [8]
+powers: [440, 442, 443, 443, 776, 776, 776, 776, 776, 776, 776, 777, 777, 777, 777, 777, 777, 777, 778, 778, 778, 778, 778, 778, 778, 784]
+internal: false
 
 ---
 

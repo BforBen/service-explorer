@@ -1,9 +1,12 @@
 ---
 esd_id: 917
-internal: false
 title: "Management of personal financial affairs"
 history: >-
   Term name changed from 'Appointee and Receivership' to 'Social services - management of personal financial affairs' in version 3.00. Name changed to 'Management of personal financial affairs' in version 4.00.
+function: 150
+interactions: [8]
+powers: []
+internal: false
 
 ---
 

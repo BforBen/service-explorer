@@ -1,6 +1,8 @@
 ---
-esd_id: 2837
 title: "Environment - review of flood risk management plan"
+esd_id: 2837
+type: duty
+parent_id:  
 ---
 
 A local authority must review its Flood Risk Management Plan

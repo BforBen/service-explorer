@@ -1,9 +1,12 @@
 ---
 esd_id: 1364
-internal: false
 title: "Temporary structure fire safety"
 history: >-
   Added in version 3.09. Name changed to 'Temporary structure fire safety' and scope notes revised in version 4.00.
+function: 19
+interactions: []
+powers: [284, 284, 284, 284, 284, 284, 284, 284, 284, 284, 284, 284, 284, 284, 284, 284, 284, 284, 284, 284, 284, 284, 284, 284, 284, 284, 284, 284, 284, 284, 290, 290, 290, 290, 290, 290, 290, 290, 290, 290, 290, 290, 290, 290, 290, 290, 290, 290, 290, 290, 290, 290, 290, 290, 290, 290, 290, 290, 290, 290, 290, 290, 290, 290]
+internal: false
 
 ---
 

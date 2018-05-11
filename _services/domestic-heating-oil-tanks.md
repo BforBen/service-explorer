@@ -1,9 +1,12 @@
 ---
 esd_id: 1397
-internal: false
 title: "Domestic heating oil tanks"
 history: >-
   Added in version 3.09. Name changed to 'Domestic heating oil tanks' and scope notes revised in version 4.00.
+function: 100
+interactions: [0, 8]
+powers: []
+internal: false
 
 ---
 

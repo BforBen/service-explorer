@@ -1,6 +1,8 @@
 ---
-esd_id: 2910
 title: "Weights and measures – Working standards testing and stamping equipment"
+esd_id: 2910
+type: duty
+parent_id:  
 ---
 
 Each local weights and measures authority shall provide for use by the inspectors appointed for the authority's area, and maintain or from time to time replace—

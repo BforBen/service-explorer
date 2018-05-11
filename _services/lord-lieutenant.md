@@ -1,9 +1,12 @@
 ---
 esd_id: 1651
-internal: false
 title: "Lord Lieutenant"
 history: >-
   Added in version 4.0.1 to the English hand welsh, local government service list.
+function: 146
+interactions: []
+powers: []
+internal: false
 
 ---
 

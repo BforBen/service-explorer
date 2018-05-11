@@ -1,9 +1,12 @@
 ---
 esd_id: 1726
-internal: false
 title: "Child employment registration"
 history: >-
   
+function: 155
+interactions: []
+powers: [927, 1739, 1739, 1740, 1740, 1742, 1742, 1743, 1743]
+internal: false
 
 ---
 

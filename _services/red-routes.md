@@ -1,9 +1,12 @@
 ---
 esd_id: 542
-internal: false
 title: "Red routes"
 history: >-
   Added scope notes in version 2.02. Term name changed from 'Road markings and signage - red routes' to 'Roads - markings and signage - red routes' in version 3.00.  Scope notes updated in version 3.01 to include alternative markings for Scotland. Name changed to 'Red routes' in version 4.00.
+function: 113
+interactions: [8]
+powers: []
+internal: false
 
 ---
 

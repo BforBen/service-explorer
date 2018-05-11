@@ -1,9 +1,12 @@
 ---
 esd_id: 162
-internal: false
 title: "Advocacy for carers"
 history: >-
   Added scope notes in version 2.02. Term name changed from 'Advocacy for carers' to 'Carers - advocacy' in version 3.00. Name changed to 'Advocacy for carers in version 4.00. Scope notes revised in version 4.0.1.
+function: 61
+interactions: [6, 8]
+powers: [156, 156, 156, 156, 156, 156, 156, 156, 156, 367, 367, 367, 746, 746, 746, 2453, 2453, 2453, 2453, 2584, 2584, 2584, 2584]
+internal: false
 
 ---
 

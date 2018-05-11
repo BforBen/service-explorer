@@ -1,9 +1,12 @@
 ---
 esd_id: 1049
-internal: false
 title: "Permission to host events"
 history: >-
   Scope notes updated in version 3.06. Name changed to 'Permission to host events' and scope notes updated in version 4.00.
+function: 165
+interactions: [0, 8]
+powers: [1862, 1862, 3004, 3004]
+internal: false
 
 ---
 

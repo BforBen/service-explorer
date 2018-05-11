@@ -1,9 +1,12 @@
 ---
 esd_id: 1127
-internal: false
 title: "Trader approval schemes"
 history: >-
   New term in 3.01. Name changed to 'Trader approval schemes' and scope notes updated in version 4.00.
+function: 15
+interactions: []
+powers: []
+internal: false
 
 ---
 

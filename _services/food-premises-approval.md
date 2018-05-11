@@ -1,9 +1,12 @@
 ---
 esd_id: 1293
-internal: false
 title: "Food premises approval"
 history: >-
   Added in version 3.08.
+function: 89
+interactions: [0, 11, 8, 9]
+powers: []
+internal: false
 
 ---
 

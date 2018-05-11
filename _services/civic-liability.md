@@ -1,9 +1,12 @@
 ---
 esd_id: 1137
-internal: false
 title: "Civic liability"
 history: >-
   Name changed to 'Civic liability' and scope notes updated in version 4.00.
+function: 114
+interactions: [0, 8]
+powers: [1877, 1877]
+internal: false
 
 ---
 

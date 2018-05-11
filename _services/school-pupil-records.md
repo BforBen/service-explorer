@@ -1,9 +1,12 @@
 ---
 esd_id: 15
-internal: false
 title: "School pupil records"
 history: >-
   Added scope notes in version 2.02. Term name changed from 'School records for an individual pupil' to 'Schools - pupil records' in version 3.00. Term name changed to 'School pupil records in version 4.00.
+function: 138
+interactions: [8]
+powers: [931, 2369, 2580, 2594, 2663]
+internal: false
 
 ---
 

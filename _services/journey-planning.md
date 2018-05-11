@@ -1,9 +1,12 @@
 ---
 esd_id: 902
-internal: false
 title: "Journey planning"
 history: >-
   Term name changed from 'Journey planning' to 'Transport - journey planning' in version 3.00. Name changed to 'Journey planning' in version 4.00.
+function: 111
+interactions: [0, 8]
+powers: [1183, 1183, 1183, 1183, 1183, 3148, 3148, 3148, 3148, 3148, 3148, 3148, 3148]
+internal: false
 
 ---
 

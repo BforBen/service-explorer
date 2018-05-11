@@ -1,9 +1,12 @@
 ---
 esd_id: 1686
-internal: false
 title: "Track gambling premises occasional use notices"
 history: >-
   
+function: 90
+interactions: []
+powers: [357, 357, 357, 357, 357, 357, 357, 357, 357, 357, 358, 358, 358, 358, 358, 358, 358, 358, 358, 358, 359, 359, 359, 359, 359, 359, 359, 359, 359, 359]
+internal: false
 
 ---
 

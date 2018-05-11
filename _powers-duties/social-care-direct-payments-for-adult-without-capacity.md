@@ -1,6 +1,8 @@
 ---
-esd_id: 2460
 title: "Social care - direct payments for adult without capacity"
+esd_id: 2460
+type: duty
+parent_id:  
 ---
 
 This section applies where—

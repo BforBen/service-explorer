@@ -1,9 +1,12 @@
 ---
 esd_id: 1719
-internal: false
 title: "Local authority mortgage scheme (LAMS)"
 history: >-
   
+function: 69
+interactions: []
+powers: [1921, 2925]
+internal: false
 
 ---
 

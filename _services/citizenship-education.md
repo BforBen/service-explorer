@@ -1,9 +1,12 @@
 ---
 esd_id: 895
-internal: false
 title: "Citizenship education"
 history: >-
   Term name changed from 'Citizenship education' to 'Education - citizenship' in version 3.00. name changed to 'Citizenship education' in version 4.00.
+function: 136
+interactions: [8]
+powers: []
+internal: false
 
 ---
 

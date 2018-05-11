@@ -1,9 +1,12 @@
 ---
 esd_id: 1663
-internal: true
 title: "Legal - land and property"
 history: >-
   Added in version 4.0.1 to the internal service list.
+function: 117
+interactions: []
+powers: [1587, 1587, 1587, 3021, 3021, 3021]
+internal: true
 
 ---
 

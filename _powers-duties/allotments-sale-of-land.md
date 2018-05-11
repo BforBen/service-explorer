@@ -1,7 +1,9 @@
 ---
-esd_id: 1837
-title: "Allotments - sale of land."
+title: "Allotments - sale of Land"
+esd_id: 1738
+type: duty
+parent_id:  
 ---
 
-A local authority may sell unsuitable or superfluous land.
+A local authority wishing to sell land bought or appropriated for use as allotments may not do so without obtaining the consent of the Minister of Agriculture and Fisheries to the sale.
 

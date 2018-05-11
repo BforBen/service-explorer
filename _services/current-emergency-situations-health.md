@@ -1,9 +1,12 @@
 ---
 esd_id: 1287
-internal: false
 title: "Current emergency situations - health"
 history: >-
   Added in version 3.07. Name and scope notes updated in version 3.09.
+function: 18
+interactions: [8]
+powers: [2155, 2155, 2155, 2155, 2155, 2155, 2155]
+internal: false
 
 ---
 

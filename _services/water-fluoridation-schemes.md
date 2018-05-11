@@ -1,9 +1,12 @@
 ---
 esd_id: 1776
-internal: false
 title: "Water fluoridation schemes"
 history: >-
   Added in March 2016 review of legislation
+function: 65
+interactions: [8]
+powers: [370, 370, 370, 370, 370, 370, 370, 370, 370, 370, 370, 373, 373, 373, 373, 373, 373, 373, 373, 373, 373, 373, 374, 374, 374, 374, 374, 374, 374, 374, 374, 374, 374, 2679]
+internal: false
 
 ---
 

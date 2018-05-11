@@ -1,6 +1,8 @@
 ---
-esd_id: 2984
 title: "consumer rights - undertaking regarding unfair contract terms"
+esd_id: 2984
+type: power
+parent_id:  
 ---
 
 A local authority may accept an undertaking from a person against whom it has applied, or thinks it is entitled to apply, for an injunction.

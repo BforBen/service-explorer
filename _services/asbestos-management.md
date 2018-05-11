@@ -1,9 +1,12 @@
 ---
 esd_id: 415
-internal: false
 title: "Asbestos management"
 history: >-
   Added scope notes in version 2.02. Name changed to 'Asbestos management' in version 4.00. 
+function: 37
+interactions: [8]
+powers: []
+internal: false
 
 ---
 

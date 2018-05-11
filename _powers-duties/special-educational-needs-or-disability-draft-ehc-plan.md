@@ -1,6 +1,8 @@
 ---
-esd_id: 2380
 title: "Special educational needs or disability - draft EHC plan"
+esd_id: 2380
+type: duty
+parent_id:  
 ---
 
 A local authority must where it is required to secure that an EHC plan is prepared for a child or young person, consult the child's parent or the young person about the content of the plan during the preparation of a draft of the plan.

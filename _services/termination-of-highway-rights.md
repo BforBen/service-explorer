@@ -1,9 +1,12 @@
 ---
 esd_id: 1713
-internal: false
 title: "Termination of highway rights"
 history: >-
   
+function: 172
+interactions: []
+powers: [1460]
+internal: false
 
 ---
 

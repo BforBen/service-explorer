@@ -1,9 +1,12 @@
 ---
 esd_id: 1753
-internal: false
 title: "Public Spaces Protection Order"
 history: >-
   
+function: 133
+interactions: [8]
+powers: [2424, 2425, 2426, 2427, 2428, 2429, 2702]
+internal: false
 
 ---
 

@@ -1,9 +1,12 @@
 ---
 esd_id: 1733
-internal: false
 title: "Prior notification of development"
 history: >-
   
+function: 101
+interactions: [0, 8]
+powers: [1394, 1394, 1394, 1394, 1394, 1394, 1394, 1394, 2821, 2821, 2821, 2821, 2821, 2821, 2821, 2821, 2821, 2821, 2821, 2821, 2821, 2821, 2821, 2821, 2821]
+internal: false
 
 ---
 

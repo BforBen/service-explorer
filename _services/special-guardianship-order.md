@@ -1,9 +1,12 @@
 ---
 esd_id: 1721
-internal: false
 title: "Special guardianship order"
 history: >-
   
+function: 152
+interactions: []
+powers: [1982, 1983]
+internal: false
 
 ---
 

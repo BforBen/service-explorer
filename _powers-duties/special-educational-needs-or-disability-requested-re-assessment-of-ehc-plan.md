@@ -1,6 +1,8 @@
 ---
-esd_id: 2386
 title: "Special educational needs or disability - requested re-assessment of EHC plan"
+esd_id: 2386
+type: duty
+parent_id:  
 ---
 
 A local authority must secure a re-assessment of the educational, health care and social care needs of a child or young person for whom it maintains an EHC plan if a request is made to it by—

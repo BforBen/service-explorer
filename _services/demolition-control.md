@@ -1,9 +1,12 @@
 ---
 esd_id: 602
-internal: false
 title: "Demolition control"
 history: >-
   Added scope notes in version 2.02. Term name changed from 'Demolitions - control and advice' to 'Land and property - demolitions - control and advice' in version 3.00. Name changed to 'Demolition control' and scope notes revised in version 4.00.
+function: 170
+interactions: [8]
+powers: [1373, 1373]
+internal: false
 
 ---
 

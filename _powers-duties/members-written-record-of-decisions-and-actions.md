@@ -1,6 +1,8 @@
 ---
-esd_id: 2883
 title: "Members - written record of decisions and actions"
+esd_id: 2883
+type: duty
+parent_id:  
 ---
 
 Where a member of a local authority discharges any function of the authority by virtue of arrangements made under section 236 of the Local Government and Public Involvement in Health Act 2007 (exercise of functions by local councillors in England), that member must—

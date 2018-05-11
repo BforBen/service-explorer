@@ -1,9 +1,12 @@
 ---
 esd_id: 894
-internal: false
 title: "Transition between schools"
 history: >-
   Term name changed from 'Transition (Moving between schools)' to 'Schools - transition between schools' in version 3.00. Name changed to 'Transition between schools' in version 4.00.
+function: 136
+interactions: [8]
+powers: [527, 838]
+internal: false
 
 ---
 

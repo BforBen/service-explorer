@@ -1,6 +1,8 @@
 ---
-esd_id: 2449
 title: "Social care - compulsory needs assessment"
+esd_id: 2449
+type: duty
+parent_id:  
 ---
 
 A local authority must  where a needs assessment is refused by an adult carry out that assessment in any event where

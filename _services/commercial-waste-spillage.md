@@ -1,9 +1,12 @@
 ---
 esd_id: 518
-internal: false
 title: "Commercial waste spillage"
 history: >-
   Added scope notes in version 2.02, updated in version 3.06. Term name changed from 'Commercial waste - spillage' to 'Refuse - commercial waste - spillage' in version 3.00. Name changed to 'Commerical waste spillage' in version 4.00.
+function: 140
+interactions: [0, 8]
+powers: [1211, 1211, 1211]
+internal: false
 
 ---
 

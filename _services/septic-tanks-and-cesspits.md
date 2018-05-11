@@ -1,9 +1,12 @@
 ---
 esd_id: 909
-internal: false
 title: "Septic tanks and cesspits"
 history: >-
   Term name changed from 'Septic tank and cesspit emptying' to 'Pollution control - septic tank and cesspit emptying - information' in version 3.00. Name changed to 'Septic tanks and cesspits' in version 4.00.
+function: 37
+interactions: [0, 4, 8]
+powers: [1212, 1213, 1779, 1779, 1780, 1780]
+internal: false
 
 ---
 

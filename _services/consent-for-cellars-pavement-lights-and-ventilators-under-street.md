@@ -1,9 +1,12 @@
 ---
 esd_id: 1355
-internal: false
 title: "Consent for cellars, pavement lights and ventilators under street"
 history: >-
   Added in version 3.10. Name changed to 'Consent for cellars, pavement lights and ventilators under streets' in version 4.00.
+function: 165
+interactions: [0, 8]
+powers: [3205, 3206]
+internal: false
 
 ---
 

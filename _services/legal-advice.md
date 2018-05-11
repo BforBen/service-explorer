@@ -1,9 +1,12 @@
 ---
 esd_id: 994
-internal: true
 title: "Legal - advice"
 history: >-
   Term name changed from 'Legal advice' to 'Legal - advice' in version 3.00.
+function: 117
+interactions: []
+powers: [2168, 2168, 2168, 2169, 2169, 2169]
+internal: true
 
 ---
 

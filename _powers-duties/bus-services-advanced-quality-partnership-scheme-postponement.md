@@ -1,6 +1,8 @@
 ---
-esd_id: 3153
 title: "Bus services - advanced quality partnership scheme postponement"
+esd_id: 3153
+type: duty
+parent_id:  
 ---
 
 The authority or authorities must, as detailed in the Section-

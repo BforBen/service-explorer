@@ -1,9 +1,12 @@
 ---
 esd_id: 1681
-internal: false
 title: "Family entertainment centre gaming machine permits"
 history: >-
   
+function: 90
+interactions: []
+powers: [348, 352, 357, 357, 357, 357, 357, 357, 357, 357, 357, 357, 358, 358, 358, 358, 358, 358, 358, 358, 358, 358, 359, 359, 359, 359, 359, 359, 359, 359, 359, 359]
+internal: false
 
 ---
 

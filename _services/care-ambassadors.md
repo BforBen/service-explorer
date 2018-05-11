@@ -1,9 +1,12 @@
 ---
 esd_id: 1283
-internal: false
 title: "Care ambassadors"
 history: >-
   Added in version 3.07. name changed to 'Care ambassadors' in version 4.00.
+function: 148
+interactions: [8]
+powers: [1585, 1585]
+internal: false
 
 ---
 

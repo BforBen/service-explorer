@@ -1,9 +1,12 @@
 ---
 esd_id: 129
-internal: false
 title: "Council home modernisation"
 history: >-
   Added scope notes in version 2.02. Term name changed from 'Home modernisation - council properties' to 'Housing - council - home modernisation' in version 3.00. Name changed to 'Council home modernisation' in version 4.00.
+function: 70
+interactions: [8]
+powers: [535, 535, 535, 535, 535, 535, 535, 1899, 1899, 1899, 1899, 1899]
+internal: false
 
 ---
 

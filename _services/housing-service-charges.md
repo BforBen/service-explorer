@@ -1,9 +1,12 @@
 ---
 esd_id: 1771
-internal: false
 title: "Housing service charges"
 history: >-
   Added in March 2016 review of legislation
+function: 157
+interactions: [8]
+powers: []
+internal: false
 
 ---
 

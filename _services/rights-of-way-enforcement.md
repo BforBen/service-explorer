@@ -1,9 +1,12 @@
 ---
 esd_id: 614
-internal: false
 title: "Rights of way enforcement"
 history: >-
   Added scope notes in version 2.02. Term name changed from 'Public rights of way - enforcement' to 'Planning - rights of way - enforcement' in version 3.00. name changed to 'Rights of way enforcement' in version 4.00.
+function: 108
+interactions: [0, 8]
+powers: [1859, 1859, 1859]
+internal: false
 
 ---
 

@@ -1,9 +1,12 @@
 ---
 esd_id: 1133
-internal: false
 title: "Hate crime"
 history: >-
   Name changed to 'Hate crime' in version 4.00.
+function: 21
+interactions: [0, 8]
+powers: []
+internal: false
 
 ---
 

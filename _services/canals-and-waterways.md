@@ -1,9 +1,12 @@
 ---
 esd_id: 556
-internal: false
 title: "Canals and waterways"
 history: >-
   Added scope notes in version 2.02. Scope notes changed in version 3.00 for better service description. Term name changed from 'Canals' to 'Canals and waterways' in version 3.00. Scope notes updated in version 4.00.
+function: 97
+interactions: [8]
+powers: [1646, 1691, 1691, 1852, 3129, 3129]
+internal: false
 
 ---
 

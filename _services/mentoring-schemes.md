@@ -1,9 +1,12 @@
 ---
 esd_id: 627
-internal: false
 title: "Mentoring schemes"
 history: >-
   Term name changed from 'Becoming a mentor' to 'Becoming a mentor to students' and scope notes added in version 2.02. Term name changed from 'Becoming a mentor to students' to 'Education - mentoring schemes' in version 3.00. Name changed to 'Mentoring schemes' in version 4.00.
+function: 136
+interactions: [0, 8]
+powers: []
+internal: false
 
 ---
 

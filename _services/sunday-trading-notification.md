@@ -1,9 +1,12 @@
 ---
 esd_id: 678
-internal: false
 title: "Sunday trading notification"
 history: >-
   Added scope notes in version 2.02. Term name changed from 'Licence - Sunday trading notification' to 'Licences - Sunday trading notification' in version 3.00. Name changed to 'Sunday trading notification' in version 4.00.
+function: 163
+interactions: [0, 4, 8, 9]
+powers: []
+internal: false
 
 ---
 

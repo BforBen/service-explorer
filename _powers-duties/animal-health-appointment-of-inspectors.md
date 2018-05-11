@@ -1,6 +1,8 @@
 ---
-esd_id: 2415
 title: "Animal health - appointment of inspectors"
+esd_id: 2415
+type: duty
+parent_id:  
 ---
 
 A local authority shall appoint as many inspectors and other officers as the local authority think necessary for the execution and enforcement of this Act.

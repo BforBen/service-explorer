@@ -1,9 +1,12 @@
 ---
 esd_id: 474
-internal: false
 title: "Parking permits"
 history: >-
   Added scope notes in version 2.02. Term name changed from 'Parking permits' to 'Roads - street parking - permits' in version 3.00. Name changed to 'Parking permits' in version 4.00.
+function: 110
+interactions: [0, 4, 8]
+powers: [2362, 2362, 2362, 2362, 2362]
+internal: false
 
 ---
 

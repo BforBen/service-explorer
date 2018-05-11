@@ -1,9 +1,12 @@
 ---
 esd_id: 1006
-internal: false
 title: "Navigation and berthing"
 history: >-
   Name changed to 'Navigation and berthing' in version 4.00.@en
+function: 169
+interactions: [0, 8]
+powers: []
+internal: false
 
 ---
 

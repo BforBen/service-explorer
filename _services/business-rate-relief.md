@@ -1,9 +1,12 @@
 ---
 esd_id: 55
-internal: false
 title: "Business rate relief"
 history: >-
   Term name changed from 'Reductions (relief)' to 'Business rate reductions (relief)' and scope notes added in version 2.02. Term name changed from 'Business rate reductions (relief)' to 'Business - rates - reductions' in version 3.00. Name changed to 'Business rate relief' in version 4.00.
+function: 9
+interactions: [0, 8]
+powers: [49, 49, 49, 1977, 1977, 2807, 3097, 3097, 3097]
+internal: false
 
 ---
 

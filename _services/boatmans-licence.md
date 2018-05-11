@@ -1,9 +1,12 @@
 ---
 esd_id: 741
-internal: false
 title: "Boatman's licence"
 history: >-
   Added scope notes in version 2.02. Term name changed from 'Licence - boatman' to 'Licences - boatman's' in version 3.00. Name changed to 'Boatman's licence' in version 4.00.
+function: 94
+interactions: [0, 8, 9]
+powers: []
+internal: false
 
 ---
 

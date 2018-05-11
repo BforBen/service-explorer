@@ -1,9 +1,12 @@
 ---
 esd_id: 358
-internal: false
 title: "Councillors directory"
 history: >-
   Added scope notes in version 2.02. Name changed to 'Councillors directory' in version 4.00.
+function: 147
+interactions: [8]
+powers: []
+internal: false
 
 ---
 

@@ -1,9 +1,12 @@
 ---
 esd_id: 1654
-internal: false
 title: "Armed forces community covenant"
 history: >-
   Added in version 4.0.1 to the English hand welsh, local government service list.
+function: 77
+interactions: []
+powers: []
+internal: false
 
 ---
 

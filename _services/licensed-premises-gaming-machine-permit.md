@@ -1,9 +1,12 @@
 ---
 esd_id: 1687
-internal: false
 title: "Licensed premises gaming machine permit"
 history: >-
   
+function: 90
+interactions: []
+powers: [350, 350, 353, 354, 357, 357, 357, 357, 357, 357, 357, 357, 357, 357, 358, 358, 358, 358, 358, 358, 358, 358, 358, 358, 359, 359, 359, 359, 359, 359, 359, 359, 359, 359]
+internal: false
 
 ---
 

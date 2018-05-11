@@ -1,9 +1,12 @@
 ---
 esd_id: 1545
-internal: false
 title: "Jobseekers allowance"
 history: >-
   Added scope notes in version 3.11. Add to LGSL, update description and scope notes in version 4.0.1.
+function: 125
+interactions: []
+powers: []
+internal: false
 
 ---
 

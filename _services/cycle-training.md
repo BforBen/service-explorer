@@ -1,9 +1,12 @@
 ---
 esd_id: 547
-internal: false
 title: "Cycle training"
 history: >-
   Added scope notes in version 2.02, updated in version 3.06. Term name changed from 'Roads - safety - cycling proficiency' to 'Roads - safety - cycle training' in version 3.06. Name changed to 'Cycle training' in version 4.00.
+function: 112
+interactions: [0, 8]
+powers: []
+internal: false
 
 ---
 

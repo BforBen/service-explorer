@@ -1,9 +1,12 @@
 ---
 esd_id: 1712
-internal: false
 title: "Lawful Development Certificate existing use"
 history: >-
   
+function: 101
+interactions: []
+powers: [1353, 1353, 1353, 1354, 1354, 1354, 1431, 1431, 1432, 2741, 2741, 2821, 2821, 2821, 2821, 2821, 2821, 2821, 2821, 2821, 2821, 2821, 2821, 2821, 2821, 2821, 2821, 2821]
+internal: false
 
 ---
 

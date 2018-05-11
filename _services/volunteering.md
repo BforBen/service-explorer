@@ -1,9 +1,12 @@
 ---
 esd_id: 1113
-internal: false
 title: "Volunteering"
 history: >-
   Name changed to 'Volunteering' in version 4.00.
+function: 57
+interactions: [8]
+powers: []
+internal: false
 
 ---
 

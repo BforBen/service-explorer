@@ -1,9 +1,12 @@
 ---
 esd_id: 1286
-internal: false
 title: "Teenagers' library services"
 history: >-
   Added in version 3.07. Name changed to 'Teenagers' library services' in version 4.00.
+function: 162
+interactions: [0, 8]
+powers: []
+internal: false
 
 ---
 

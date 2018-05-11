@@ -1,9 +1,12 @@
 ---
 esd_id: 205
-internal: false
 title: "Specialist equipment for disabled people"
 history: >-
   Added scope notes in version 2.02. Term name changed from 'Specialist equipment' to 'Disabled people - specialist equipment' in version 3.00. Name changed in version 4.0.1.
+function: 149
+interactions: [0, 1, 8]
+powers: [399, 399, 399, 399, 399, 399, 399, 399, 399, 399, 399, 399, 2066, 2066, 2066, 2066, 2066, 2066, 2066, 2066, 2066, 2066, 2066, 2066, 2066, 2066, 2066, 2066, 2066, 2066, 2066, 2066, 2477, 2477, 2477, 2477, 2477, 2477, 2484, 2484, 2484, 2484, 2484, 2484, 2484, 2484, 2484, 2705, 2705, 2705, 2705, 2706, 2706, 2706, 2706, 2706]
+internal: false
 
 ---
 

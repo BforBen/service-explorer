@@ -1,9 +1,12 @@
 ---
 esd_id: 1121
-internal: false
 title: "Adult placement"
 history: >-
   Name changed to 'Adult placement' in version 4.00.
+function: 151
+interactions: [0, 8]
+powers: [2758, 2758, 2758]
+internal: false
 
 ---
 

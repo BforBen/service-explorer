@@ -1,6 +1,8 @@
 ---
-esd_id: 2413
 title: "Special educational needs or disability - review of educational, training and social care provision"
+esd_id: 2413
+type: duty
+parent_id:  
 ---
 
 A local authority must keep under review and consult where required  regarding the educational, training provision and social care provision made in its area for children and young people who have special educational needs or a disability, and

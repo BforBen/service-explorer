@@ -1,9 +1,12 @@
 ---
 esd_id: 1750
-internal: false
 title: "Civil injunction"
 history: >-
   
+function: 21
+interactions: [8]
+powers: []
+internal: false
 
 ---
 

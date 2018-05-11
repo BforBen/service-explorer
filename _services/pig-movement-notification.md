@@ -1,9 +1,12 @@
 ---
 esd_id: 1335
-internal: false
 title: "Pig movement notification"
 history: >-
   Added in version 3.09. Name changed to 'Pig movement notification' in version 4.00.
+function: 165
+interactions: [0, 8]
+powers: []
+internal: false
 
 ---
 

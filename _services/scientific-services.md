@@ -1,9 +1,12 @@
 ---
 esd_id: 1011
-internal: false
 title: "Scientific services"
 history: >-
   Name changed to 'Scientific services' in version 4.00.@en
+function: 34
+interactions: [0, 8]
+powers: [1263, 1263, 1263, 1263, 1263, 1264, 1264, 1264, 1265, 1265, 1265, 1265, 1266, 1266, 1268, 1268, 1268, 1268, 1268, 1269, 1269, 1269, 1269, 1269, 1270, 1270, 1270, 1270, 1270, 1271, 1271, 1271, 1271, 1271, 1886, 1886, 1886, 1887, 1887, 1959, 1959, 1959, 1959, 1959]
+internal: false
 
 ---
 

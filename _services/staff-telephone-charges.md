@@ -1,9 +1,12 @@
 ---
 esd_id: 1303
-internal: true
 title: "Staff - telephone charges"
 history: >-
   Added in version 3.08.
+function: 119
+interactions: [0, 8]
+powers: []
+internal: true
 
 ---
 

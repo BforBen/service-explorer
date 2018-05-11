@@ -1,9 +1,12 @@
 ---
 esd_id: 1144
-internal: false
 title: "Waste reduction"
 history: >-
   Name changed to 'Waste reduction' in version 4.00.
+function: 32
+interactions: [8]
+powers: [741, 741, 742, 742, 743, 743, 744, 744]
+internal: false
 
 ---
 

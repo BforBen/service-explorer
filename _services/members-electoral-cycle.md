@@ -1,9 +1,12 @@
 ---
 esd_id: 1675
-internal: true
 title: "Members - electoral cycle"
 history: >-
   
+function: 115
+interactions: []
+powers: [143, 144, 145, 146, 147, 148, 149, 150, 151, 1025, 1026, 1079, 2120, 2128]
+internal: true
 
 ---
 

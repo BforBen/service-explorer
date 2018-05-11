@@ -1,9 +1,12 @@
 ---
 esd_id: 1622
-internal: true
 title: "Corporate - business planning and strategy"
 history: >-
   Added in version 4.00. Name/scope notes changed in version 4.0.1.
+function: 53
+interactions: []
+powers: [298, 2606, 2606, 2606]
+internal: true
 
 ---
 

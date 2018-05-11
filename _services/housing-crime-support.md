@@ -1,9 +1,12 @@
 ---
 esd_id: 97
-internal: false
 title: "Housing crime support"
 history: >-
   Added scope notes in version 2.02. Name changed in version 3.0 to clarify scope. Term name changed from 'Council housing - crime' to 'Housing - crime support and assistance' in version 3.00. Scope notes updated in version 3.04. Name changed to 'Housing crime support' in version 4.00.
+function: 133
+interactions: [0, 8]
+powers: []
+internal: false
 
 ---
 

@@ -1,9 +1,12 @@
 ---
 esd_id: 116
-internal: false
 title: "Rent arrears"
 history: >-
   Added scope notes in version 2.02. Term name changed from 'Council housing - current tenancy arrears' to 'Housing - council - current tenancy arrears' in version 3.00. Name changed to 'Rent arrears' in version 4.00.
+function: 157
+interactions: [2, 8]
+powers: []
+internal: false
 
 ---
 

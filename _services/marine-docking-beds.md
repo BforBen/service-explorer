@@ -1,9 +1,12 @@
 ---
 esd_id: 774
-internal: false
 title: "Marine docking beds"
 history: >-
   Term name changed from 'Application for new beds' to 'Application for new (docking) beds' and scope notes added in version 2.02. Scope notes updated in version 3.0 to clarify responsibilities. Term name changed from 'Application for new (docking) beds' to 'Ports and harbours - marine docking beds - applications' in version 3.00. Name changed to 'Marine docking beds' in version 4.00.
+function: 168
+interactions: [0, 8]
+powers: []
+internal: false
 
 ---
 

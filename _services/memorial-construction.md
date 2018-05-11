@@ -1,9 +1,12 @@
 ---
 esd_id: 334
-internal: false
 title: "Memorial construction"
 history: >-
   Added scope notes in version 2.02. Scope notes changed in version 3.00 for clarity. Term name changed from 'Ordering a memorial' to 'Death - funerals - memorial construction' in version 3.00. Name changed to 'memorial construction' in version 4.00.
+function: 35
+interactions: [0, 4, 8]
+powers: [1864, 1864]
+internal: false
 
 ---
 

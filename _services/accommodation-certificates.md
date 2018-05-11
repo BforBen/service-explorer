@@ -1,9 +1,12 @@
 ---
 esd_id: 650
-internal: false
 title: "Accommodation certificates"
 history: >-
   Added scope notes in version 2.02. Scope notes changed in version 3.00 to include Scottish terminology. Term name changed from 'Accommodation certificates (fitness for human habitation)' to 'Housing - accommodation certificates - fitness for human habitation' in version 3.00. Name changed to 'Accommodation certificates' in version 4.00.
+function: 85
+interactions: [0, 8, 9]
+powers: []
+internal: false
 
 ---
 

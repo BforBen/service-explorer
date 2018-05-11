@@ -1,9 +1,12 @@
 ---
 esd_id: 174
-internal: false
 title: "Youth justice - implementation of orders"
 history: >-
   Added scope notes in version 2.02. Term name changed from 'Implementation of orders' to 'Youth justice - implementation of orders' in version 3.00.
+function: 22
+interactions: [8]
+powers: [443, 443, 776, 776, 776, 776, 776, 776, 776, 777, 777, 777, 777, 777, 777, 777, 778, 778, 778, 778, 778, 778, 778]
+internal: false
 
 ---
 

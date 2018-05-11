@@ -1,9 +1,12 @@
 ---
 esd_id: 1791
-internal: false
 title: "Arts  and creative classes"
 history: >-
   Added in March 2017.
+function: 73
+interactions: [0, 8]
+powers: []
+internal: false
 
 ---
 

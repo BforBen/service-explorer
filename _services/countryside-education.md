@@ -1,9 +1,12 @@
 ---
 esd_id: 467
-internal: false
 title: "Countryside education"
 history: >-
   Added scope notes in version 2.02. Term name changed from 'Educational packs' to 'Countryside - educational packs' in version 3.00. Name changed to 'Countryside education' in version 4.00.
+function: 33
+interactions: [8]
+powers: [1582, 1582, 1582, 1582]
+internal: false
 
 ---
 

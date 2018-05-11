@@ -1,9 +1,12 @@
 ---
 esd_id: 453
-internal: false
 title: "Sports coaching"
 history: >-
   Added scope notes in version 2.02. Term name changed from 'Coaching courses and schools' to 'Education - sports - coaching' in version 3.00. Name changed to 'Sports coaching' in version 4.00.
+function: 24
+interactions: [0, 1, 6, 8]
+powers: [1490, 1490, 1490, 1490, 1490, 1490]
+internal: false
 
 ---
 

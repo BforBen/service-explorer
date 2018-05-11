@@ -1,6 +1,8 @@
 ---
-esd_id: 2451
 title: "Social care - assessment of financial resources"
+esd_id: 2451
+type: duty
+parent_id:  
 ---
 
 A local authority where it has made a determination under section 13(1) thinks that, if it were to meet an adult's needs for care and support, it would charge the adult under section 14(1) for meeting at least some of the needs, it must assess—

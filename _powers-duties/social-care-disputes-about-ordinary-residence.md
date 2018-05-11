@@ -1,6 +1,8 @@
 ---
-esd_id: 2775
 title: "Social care - disputes about ordinary residence"
+esd_id: 2775
+type: duty
+parent_id:  
 ---
 
 Section 195 of the Social Services and Well-being (Wales) Act 2014 provides for the determination of disputes local authorities about where a person is ordinarily resident in Wales for the purposes of the 2014 Act and for the determination of disputes between a sending and receiving authority under section 56 of the 2014 Act (portability of care and support) about the application of that section in relation to a person.

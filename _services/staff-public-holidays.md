@@ -1,9 +1,12 @@
 ---
 esd_id: 980
-internal: true
 title: "Staff - public holidays"
 history: >-
   Term name changed from 'Public holidays' to 'Staff - public holidays' in version 3.00.  Scope notes added in version 3.01.
+function: 119
+interactions: []
+powers: []
+internal: true
 
 ---
 

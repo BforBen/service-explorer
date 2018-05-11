@@ -1,9 +1,12 @@
 ---
 esd_id: 1152
-internal: false
 title: "Abandoned shopping trolleys"
 history: >-
   Added in version 3.05.
+function: 40
+interactions: [0, 2, 8, 17]
+powers: [1253]
+internal: false
 
 ---
 

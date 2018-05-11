@@ -1,9 +1,12 @@
 ---
 esd_id: 1024
-internal: true
 title: "Members - executive forward plan"
 history: >-
   Term name changed from 'Executive forward plan' to 'Members - executive forward plan' in version 3.00.  Scope notes added in version 3.01.
+function: 115
+interactions: []
+powers: []
+internal: true
 
 ---
 

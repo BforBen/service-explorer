@@ -1,9 +1,12 @@
 ---
 esd_id: 1413
-internal: false
 title: "Civic buildings"
 history: >-
   Added in version 3.09. Name changed to 'Civic buildings' and scope notes revised in version 4.00.
+function: 114
+interactions: [8]
+powers: [1652]
+internal: false
 
 ---
 

@@ -1,9 +1,12 @@
 ---
 esd_id: 391
-internal: false
 title: "Late night catering licence"
 history: >-
   Added scope notes in version 2.02. Scope notes changed in version 3.00 to include Scottish regulations. Term name changed from 'Licence - late hours catering' to 'Licences - late night catering' in version 3.00. Name changed to 'Late night catering licence' in version 4.00.
+function: 89
+interactions: [0, 4, 8, 9]
+powers: [1260, 1260, 1260, 1260]
+internal: false
 
 ---
 

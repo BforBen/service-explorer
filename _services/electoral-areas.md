@@ -1,9 +1,12 @@
 ---
 esd_id: 1679
-internal: false
 title: "Electoral areas"
 history: >-
   
+function: 146
+interactions: []
+powers: [81, 83, 140, 141, 152, 153, 154, 155, 2961, 2961]
+internal: false
 
 ---
 

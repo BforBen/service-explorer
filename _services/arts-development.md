@@ -1,9 +1,12 @@
 ---
 esd_id: 884
-internal: false
 title: "Arts development"
 history: >-
   Term name changed from 'Arts development' to 'Arts - development' in version 3.00. Name changed to 'Arts development' and scope notes revised in version 4.00.
+function: 73
+interactions: [8]
+powers: [2163, 2163]
+internal: false
 
 ---
 

@@ -1,9 +1,12 @@
 ---
 esd_id: 332
-internal: false
 title: "Exhumations"
 history: >-
   Added scope notes in version 2.02. Scope notes changed in version 3.00 to include Scottish regulations. Term name changed from 'Exhuming a deceased body' to 'Death - exhumations' in version 3.00. Name changed to 'Exhumations' in version 4.00.
+function: 35
+interactions: [8]
+powers: []
+internal: false
 
 ---
 

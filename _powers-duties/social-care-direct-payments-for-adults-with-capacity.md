@@ -1,6 +1,8 @@
 ---
-esd_id: 2459
 title: "Social care - direct payments for adults with capacity"
+esd_id: 2459
+type: duty
+parent_id:  
 ---
 
 This section applies where—

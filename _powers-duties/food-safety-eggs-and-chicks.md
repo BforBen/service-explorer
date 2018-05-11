@@ -1,6 +1,8 @@
 ---
-esd_id: 2844
 title: "Food safety - eggs and chicks"
+esd_id: 2844
+type: duty
+parent_id:  
 ---
 
 Each local authority acting as food authority must—

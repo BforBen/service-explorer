@@ -1,9 +1,12 @@
 ---
 esd_id: 1732
-internal: false
 title: "Lawful Development Certificate proposed use"
 history: >-
   
+function: 101
+interactions: [0, 8]
+powers: [1353, 1353, 1353, 1354, 1354, 1354, 1431, 1431, 2638, 2638, 2638, 2638, 2638, 2741, 2741, 2821, 2821, 2821, 2821, 2821, 2821, 2821, 2821, 2821, 2821, 2821, 2821, 2821, 2821, 2821, 2821, 2821]
+internal: false
 
 ---
 

@@ -1,9 +1,12 @@
 ---
 esd_id: 896
-internal: false
 title: "Behaviour development"
 history: >-
   Term name changed from 'Education development behaviour centres' to 'Education - behaviour development ' in version 3.00. Name changed to 'Behaviour development' in version 4.00.
+function: 136
+interactions: [8]
+powers: [181, 181, 181, 181, 181, 181, 181, 181, 181, 181, 181, 181, 181, 181, 181, 2543, 2543]
+internal: false
 
 ---
 

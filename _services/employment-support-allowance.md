@@ -1,9 +1,12 @@
 ---
 esd_id: 1534
-internal: false
 title: "Employment & support allowance"
 history: >-
   Added scope notes in version 3.11. Add to LGSL, update description and scope notes in version 4.0.1.
+function: 122
+interactions: []
+powers: []
+internal: false
 
 ---
 

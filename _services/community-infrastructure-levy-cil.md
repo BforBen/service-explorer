@@ -1,9 +1,12 @@
 ---
 esd_id: 1711
-internal: false
 title: "Community infrastructure levy (CIL)"
 history: >-
   
+function: 101
+interactions: []
+powers: []
+internal: false
 
 ---
 

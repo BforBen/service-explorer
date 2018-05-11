@@ -1,9 +1,12 @@
 ---
 esd_id: 1307
-internal: false
 title: "Current emergency situations - weather"
 history: >-
   Added in version 3.09
+function: 18
+interactions: [8]
+powers: [2155, 2155, 2155, 2155, 2155, 2155, 2155]
+internal: false
 
 ---
 

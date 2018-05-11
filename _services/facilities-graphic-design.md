@@ -1,9 +1,12 @@
 ---
 esd_id: 958
-internal: true
 title: "Facilities - graphic design"
 history: >-
   Term name changed from 'Graphic design' to 'Facilities - graphic design' in version 3.00.
+function: 118
+interactions: []
+powers: []
+internal: true
 
 ---
 

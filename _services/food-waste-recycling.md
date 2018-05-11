@@ -1,9 +1,12 @@
 ---
 esd_id: 1423
-internal: false
 title: "Food waste recycling"
 history: >-
   Added in version 3.09. Name changed to 'Food waste recycling' and scope notes updated in version 4.00.
+function: 39
+interactions: [0, 8]
+powers: [1650]
+internal: false
 
 ---
 

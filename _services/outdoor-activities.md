@@ -1,9 +1,12 @@
 ---
 esd_id: 1793
-internal: false
 title: "Outdoor activities"
 history: >-
   Added in March 2017.
+function: 75
+interactions: [0, 8]
+powers: []
+internal: false
 
 ---
 

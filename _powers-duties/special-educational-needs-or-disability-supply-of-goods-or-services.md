@@ -1,6 +1,8 @@
 ---
-esd_id: 2400
 title: "Special educational needs or disability - supply of goods or services"
+esd_id: 2400
+type: power
+parent_id:  
 ---
 
 A local authority may supply goods and services to—

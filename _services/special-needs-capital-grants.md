@@ -1,9 +1,12 @@
 ---
 esd_id: 1056
-internal: false
 title: "Special needs capital grants"
 history: >-
   Name changed to 'Special needs capital grants' in version 4.00.
+function: 127
+interactions: [0, 7, 8]
+powers: [1919, 1919, 1919]
+internal: false
 
 ---
 

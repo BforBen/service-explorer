@@ -1,9 +1,12 @@
 ---
 esd_id: 845
-internal: false
 title: "Food safety advice"
 history: >-
   Added scope notes in version 2.02. Term name changed from 'Food business - health promotion' to 'Business - food retailing - information and advice' in version 3.00. Name changed to 'Food safety advice' in version 4.00.
+function: 89
+interactions: [3, 8]
+powers: []
+internal: false
 
 ---
 

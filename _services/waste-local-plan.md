@@ -1,9 +1,12 @@
 ---
 esd_id: 675
-internal: false
 title: "Waste local plan"
 history: >-
   Added scope notes in version 2.02. Scope notes updated in version 3.00 to include Scottish legislation. Term name changed from 'Local plan - waste' to 'Planning - local plan - waste' in version 3.00. Name changed to 'Waste local plan' in version 4.00.
+function: 103
+interactions: [8]
+powers: [702, 702, 702, 702, 702, 702, 702, 702, 702, 703, 703, 703, 703, 703, 703, 703, 703, 703, 722, 722, 722, 722, 722, 722, 722, 722, 722, 741, 741, 742, 742, 743, 743, 744, 744, 1208, 1208, 1208, 1208, 1208, 1208, 1208, 1208, 1209, 1209, 1209, 1209, 1209, 1209, 1209, 1209, 1209, 1218, 1219, 1220, 1222, 1223, 1225, 1226, 1227, 1230, 1230, 1231, 1231, 1232, 1232, 1233, 1233, 2088, 2088, 2595, 2595, 2595, 2640, 2640, 2640]
+internal: false
 
 ---
 

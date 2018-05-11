@@ -1,9 +1,12 @@
 ---
 esd_id: 582
-internal: false
 title: "Street cleaning"
 history: >-
   Added scope notes in version 2.02. Term name changed from 'Street cleaning programme' to 'Roads - street cleaning programme' in version 3.00. Name changed to 'Street cleaning' in version 4.00.
+function: 40
+interactions: [8, 17]
+powers: [1252, 1252, 1252, 1252, 1252, 2090, 2955, 2955]
+internal: false
 
 ---
 

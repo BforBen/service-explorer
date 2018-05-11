@@ -1,9 +1,12 @@
 ---
 esd_id: 1685
-internal: false
 title: "Prize gaming permit"
 history: >-
   
+function: 90
+interactions: []
+powers: [351, 355, 357, 357, 357, 357, 357, 357, 357, 357, 357, 357, 358, 358, 358, 358, 358, 358, 358, 358, 358, 358, 359, 359, 359, 359, 359, 359, 359, 359, 359, 359]
+internal: false
 
 ---
 

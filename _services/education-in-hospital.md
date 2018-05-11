@@ -1,9 +1,12 @@
 ---
 esd_id: 1090
-internal: false
 title: "Education in hospital"
 history: >-
   Name changed to 'Education in hospital' in version 4.00.
+function: 135
+interactions: [8]
+powers: [800, 800, 800, 800, 800, 807, 807, 807, 807, 807, 840, 840, 840, 840, 840]
+internal: false
 
 ---
 

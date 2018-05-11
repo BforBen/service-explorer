@@ -1,9 +1,12 @@
 ---
 esd_id: 1722
-internal: false
 title: "Independent visitors for looked after children"
 history: >-
   
+function: 154
+interactions: []
+powers: [55, 55, 55, 55, 55, 55, 55, 55, 1999, 1999, 2000, 2001, 2001, 2001, 2019, 2019, 2561, 2561, 2571, 2571, 2579, 2824, 2824, 3105]
+internal: false
 
 ---
 

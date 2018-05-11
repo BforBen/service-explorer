@@ -1,9 +1,12 @@
 ---
 esd_id: 1297
-internal: true
 title: "Staff - employment tribunals"
 history: >-
   Added in version 3.08. Name updated in version 3.09.
+function: 119
+interactions: [0, 8]
+powers: []
+internal: true
 
 ---
 

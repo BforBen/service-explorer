@@ -1,9 +1,12 @@
 ---
 esd_id: 110
-internal: false
 title: "Housing legal advice"
 history: >-
   Added scope notes in version 2.02. Term name changed from 'Representation on court' to 'Housing - legal advice and support ' in version 3.00. Scope notes amended in version 3.05. Name changed to 'Housing legal advice' in version 4.00.
+function: 69
+interactions: [8]
+powers: [1498, 1498, 1498]
+internal: false
 
 ---
 

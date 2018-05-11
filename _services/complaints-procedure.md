@@ -1,9 +1,12 @@
 ---
 esd_id: 353
-internal: false
 title: "Complaints procedure"
 history: >-
   Added scope notes in version 2.02. Name changed to 'Complaints procedure' in version 4.00.
+function: 47
+interactions: [0, 8]
+powers: [532, 2004, 2004, 2004, 2006, 2006, 2751, 2751, 2841, 2841, 3033, 3033]
+internal: false
 
 ---
 

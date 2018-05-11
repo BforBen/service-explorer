@@ -1,6 +1,8 @@
 ---
-esd_id: 2453
 title: "Social care - required carer support"
+esd_id: 2453
+type: duty
+parent_id:  
 ---
 
 Subject to the exception contained in sections 21 to 23, a local authority having made a determination under section 13(1) must meet a carer's needs for support which meet the eligibility criteria if—

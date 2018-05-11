@@ -1,6 +1,8 @@
 ---
-esd_id: 2985
 title: "Consumer rights - investigatory powers and duties"
+esd_id: 2985
+type: power
+parent_id:  
 ---
 
 A local authority has enforcement powers and duties in relation to the following legislation under the Act, if and where applicable to that Authority and where allowed for by the Act.

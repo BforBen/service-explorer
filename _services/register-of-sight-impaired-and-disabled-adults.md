@@ -1,9 +1,12 @@
 ---
 esd_id: 1759
-internal: false
 title: "Register of sight impaired and disabled adults"
 history: >-
   
+function: 148
+interactions: [8]
+powers: [2474, 2475]
+internal: false
 
 ---
 

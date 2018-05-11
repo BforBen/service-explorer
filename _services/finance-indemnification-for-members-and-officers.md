@@ -1,9 +1,12 @@
 ---
 esd_id: 1700
-internal: true
 title: "Finance - indemnification for members and officers"
 history: >-
   
+function: 116
+interactions: []
+powers: [1028, 1496, 1817, 1874, 3084, 3084, 3084]
+internal: true
 
 ---
 

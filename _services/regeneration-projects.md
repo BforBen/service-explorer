@@ -1,9 +1,12 @@
 ---
 esd_id: 823
-internal: false
 title: "Regeneration projects"
 history: >-
   Added scope notes in version 2.02. . Scope notes updated in version 3.06 to include Socttish terminology. Term name changed from 'Regeneration projects' to 'Community development - regeneration projects' in version 3.00. name changed to 'Regeneration projects' in version 4.00.
+function: 13
+interactions: [3, 8]
+powers: [1029, 1029, 1029, 1029, 2501, 2501, 2501, 3007, 3007, 3007, 3007, 3013, 3013, 3013, 3013, 3018, 3018, 3018]
+internal: false
 
 ---
 

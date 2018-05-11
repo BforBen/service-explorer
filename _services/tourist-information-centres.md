@@ -1,9 +1,12 @@
 ---
 esd_id: 623
-internal: false
 title: "Tourist information centres"
 history: >-
   Added scope notes in version 2.02. Term name changed from 'Tourist information centres' to 'Tourism - tourist information centres' in version 3.00. Name changed to 'Tourist information centres' in version 4.00.
+function: 81
+interactions: [0, 8]
+powers: [2162, 2162, 2162, 2162, 2162, 2162, 2162]
+internal: false
 
 ---
 

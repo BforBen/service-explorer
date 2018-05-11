@@ -1,9 +1,12 @@
 ---
 esd_id: 1357
-internal: false
 title: "Greyhound racing track licence"
 history: >-
   Added in version 3.10. Name changed to 'Greyhound racing track licence' in version 4.00.
+function: 83
+interactions: [0, 8]
+powers: [2563]
+internal: false
 
 ---
 

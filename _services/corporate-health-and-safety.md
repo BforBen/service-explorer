@@ -1,9 +1,12 @@
 ---
 esd_id: 1624
-internal: true
 title: "Corporate - health and safety"
 history: >-
   Added in version 4.00.
+function: 53
+interactions: []
+powers: [517, 517, 517, 517, 517, 517]
+internal: true
 
 ---
 

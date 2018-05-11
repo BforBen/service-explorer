@@ -1,9 +1,12 @@
 ---
 esd_id: 1060
-internal: false
 title: "Property enquiries certificates"
 history: >-
   Name changed to 'Musical instrument hire' in version 4.00.
+function: 170
+interactions: [0, 8]
+powers: []
+internal: false
 
 ---
 

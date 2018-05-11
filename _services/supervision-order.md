@@ -1,9 +1,12 @@
 ---
 esd_id: 1768
-internal: false
 title: "Supervision order"
 history: >-
   Added in March 2016 review of legislation
+function: 22
+interactions: [8]
+powers: []
+internal: false
 
 ---
 

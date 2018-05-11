@@ -1,9 +1,12 @@
 ---
 esd_id: 144
-internal: false
 title: "Housing modernisation schemes"
 history: >-
   Added scope notes in version 2.02. Term name changed from 'Modernisation schemes' to 'Housing - council - modernisation schemes' in version 3.00. Name changed to 'Housing modernisation schemes' in version 4.00.
+function: 70
+interactions: [8]
+powers: [2907]
+internal: false
 
 ---
 

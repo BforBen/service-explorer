@@ -1,6 +1,8 @@
 ---
-esd_id: 2397
 title: "Special educational needs or disability - provision at other institution"
+esd_id: 2397
+type: power
+parent_id:  
 ---
 
 A local authority may arrange for any special educational provision that it has decided is necessary for a child or young person for whom it is responsible to be made otherwise than in a school or post-16 institution or a place at which relevant early years education is provided.

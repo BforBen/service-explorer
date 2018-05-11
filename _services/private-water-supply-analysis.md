@@ -1,9 +1,12 @@
 ---
 esd_id: 1051
-internal: false
 title: "Private water supply analysis"
 history: >-
   Name changed to 'Private water supply analysis' in version 4.00.
+function: 37
+interactions: [0, 4, 8]
+powers: [1792, 1792, 1792, 1792, 2562, 2562, 2562]
+internal: false
 
 ---
 

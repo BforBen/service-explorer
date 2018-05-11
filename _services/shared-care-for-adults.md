@@ -1,9 +1,12 @@
 ---
 esd_id: 229
-internal: false
 title: "Shared care for adults"
 history: >-
   Added scope notes in version 2.02. Term name changed from 'Shared care' to 'Care - shared care for adults' in version 3.00. Name changed to 'Shared care for adults' in version 4.00.
+function: 151
+interactions: [0, 8]
+powers: [156, 156, 156, 156, 156, 156, 156, 156, 156]
+internal: false
 
 ---
 

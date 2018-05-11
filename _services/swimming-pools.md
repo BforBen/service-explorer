@@ -1,9 +1,12 @@
 ---
 esd_id: 1674
-internal: false
 title: "Swimming pools"
 history: >-
   
+function: 80
+interactions: []
+powers: [1795, 1795, 1796, 1797, 1798, 1801]
+internal: false
 
 ---
 

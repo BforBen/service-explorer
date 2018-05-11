@@ -1,9 +1,12 @@
 ---
 esd_id: 773
-internal: false
 title: "Port arrival notification"
 history: >-
   Term name changed from 'Notification of vessel/aircraft ETA' to 'Notification of vessel or aircraft ETA' and scope notes added in version 2.02. Term name changed from 'Notification of vessel or aircraft ETA' to 'Ports of entry - notification of times of arrival' in version 3.00. Name changed to 'Port arrival notification' in version 4.00.
+function: 169
+interactions: [0, 8]
+powers: []
+internal: false
 
 ---
 

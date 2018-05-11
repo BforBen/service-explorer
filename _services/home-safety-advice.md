@@ -1,9 +1,12 @@
 ---
 esd_id: 423
-internal: false
 title: "Home safety advice"
 history: >-
   Added scope notes in version 2.02. Term name changed from 'Home safety' to 'Safety - home safety - advice' in version 3.00. Name changed in 'Home safety advice' in version 4.00.
+function: 21
+interactions: [8]
+powers: []
+internal: false
 
 ---
 

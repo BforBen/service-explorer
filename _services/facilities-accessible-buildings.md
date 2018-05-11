@@ -1,9 +1,12 @@
 ---
 esd_id: 952
-internal: true
 title: "Facilities - accessible buildings"
 history: >-
   Term name changed from 'Accessible buildings' to 'Facilities - accessible buildings' in version 3.00.
+function: 118
+interactions: []
+powers: [2068, 2068]
+internal: true
 
 ---
 

@@ -1,6 +1,8 @@
 ---
-esd_id: 2983
 title: "Consumer rights - injunction for unfair contract terms"
+esd_id: 2983
+type: power
+parent_id:  
 ---
 
 A local authority may apply for an injunction against a person if the regulator thinks that—

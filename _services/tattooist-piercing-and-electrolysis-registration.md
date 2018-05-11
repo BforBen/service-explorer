@@ -1,9 +1,12 @@
 ---
 esd_id: 680
-internal: false
 title: "Tattooist, piercing and electrolysis registration"
 history: >-
   Added scope notes in version 2.02. Scope notes updated in version 3.00 to include Scottish legislation. Name changed in version 3.00 to cover all piercing. Term name changed from 'Licences - tattooists, piercing and electrolysis' to 'Registration - tattooists, piercing and electrolysis' in version 3.03. Name changed to 'Tattooist, piercing and electrolysis registration' in version 4.00.
+function: 163
+interactions: [0, 4, 8, 9]
+powers: [2340, 2340]
+internal: false
 
 ---
 

@@ -1,6 +1,8 @@
 ---
-esd_id: 2465
 title: "Social care - protection of property"
+esd_id: 2465
+type: duty
+parent_id:  
 ---
 
 Where an adult is having needs for care and support met under sections 18 or 19 in a way that involves the provision of accommodation, or is admitted to hospital (or both), and

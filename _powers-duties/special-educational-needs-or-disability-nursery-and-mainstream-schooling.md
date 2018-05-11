@@ -1,6 +1,8 @@
 ---
-esd_id: 2377
 title: "Special educational needs or disability - nursery and mainstream schooling"
+esd_id: 2377
+type: duty
+parent_id:  
 ---
 
 Where a child with special educational needs is being educated in a maintained nursery school or a mainstream school those concerned with making special educational provision for the child must secure that the child engages in the activities of the school together with children who do not have special educational needs, subject to it being reasonably practicable and compatible with—

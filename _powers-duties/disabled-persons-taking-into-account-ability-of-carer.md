@@ -1,6 +1,8 @@
 ---
-esd_id: 2921
 title: "Disabled persons - taking into account ability of carer"
+esd_id: 2921
+type: duty
+parent_id:  
 ---
 
 Where a disabled person is living at home and receiving a substantial amount of care on a regular basis from another person (who is not a person employed to provide such care by any body in the exercise of its functions under any enactment), and

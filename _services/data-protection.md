@@ -1,9 +1,12 @@
 ---
 esd_id: 826
-internal: false
 title: "Data Protection"
 history: >-
   Added scope notes in version 2.02. Term name changed from 'Data Protection Act' to 'Data Protection' in version 3.00.
+function: 49
+interactions: [8]
+powers: [785, 2812, 2812, 2812, 2812, 2812, 3190, 3190, 3191, 3191, 3191, 3191, 3191, 3191, 3191, 3191, 3191, 3208, 3209]
+internal: false
 
 ---
 

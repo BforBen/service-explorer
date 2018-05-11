@@ -1,9 +1,12 @@
 ---
 esd_id: 1677
-internal: false
 title: "Child poverty strategy"
 history: >-
   
+function: 155
+interactions: []
+powers: [52, 53]
+internal: false
 
 ---
 

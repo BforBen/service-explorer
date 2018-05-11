@@ -1,9 +1,12 @@
 ---
 esd_id: 1682
-internal: false
 title: "Gambling premises temporary use notices"
 history: >-
   
+function: 90
+interactions: []
+powers: [344, 345, 346, 347, 357, 357, 357, 357, 357, 357, 357, 357, 357, 357, 358, 358, 358, 358, 358, 358, 358, 358, 358, 358, 359, 359, 359, 359, 359, 359, 359, 359, 359, 359]
+internal: false
 
 ---
 

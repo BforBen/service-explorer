@@ -1,6 +1,8 @@
 ---
-esd_id: 2375
 title: "Special educational needs or disability - mainstream schooling with EHC plan"
+esd_id: 2375
+type: duty
+parent_id:  
 ---
 
 A local authority must secure that the EHC plan provides for the child or young person to be educated in a maintained nursery school, mainstream school or mainstream post-16 institution, unless that is incompatible with —

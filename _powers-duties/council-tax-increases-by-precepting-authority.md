@@ -1,6 +1,8 @@
 ---
-esd_id: 2626
 title: "Council tax - increases by precepting authority"
+esd_id: 2626
+type: duty
+parent_id:  
 ---
 
 An authority which is a major or local precepting authority must notify its billing authorities if it has set an excessive relevant basic amount of council tax for a financial year by a specified date.

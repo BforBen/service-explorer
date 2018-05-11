@@ -1,9 +1,12 @@
 ---
 esd_id: 1136
-internal: false
 title: "Stopping up orders"
 history: >-
   Name changed to 'Stopping up orders' in version 4.00.
+function: 172
+interactions: [8]
+powers: [1458, 1459, 1462, 1908, 2038, 2038, 2038, 2038, 2259, 2260, 2261, 2265, 2265, 2267]
+internal: false
 
 ---
 

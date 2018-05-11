@@ -1,9 +1,12 @@
 ---
 esd_id: 280
-internal: false
 title: "Disabled people - bus passes"
 history: >-
   Added scope notes in version 2.02. Term name changed from 'Disabled bus pass' to 'Disabled people - bus passes' in version 3.00.
+function: 106
+interactions: [0, 8]
+powers: [1185, 1185, 1186, 1186, 1187, 1187, 1649, 1649, 1649, 1649, 1649, 1940, 1940, 1940, 1940, 1940, 1940, 2066, 2066, 2066, 2066, 2066, 2066, 2066, 2066, 2066, 2066, 2066, 2066, 2066, 2066, 2066, 2066, 2066, 2066, 2066, 2066]
+internal: false
 
 ---
 

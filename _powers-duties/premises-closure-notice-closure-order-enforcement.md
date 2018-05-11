@@ -1,6 +1,8 @@
 ---
-esd_id: 2435
 title: "Premises closure notice - closure order enforcement"
+esd_id: 2435
+type: power
+parent_id:  
 ---
 
 A person authorised by a local authority person may enter premises in respect of which a closure order is in force, do anything necessary to secure the premises against entry.

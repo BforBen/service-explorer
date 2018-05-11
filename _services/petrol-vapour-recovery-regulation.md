@@ -1,9 +1,12 @@
 ---
 esd_id: 1329
-internal: false
 title: "Petrol vapour recovery regulation"
 history: >-
   Added in version 3.09. Name changed to 'Petrol vapour recovery regulation' in version 4.00.
+function: 163
+interactions: []
+powers: []
+internal: false
 
 ---
 

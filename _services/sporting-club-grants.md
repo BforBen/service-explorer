@@ -1,9 +1,12 @@
 ---
 esd_id: 455
-internal: false
 title: "Sporting club grants"
 history: >-
   Added scope notes in version 2.02. Term name changed from 'Grants and development fund' to 'Grants - sporting clubs' in version 3.00. Name changed to 'Sporting club grants' in version 4.00
+function: 126
+interactions: [0, 7, 8]
+powers: []
+internal: false
 
 ---
 

@@ -1,9 +1,12 @@
 ---
 esd_id: 1026
-internal: true
 title: "Members - communications"
 history: >-
   Term name changed from 'Member communications' to 'Members - communications' in version 3.00.  Scope notes added in version 3.01.
+function: 115
+interactions: []
+powers: []
+internal: true
 
 ---
 

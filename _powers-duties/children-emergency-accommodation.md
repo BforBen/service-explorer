@@ -1,6 +1,8 @@
 ---
-esd_id: 2592
 title: "Children - emergency accommodation"
+esd_id: 2592
+type: duty
+parent_id:  
 ---
 
 Where there is a risk of immediate significant harm to the child, the local authority must remove the child immediately and notify the responsible authority (and others).

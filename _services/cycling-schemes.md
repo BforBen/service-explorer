@@ -1,9 +1,12 @@
 ---
 esd_id: 1566
-internal: false
 title: "Cycling schemes"
 history: >-
   Added scope notes in version 3.11.
+function: 107
+interactions: [8]
+powers: [2219, 3135]
+internal: false
 
 ---
 

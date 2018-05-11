@@ -1,9 +1,12 @@
 ---
 esd_id: 1575
-internal: false
 title: "Smoke control areas"
 history: >-
   Added scope notes in version 3.12.
+function: 37
+interactions: [0, 8]
+powers: [753, 754, 755, 756, 757, 758, 765, 765, 766, 766, 767, 767, 768, 769, 769, 770, 770, 771, 771]
+internal: false
 
 ---
 

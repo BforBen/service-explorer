@@ -1,9 +1,12 @@
 ---
 esd_id: 706
-internal: false
 title: "Sheep and goat movement licence"
 history: >-
   Added scope notes in version 2.02. Scope notes changed to include Scottish authority in version 3.00. Term name changed from 'Licence - animal movement' to 'Licences - animal movement' in version 3.00. Scope notes and name updated in version 3.09. Name changed to 'Sheep and goat movement licence' in version 4.00.
+function: 84
+interactions: [0, 8, 9]
+powers: []
+internal: false
 
 ---
 

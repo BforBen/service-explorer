@@ -1,6 +1,8 @@
 ---
-esd_id: 2371
 title: "Special educational needs or disability - publication of local information"
+esd_id: 2371
+type: duty
+parent_id:  
 ---
 
 A local authority must publish information about—

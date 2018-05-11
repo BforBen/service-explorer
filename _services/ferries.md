@@ -1,9 +1,12 @@
 ---
 esd_id: 1715
-internal: false
 title: "Ferries"
 history: >-
   
+function: 111
+interactions: []
+powers: [1693]
+internal: false
 
 ---
 

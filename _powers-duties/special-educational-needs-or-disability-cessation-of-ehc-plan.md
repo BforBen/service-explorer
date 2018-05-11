@@ -1,6 +1,8 @@
 ---
-esd_id: 2388
 title: "Special educational needs or disability - cessation of EHC plan"
+esd_id: 2388
+type: power
+parent_id:  
 ---
 
 A local authority may cease to maintain an EHC plan for a child or young person only if—

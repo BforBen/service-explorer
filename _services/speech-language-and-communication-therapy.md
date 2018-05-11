@@ -1,9 +1,12 @@
 ---
 esd_id: 1788
-internal: false
 title: "Speech, language and communication therapy"
 history: >-
   Added in March 2017.
+function: 155
+interactions: [0, 8]
+powers: []
+internal: false
 
 ---
 

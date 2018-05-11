@@ -1,9 +1,12 @@
 ---
 esd_id: 1156
-internal: false
 title: "Neighbourhood policing"
 history: >-
   Added in version 3.06.
+function: 21
+interactions: [0, 8]
+powers: [406, 406, 406, 406, 406, 406, 407, 407, 407, 407, 407, 407, 408, 408, 408, 408, 408, 408, 435, 435, 435, 435, 435, 435, 436, 436, 436, 436, 436, 436, 437, 437, 437, 437, 437, 437, 437, 438, 438, 438, 438, 438, 438, 438]
+internal: false
 
 ---
 

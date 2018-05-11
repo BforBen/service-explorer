@@ -1,9 +1,12 @@
 ---
 esd_id: 867
-internal: false
 title: "Service delivery consultation"
 history: >-
   Term name changed from 'Consultation overview' to 'Council - consultation - service delivery' in version 3.00. name changed to 'Service delivery consultation' and scope notes revised in version 4.00.
+function: 48
+interactions: [3, 8]
+powers: [694, 694, 694, 694, 2130]
+internal: false
 
 ---
 

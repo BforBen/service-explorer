@@ -1,9 +1,12 @@
 ---
 esd_id: 1695
-internal: false
 title: "Youth justice plan"
 history: >-
   
+function: 22
+interactions: []
+powers: [779]
+internal: false
 
 ---
 

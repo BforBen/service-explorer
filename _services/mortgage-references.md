@@ -1,9 +1,12 @@
 ---
 esd_id: 1617
-internal: false
 title: "Mortgage references"
 history: >-
   Added in version 4.00.
+function: 69
+interactions: [0, 8]
+powers: []
+internal: false
 
 ---
 

@@ -1,9 +1,12 @@
 ---
 esd_id: 260
-internal: false
 title: "Respite care for children and young people"
 history: >-
   Added scope notes in version 2.02. Term name changed from 'Respite care for children' to 'Children and young people - respite care' in version 3.00. Name changed to 'respite care for children and young people' in version 4.00.
+function: 152
+interactions: [0, 8]
+powers: [181, 181, 181, 181, 181, 181, 181, 181, 181, 181, 181, 181, 181, 181, 181, 457, 457, 2583]
+internal: false
 
 ---
 

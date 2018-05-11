@@ -1,9 +1,12 @@
 ---
 esd_id: 1477
-internal: false
 title: "Criminal damage - non-domestic building"
 history: >-
   Added in version 3.11.
+function: 132
+interactions: [0, 8, 17]
+powers: []
+internal: false
 
 ---
 

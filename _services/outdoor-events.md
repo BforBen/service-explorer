@@ -1,9 +1,12 @@
 ---
 esd_id: 463
-internal: false
 title: "Outdoor events"
 history: >-
   Term name changed from 'Events' to 'Events (parks, open spaces)' and scope notes added in version 2.02. Term name changed from 'Events (parks, open spaces)' to 'Parks and open spaces - events' in version 3.00. Name changed to 'Outdoor events' in version 4.00.
+function: 74
+interactions: [1, 8]
+powers: []
+internal: false
 
 ---
 

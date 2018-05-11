@@ -1,9 +1,12 @@
 ---
 esd_id: 275
-internal: false
 title: "Disabled people - taxi card"
 history: >-
   Added scope notes in version 2.02. Term name changed from 'Taxi card' to 'Disabled people - taxi card' in version 3.00.
+function: 106
+interactions: [0, 8]
+powers: [2066, 2066, 2066, 2066, 2066, 2066, 2066, 2066, 2066, 2066, 2066, 2066, 2066, 2066, 2066, 2066, 2066, 2066, 2066, 2066]
+internal: false
 
 ---
 

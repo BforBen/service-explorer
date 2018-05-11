@@ -1,9 +1,12 @@
 ---
 esd_id: 383
-internal: false
 title: "Building materials licence"
 history: >-
   Added scope notes in version 2.02. Scope notes changed in version 3.00 to cover Scottish legislation. Term name changed from 'Licence - building materials' to 'Licences - obstructions - building materials ' in version 3.00. name changed to 'Building materials licence' in version 4.00.
+function: 85
+interactions: [0, 4, 8, 9]
+powers: [3204]
+internal: false
 
 ---
 

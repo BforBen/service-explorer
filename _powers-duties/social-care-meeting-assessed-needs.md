@@ -1,6 +1,8 @@
 ---
-esd_id: 2457
 title: "Social care - meeting assessed needs"
+esd_id: 2457
+type: power
+parent_id:  
 ---
 
 Subject to the exception contained in sections 21 to 23, a local authority having carried out a needs assessment and (if required to do so) a financial assessment, may meet an adult's needs for care and support if—

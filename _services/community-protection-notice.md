@@ -1,9 +1,12 @@
 ---
 esd_id: 1752
-internal: false
 title: "Community protection notice"
 history: >-
   
+function: 133
+interactions: [8]
+powers: [2418, 2419, 2420, 2421, 2422, 2423, 2763]
+internal: false
 
 ---
 

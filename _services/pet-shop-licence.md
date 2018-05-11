@@ -1,9 +1,12 @@
 ---
 esd_id: 375
-internal: false
 title: "Pet shop licence"
 history: >-
   Added scope notes in version 2.02. Term name changed from 'Licence - pet shop' to 'Licences - pet shops' in version 3.00. Name changed to 'Pet shop licence' in version 4.00.
+function: 84
+interactions: [0, 4, 8, 9]
+powers: [138, 138, 138, 139, 139, 139, 1706, 1707, 1708]
+internal: false
 
 ---
 

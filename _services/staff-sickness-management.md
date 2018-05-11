@@ -1,9 +1,12 @@
 ---
 esd_id: 1143
-internal: true
 title: "Staff - sickness management"
 history: >-
   
+function: 119
+interactions: []
+powers: []
+internal: true
 
 ---
 

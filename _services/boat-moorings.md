@@ -1,9 +1,12 @@
 ---
 esd_id: 758
-internal: false
 title: "Boat moorings"
 history: >-
   Added scope notes in version 2.02. Term name changed from 'Boat moorings' to 'Boats - moorings' in version 3.00. Name changed to 'Boat mooringhs' in version 4.00.
+function: 168
+interactions: [0, 8]
+powers: []
+internal: false
 
 ---
 

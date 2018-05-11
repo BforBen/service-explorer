@@ -1,9 +1,12 @@
 ---
 esd_id: 1149
-internal: false
 title: "Community centres"
 history: >-
   Added in version 3.05.
+function: 62
+interactions: [1, 8]
+powers: []
+internal: false
 
 ---
 

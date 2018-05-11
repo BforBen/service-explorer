@@ -1,6 +1,8 @@
 ---
-esd_id: 2411
 title: "Special educational needs or disability - integration of services"
+esd_id: 2411
+type: duty
+parent_id:  
 ---
 
 A local authority in England must exercise its functions with a view to ensuring the integration of educational provision and training provision with health care provision and social care provision, where it thinks that this would—

@@ -1,9 +1,12 @@
 ---
 esd_id: 1692
-internal: false
 title: "Early morning restrictions orders"
 history: >-
   
+function: 83
+interactions: []
+powers: [662]
+internal: false
 
 ---
 

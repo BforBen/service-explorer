@@ -1,9 +1,12 @@
 ---
 esd_id: 639
-internal: false
 title: "Sports grants"
 history: >-
   Added scope notes in version 2.02. Term name changed from 'Sports grants' to 'Grants - sports' in version 3.00. Name changed to 'Sports grants' in version 4.00.
+function: 126
+interactions: [0, 8]
+powers: [1588, 1588, 1588, 1588, 1588]
+internal: false
 
 ---
 

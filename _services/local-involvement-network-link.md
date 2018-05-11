@@ -1,9 +1,12 @@
 ---
 esd_id: 1150
-internal: false
 title: "Local Involvement Network (LINk)"
 history: >-
   Added in version 3.05.
+function: 57
+interactions: [0, 3, 8]
+powers: [366]
+internal: false
 
 ---
 

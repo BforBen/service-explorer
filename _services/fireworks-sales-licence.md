@@ -1,9 +1,12 @@
 ---
 esd_id: 384
-internal: false
 title: "Fireworks sales licence"
 history: >-
   Added scope notes in version 2.02. Term name changed from 'Licence -sell explosives' to 'Licences - sale of fireworks' in version 3.00. Name changed to 'Fireworks sales licence' in version 4.00.
+function: 88
+interactions: [0, 4, 8, 9]
+powers: [529, 529, 529]
+internal: false
 
 ---
 

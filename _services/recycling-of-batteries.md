@@ -1,9 +1,12 @@
 ---
 esd_id: 1779
-internal: false
 title: "Recycling of batteries"
 history: >-
   Added in March 2016 review of legislation
+function: 39
+interactions: [8]
+powers: [2897, 2898, 2899, 2900, 2901]
+internal: false
 
 ---
 

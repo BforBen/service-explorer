@@ -1,9 +1,12 @@
 ---
 esd_id: 983
-internal: true
 title: "Staff - victimisation"
 history: >-
   Term name changed from 'Victimisation' to 'Staff - victimisation' in version 3.00.
+function: 119
+interactions: []
+powers: []
+internal: true
 
 ---
 

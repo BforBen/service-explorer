@@ -1,6 +1,8 @@
 ---
-esd_id: 2448
 title: "Social care - carer's assessment"
+esd_id: 2448
+type: duty
+parent_id:  
 ---
 
 A local authority must  where it appears  that a carer may have needs for support (whether currently or in the future), the authority must assess—

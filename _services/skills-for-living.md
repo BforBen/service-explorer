@@ -1,9 +1,12 @@
 ---
 esd_id: 1794
-internal: false
 title: "Skills for living"
 history: >-
   Added in March 2017.
+function: 150
+interactions: [0, 8]
+powers: []
+internal: false
 
 ---
 

@@ -1,9 +1,12 @@
 ---
 esd_id: 1770
-internal: true
 title: "Staff - pension scheme"
 history: >-
   Added in March 2016 review of legislation
+function: 119
+interactions: [8]
+powers: [2188, 2188, 2188, 2494, 2494, 3058, 3059]
+internal: true
 
 ---
 

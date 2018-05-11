@@ -1,9 +1,12 @@
 ---
 esd_id: 785
-internal: false
 title: "Abnormal load notification"
 history: >-
   Added scope notes in version 2.02. Term name changed from 'Abnormal loads' to 'Transport - abnormal loads - notification' in version 3.00. Name changed to 'Abnormal load notification' in version 4.00.
+function: 166
+interactions: [8]
+powers: []
+internal: false
 
 ---
 

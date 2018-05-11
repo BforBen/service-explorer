@@ -1,9 +1,12 @@
 ---
 esd_id: 269
-internal: false
 title: "Keeping warm in winter"
 history: >-
   Added scope notes in version 2.02. Scope notes updated in version 3.00 to clarify eligibility. Term name changed from 'Keeping warm in winter service' to 'Social services - keeping warm in winter - advice and support' in version 3.00. Name changed to 'Keeping warm in winter' in version 4.00.
+function: 129
+interactions: [0, 8]
+powers: [1584, 1584, 1584, 1584, 1584, 1584, 1584]
+internal: false
 
 ---
 

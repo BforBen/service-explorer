@@ -1,9 +1,12 @@
 ---
 esd_id: 376
-internal: false
 title: "Dangerous animals licence"
 history: >-
   Added scope notes in version 2.02. Scope notes updated in version 3.00 to cover the full scope of the service. Term name changed from 'Licence - exotic, dangerous or wild animals' to 'Licences - dangerous animals' in version 3.00. Name changed to 'Dangerous animal licence' in version 4.00.
+function: 84
+interactions: [0, 4, 8, 9]
+powers: [1480, 1481, 1481, 1482, 1482]
+internal: false
 
 ---
 

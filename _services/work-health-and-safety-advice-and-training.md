@@ -1,9 +1,12 @@
 ---
 esd_id: 752
-internal: false
 title: "Work health and safety advice and training"
 history: >-
   Added scope notes in version 2.02, updated in version 3.06. Term name changed from 'Health and safety at work - advice and training' to 'Safety - health and safety at work - advice and training' in version 3.00. Name changed to 'Work health and safety advice and training' in version 4.00.
+function: 12
+interactions: [0, 1, 8]
+powers: []
+internal: false
 
 ---
 

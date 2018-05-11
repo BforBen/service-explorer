@@ -1,6 +1,8 @@
 ---
-esd_id: 2988
 title: "Consumer rights enforcement - purchase, entry and inspection"
+esd_id: 2988
+type: power
+parent_id:  
 ---
 
 A local authority or an authorised officer may 

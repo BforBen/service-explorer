@@ -1,6 +1,8 @@
 ---
-esd_id: 2590
 title: "Schools - teacher appraisal (Wales)"
+esd_id: 2590
+type: duty
+parent_id:  
 ---
 
 The governing body and head teacher must appraise all teachers’ performance regularly in accordance with these Regulations and (with the local authority) determine a performance management policy.  The head teacher must make an annual written report on the effectiveness of appraisal procedures to the governing body.

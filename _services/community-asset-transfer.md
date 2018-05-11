@@ -1,9 +1,12 @@
 ---
 esd_id: 1653
-internal: false
 title: "Community asset transfer"
 history: >-
   Added in version 4.0.1 to the English hand welsh, local government service list.
+function: 77
+interactions: []
+powers: [3183, 3183, 3184, 3184, 3185, 3185, 3186, 3187]
+internal: false
 
 ---
 

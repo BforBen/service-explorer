@@ -1,9 +1,12 @@
 ---
 esd_id: 1657
-internal: true
 title: "Corporate - insurance"
 history: >-
   Added in version 4.0.1 to the internal service list.
+function: 114
+interactions: []
+powers: [2157]
+internal: true
 
 ---
 

@@ -1,9 +1,12 @@
 ---
 esd_id: 766
-internal: false
 title: "Marine storage lockers"
 history: >-
   Added scope notes in version 2.02. Term name changed from 'Storage lockers' to 'Ports and harbours - storage lockers' in version 3.00. Name changed to 'Marine storage lockers' in version 4.00.
+function: 168
+interactions: [0, 4, 8]
+powers: []
+internal: false
 
 ---
 

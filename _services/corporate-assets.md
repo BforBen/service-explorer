@@ -1,9 +1,12 @@
 ---
 esd_id: 1662
-internal: true
 title: "Corporate - assets"
 history: >-
   Added in version 4.0.1 to the internal service list.
+function: 114
+interactions: []
+powers: [1128, 1128, 1129, 1129, 2146]
+internal: true
 
 ---
 

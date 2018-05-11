@@ -1,9 +1,12 @@
 ---
 esd_id: 321
-internal: false
 title: "Death registration"
 history: >-
   Added scope notes in version 2.02. Scope notes amended in version 3.05. Name changed to 'Death registration' in version 4.00.
+function: 54
+interactions: [8, 9]
+powers: [1716, 1716, 1716, 1716, 1716, 1716, 1716, 1716, 1716, 1716, 1716, 1716, 1716, 1717, 1717, 1717, 1717, 1717, 1717, 1717, 1717, 1717, 1717, 1717, 1717, 1717, 1718, 1718, 1718, 1718, 1718, 1718, 1718, 1718, 1718, 1718, 1718, 1718, 1718, 1719, 1719, 1719, 1719, 1719, 1719, 1719, 1719, 1719, 1719, 1719, 1719, 1719, 3191, 3191, 3191, 3191, 3191, 3191, 3191, 3191, 3191]
+internal: false
 
 ---
 

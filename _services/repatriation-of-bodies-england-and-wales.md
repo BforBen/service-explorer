@@ -1,9 +1,12 @@
 ---
 esd_id: 326
-internal: false
 title: "Repatriation of bodies - England and Wales"
 history: >-
   Added scope notes in version 2.02. Scope notes changed in version 3.00 to include Scottish regulations. Term name changed from 'Repatriation of a deceased body from abroad to England or Wales' to 'Death - repatriation of bodies - England and Wales' in version 3.00. Name changed to 'Repatriation of bodies - England and Wales' in version 4.00.
+function: 35
+interactions: [8]
+powers: []
+internal: false
 
 ---
 

@@ -1,6 +1,8 @@
 ---
-esd_id: 2439
 title: "Social care - assistance to carers"
+esd_id: 2439
+type: duty
+parent_id:  
 ---
 
 A local authority must provide or arrange for the provision of services, facilities or resources, or take other steps, which it considers will—

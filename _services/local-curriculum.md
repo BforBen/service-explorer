@@ -1,9 +1,12 @@
 ---
 esd_id: 1699
-internal: false
 title: "Local curriculum"
 history: >-
   
+function: 138
+interactions: []
+powers: [1009, 2531, 2532, 2588]
+internal: false
 
 ---
 

@@ -1,9 +1,12 @@
 ---
 esd_id: 901
-internal: false
 title: "Demand responsive transport"
 history: >-
   Term name changed from 'Demand responsive transport (DRT)' to 'Transport - demand responsive transport ' in version 3.00. Name changed to 'Demand responsive transport' in version 4.00.
+function: 106
+interactions: [0, 4, 8]
+powers: []
+internal: false
 
 ---
 

@@ -1,9 +1,12 @@
 ---
 esd_id: 123
-internal: false
 title: "Home contents insurance"
 history: >-
   Added scope notes in version 2.02. Term name changed from 'Housing - home insurance' to 'Housing - council - home insurance' in version 3.00. Name changed to 'Home contents insurance' in version 4.00.
+function: 157
+interactions: [2, 8]
+powers: []
+internal: false
 
 ---
 

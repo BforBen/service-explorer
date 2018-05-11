@@ -1,9 +1,12 @@
 ---
 esd_id: 173
-internal: false
 title: "Youth justice - final warning"
 history: >-
   Term name changed from 'Final warning' to 'Final warning for young offenders' and scope notes added in version 2.02. Term name changed from 'Final warning for young offenders' to 'Youth justice - final warning' in version 3.00.
+function: 22
+interactions: [8]
+powers: [776, 776, 776, 776, 776, 776, 776, 777, 777, 777, 777, 777, 777, 777, 778, 778, 778, 778, 778, 778, 778]
+internal: false
 
 ---
 

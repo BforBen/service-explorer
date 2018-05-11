@@ -1,9 +1,12 @@
 ---
 esd_id: 1117
-internal: false
 title: "Tourist signs"
 history: >-
   Name changed to 'Tourist signs' in version 4.00.
+function: 173
+interactions: [0, 4, 8]
+powers: [2162, 2162, 2162, 2162, 2162, 2162, 2162]
+internal: false
 
 ---
 

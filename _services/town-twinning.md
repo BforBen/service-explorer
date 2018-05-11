@@ -1,9 +1,12 @@
 ---
 esd_id: 662
-internal: false
 title: "Town twinning"
 history: >-
   Added scope notes in version 2.02.
+function: 114
+interactions: [3, 6, 7, 8]
+powers: []
+internal: false
 
 ---
 

@@ -1,9 +1,12 @@
 ---
 esd_id: 1705
-internal: false
 title: "Workplace parking levy"
 history: >-
   
+function: 166
+interactions: []
+powers: [1190]
+internal: false
 
 ---
 

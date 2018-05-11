@@ -1,9 +1,12 @@
 ---
 esd_id: 1783
-internal: false
 title: "Channel early intervention scheme"
 history: >-
   Added in March 2017.
+function: 21
+interactions: [8]
+powers: [2998, 2998, 2999, 2999, 3000, 3001]
+internal: false
 
 ---
 

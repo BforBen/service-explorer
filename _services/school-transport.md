@@ -1,9 +1,12 @@
 ---
 esd_id: 891
-internal: false
 title: "School transport"
 history: >-
   Term name changed from 'School transport' to 'Schools - transport' in version 3.00. Scopes notes updated in version 3.09. Name changed to 'School transport' in version 4.00.
+function: 136
+interactions: [8]
+powers: [263, 263, 263, 870, 870, 870, 870, 872, 872, 872, 872, 873, 873, 873, 873, 874, 874, 874, 874, 875, 875, 875, 875, 876, 876, 881, 881, 881, 884, 884, 884, 884, 2336, 2905, 2905, 2906, 2906]
+internal: false
 
 ---
 

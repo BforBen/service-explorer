@@ -1,6 +1,8 @@
 ---
-esd_id: 2418
 title: "Community protection notices - issuing"
+esd_id: 2418
+type: power
+parent_id:  
 ---
 
 A person duly authorised by a local authority may (subject to the requirements of section 43) issue a community protection notice to an individual aged 16 or over, or a body, if satisfied on reasonable grounds that—

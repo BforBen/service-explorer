@@ -1,9 +1,12 @@
 ---
 esd_id: 389
-internal: false
 title: "Massage and special treatment licence"
 history: >-
   Added scope notes in version 2.02. Term name changed from 'Licence - massage and special treatment licence (MST)' to 'Licences - massage and special treatment' in version 3.00. Name changed to 'Massage and special treatment licence in version 4.00.
+function: 163
+interactions: [0, 4, 8, 9]
+powers: []
+internal: false
 
 ---
 

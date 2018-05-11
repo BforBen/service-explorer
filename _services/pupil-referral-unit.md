@@ -1,9 +1,12 @@
 ---
 esd_id: 1766
-internal: false
 title: "Pupil referral unit"
 history: >-
   Added in March 2016 review of legislation
+function: 134
+interactions: [8]
+powers: [799, 799, 799, 799, 2544, 2722]
+internal: false
 
 ---
 

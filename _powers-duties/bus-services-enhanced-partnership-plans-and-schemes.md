@@ -1,6 +1,8 @@
 ---
-esd_id: 3174
 title: "Bus services - enhanced partnership plans and schemes"
+esd_id: 3174
+type: power
+parent_id:  
 ---
 
 A local transport authority or two or more such authorities acting jointly, may make-

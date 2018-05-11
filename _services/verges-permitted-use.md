@@ -1,9 +1,12 @@
 ---
 esd_id: 1362
-internal: false
 title: "Verges - permitted use"
 history: >-
   Added in version 3.09. Name changed to 'Verges - permitted use' and scope notes updated in version 4.00.
+function: 165
+interactions: []
+powers: [1863, 1863]
+internal: false
 
 ---
 

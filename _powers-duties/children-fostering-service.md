@@ -1,6 +1,8 @@
 ---
-esd_id: 2574
 title: "Children - fostering service"
+esd_id: 2574
+type: duty
+parent_id:  
 ---
 
 A LA (acting as a Fostering Service Provider) must have, and keep under review, a statement of purpose setting out the aims, objectives, services and facilities provided by the fostering service, and a children's guide to the service.

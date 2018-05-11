@@ -1,9 +1,12 @@
 ---
 esd_id: 1116
-internal: false
 title: "Youth Opportunity Fund"
 history: >-
   Name changed to 'Youth Opportunity Fund' in version 4.00.
+function: 128
+interactions: [0, 3, 7, 8]
+powers: [1004, 1004, 1004, 1004, 1004, 1005, 1005, 1005, 1005, 1005, 1006, 1006, 1006, 1006, 1006, 1006, 1007, 1007, 1007, 1007, 1007]
+internal: false
 
 ---
 

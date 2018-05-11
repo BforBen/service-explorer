@@ -1,9 +1,12 @@
 ---
 esd_id: 1706
-internal: false
 title: "Prospectively maintainable highways"
 history: >-
   
+function: 172
+interactions: []
+powers: [1322, 1322, 2515, 2515]
+internal: false
 
 ---
 

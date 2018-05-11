@@ -1,9 +1,12 @@
 ---
 esd_id: 873
-internal: false
 title: "Naming ceremonies"
 history: >-
   Term name changed from 'Naming ceremonies' to 'Ceremonies - naming' in version 3.00. Name changed to 'Naming ceremonies' in version 4.00.
+function: 54
+interactions: [0, 1, 4, 8]
+powers: [1716, 1716, 1716, 1716, 1716, 1716, 1716, 1716, 1716, 1716, 1716, 1716, 1716, 1717, 1717, 1717, 1717, 1717, 1717, 1717, 1717, 1717, 1717, 1717, 1717, 1717, 1718, 1718, 1718, 1718, 1718, 1718, 1718, 1718, 1718, 1718, 1718, 1718, 1718, 1719, 1719, 1719, 1719, 1719, 1719, 1719, 1719, 1719, 1719, 1719, 1719, 1719]
+internal: false
 
 ---
 

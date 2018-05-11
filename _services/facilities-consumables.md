@@ -1,9 +1,12 @@
 ---
 esd_id: 1633
-internal: true
 title: "Facilities - consumables"
 history: >-
   Added in version 4.00.
+function: 118
+interactions: []
+powers: []
+internal: true
 
 ---
 

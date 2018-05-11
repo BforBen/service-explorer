@@ -1,9 +1,12 @@
 ---
 esd_id: 1013
-internal: false
 title: "Postal voting"
 history: >-
   Scope notes amended in version 3.05. Name changed to 'Postal voting' in version 4.00.
+function: 146
+interactions: [0, 8]
+powers: []
+internal: false
 
 ---
 

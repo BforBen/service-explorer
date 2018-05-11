@@ -1,6 +1,8 @@
 ---
-esd_id: 2982
 title: "Consumer rights - complaints regarding unfair contract terms and notices"
+esd_id: 2982
+type: power
+parent_id:  
 ---
 
 A local authority may consider a complaint about a term or notice to which the Schedule applies (a “relevant complaint”).

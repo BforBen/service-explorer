@@ -1,9 +1,12 @@
 ---
 esd_id: 148
-internal: false
 title: "Housing rent setting"
 history: >-
   Added scope notes in version 2.02. Term name changed from 'Housing - rent setting' to 'Housing - council - rent setting' in version 3.00. Name changed to 'Housing rent setting' in version 4.00.
+function: 157
+interactions: [8]
+powers: [3022, 3048]
+internal: false
 
 ---
 

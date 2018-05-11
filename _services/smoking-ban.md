@@ -1,9 +1,12 @@
 ---
 esd_id: 1086
-internal: false
 title: "Smoking ban"
 history: >-
   Term name changed from 'Pollution control - smoking in enclosed public places' to 'Smoking ban enforcement - enclosed public spaces' and scope notes updated in version 3.02. Name changed to 'Smoking ban' in version 4.00.
+function: 34
+interactions: [0, 4, 8]
+powers: [3117]
+internal: false
 
 ---
 

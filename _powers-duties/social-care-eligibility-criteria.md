@@ -1,6 +1,8 @@
 ---
-esd_id: 2450
 title: "Social care - eligibility criteria"
+esd_id: 2450
+type: duty
+parent_id:  
 ---
 
 A local authority must where it is satisfied on the basis of a needs or carer's assessment that an adult has needs for care and support or that a carer has needs for support, determine whether any of the needs meet the eligibility criteria (see subsection (7)).

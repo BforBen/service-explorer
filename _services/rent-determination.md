@@ -1,9 +1,12 @@
 ---
 esd_id: 1055
-internal: false
 title: "Rent determination"
 history: >-
   Name changed to 'Rent determination' in version 4.00.
+function: 124
+interactions: [8]
+powers: []
+internal: false
 
 ---
 

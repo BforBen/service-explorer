@@ -1,9 +1,12 @@
 ---
 esd_id: 279
-internal: false
 title: "Disabled people - parking permits"
 history: >-
   Added scope notes in version 2.02. Term name changed from 'Parking permits (blue badge)' to 'Disabled people - parking permits - blue badge' in version 3.00. Name changed to 'Disabled people - parking permits' in version 4.00.
+function: 110
+interactions: [0, 8]
+powers: [2066, 2066, 2066, 2066, 2066, 2066, 2066, 2066, 2066, 2066, 2066, 2066, 2066, 2066, 2066, 2066, 2066, 2066, 2066, 2066, 2071]
+internal: false
 
 ---
 

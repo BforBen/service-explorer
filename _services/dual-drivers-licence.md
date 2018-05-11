@@ -1,9 +1,12 @@
 ---
 esd_id: 1729
-internal: false
 title: "Dual drivers licence"
 history: >-
   
+function: 167
+interactions: [0, 8]
+powers: [3142, 3142, 3142, 3142, 3142, 3142]
+internal: false
 
 ---
 

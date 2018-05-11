@@ -1,9 +1,12 @@
 ---
 esd_id: 534
-internal: false
 title: "Recycling sites"
 history: >-
   Added scope notes in version 2.02.  Scope notes updated in version 3.01 for clarification. Term name changed from 'Recycling - collection sites' to 'Recycling - sites' in version 3.02.  Name changed to 'recycling sites' in version 4.00.
+function: 39
+interactions: [8, 17]
+powers: [1221, 1221, 2802]
+internal: false
 
 ---
 

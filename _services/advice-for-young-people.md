@@ -1,9 +1,12 @@
 ---
 esd_id: 700
-internal: false
 title: "Advice for young people"
 history: >-
   Added scope notes in version 2.02. Scope notes changed in version 3.00 for clarity. Term name changed from 'Advice for young people' to 'Children and young people - advice' in version 3.00. Name changed to 'Advice for young people' in version 4.00.
+function: 155
+interactions: [6, 8]
+powers: [158, 158]
+internal: false
 
 ---
 

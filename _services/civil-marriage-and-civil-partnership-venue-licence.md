@@ -1,9 +1,12 @@
 ---
 esd_id: 1296
-internal: false
 title: "Civil marriage and civil partnership venue licence"
 history: >-
   Added in version 3.08. Name updated in version 3.09. Name changed to 'Civil marriage and civil partnership venue licence' in version 4.00.
+function: 83
+interactions: [0, 11, 8, 9]
+powers: [2732, 2732, 2733, 2733]
+internal: false
 
 ---
 

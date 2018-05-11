@@ -1,9 +1,12 @@
 ---
 esd_id: 740
-internal: false
 title: "Self drive boats licence"
 history: >-
   Added scope notes in version 2.02. Term name changed from 'Licence - self drive boats' to 'Licences - self drive boats' in version 3.00. Name changed to 'Self drive boats licence' in version 4.00.
+function: 94
+interactions: [0, 8, 9]
+powers: []
+internal: false
 
 ---
 

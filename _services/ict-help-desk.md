@@ -1,9 +1,12 @@
 ---
 esd_id: 988
-internal: true
 title: "ICT - help desk"
 history: >-
   Term name changed from 'ICT helpdesk' to 'ICT - help desk' in version 3.00.
+function: 120
+interactions: []
+powers: []
+internal: true
 
 ---
 

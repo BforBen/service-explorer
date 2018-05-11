@@ -1,9 +1,12 @@
 ---
 esd_id: 837
-internal: false
 title: "Children and young people - preventative services"
 history: >-
   Term name changed from 'Preventative services' to 'Preventative services (young children)' and scope notes added in version 2.02. Term name changed from 'Preventative services (young children)' to 'Children and young people - preventative services' in version 3.00.
+function: 155
+interactions: [8]
+powers: [181, 181, 181, 181, 181, 181, 181, 181, 181, 181, 181, 181, 181, 181, 181, 2611, 2611]
+internal: false
 
 ---
 

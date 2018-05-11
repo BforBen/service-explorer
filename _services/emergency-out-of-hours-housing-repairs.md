@@ -1,9 +1,12 @@
 ---
 esd_id: 139
-internal: false
 title: "Emergency out of hours housing repairs"
 history: >-
   Added scope notes in version 2.02. Term name changed from 'Housing repairs - emergency out of hours repairs' to 'Housing - repairs - emergency out of hours repairs' in version 3.00. Name changed to 'Emergency out of hours housing repairs' in version 4.00.
+function: 70
+interactions: [0, 8, 17]
+powers: [535, 535, 535, 535, 535, 535, 535]
+internal: false
 
 ---
 

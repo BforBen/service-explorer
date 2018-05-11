@@ -1,9 +1,12 @@
 ---
 esd_id: 1656
-internal: true
 title: "Staff - business travel"
 history: >-
   Added in version 4.0.1 to the internal service list.
+function: 119
+interactions: []
+powers: []
+internal: true
 
 ---
 

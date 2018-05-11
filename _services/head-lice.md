@@ -1,9 +1,12 @@
 ---
 esd_id: 1507
-internal: false
 title: "Head lice"
 history: >-
   Added scope notes in version 3.11.
+function: 135
+interactions: [0, 8]
+powers: []
+internal: false
 
 ---
 

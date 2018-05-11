@@ -1,9 +1,12 @@
 ---
 esd_id: 512
-internal: false
 title: "Conservation area planning"
 history: >-
   Added scope notes in version 2.02. Term name changed from 'Conservation and urban design planning - conservation advice' to 'Planning - conservation advice' in version 3.00. Name changed to 'Conservation advice' in version 4.00.
+function: 170
+interactions: [0, 8]
+powers: [1369, 1369, 1370, 1370, 1371, 1371, 1372, 1372, 1372, 1372, 1372, 2620, 2620, 2620]
+internal: false
 
 ---
 

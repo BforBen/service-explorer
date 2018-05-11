@@ -1,9 +1,12 @@
 ---
 esd_id: 1772
-internal: false
 title: "Integrated family support"
 history: >-
   Added in March 2016 review of legislation
+function: 155
+interactions: [0, 8]
+powers: [3026, 3026, 3026, 3026, 3026, 3026, 3027, 3027, 3027, 3027, 3027, 3027, 3028, 3028, 3028, 3028, 3028, 3029, 3029, 3029, 3029, 3029, 3029]
+internal: false
 
 ---
 

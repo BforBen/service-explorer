@@ -1,9 +1,12 @@
 ---
 esd_id: 1698
-internal: false
 title: "Demoted tenancy"
 history: >-
   
+function: 156
+interactions: []
+powers: [945]
+internal: false
 
 ---
 

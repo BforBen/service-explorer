@@ -1,9 +1,12 @@
 ---
 esd_id: 1124
-internal: false
 title: "Housing mediation"
 history: >-
   Name changed to 'Housing mediation' in version 4.00.
+function: 69
+interactions: [0, 6, 8]
+powers: []
+internal: false
 
 ---
 

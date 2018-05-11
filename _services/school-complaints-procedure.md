@@ -1,9 +1,12 @@
 ---
 esd_id: 630
-internal: false
 title: "School complaints procedure"
 history: >-
   Added scope notes in version 2.02. Term name changed from 'Complaints procedure - something that has happened at school' to 'Schools - complaints procedure' in version 3.00. Name changed to 'School complaints procedure' in version 4.00.
+function: 138
+interactions: [0, 8]
+powers: [269, 269, 270, 270, 270, 487, 835]
+internal: false
 
 ---
 

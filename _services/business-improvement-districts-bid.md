@@ -1,9 +1,12 @@
 ---
 esd_id: 1693
-internal: false
 title: "Business improvement districts (BID)"
 history: >-
   
+function: 13
+interactions: []
+powers: [680, 681, 682, 683, 684, 685, 686, 687, 688, 689, 690, 2703, 2703, 3111, 3111, 3112, 3112, 3113, 3113]
+internal: false
 
 ---
 

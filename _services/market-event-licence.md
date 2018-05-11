@@ -1,9 +1,12 @@
 ---
 esd_id: 679
-internal: false
 title: "Market event licence"
 history: >-
   Name and scope notes changed in version 3.00. Term name changed from 'Licence - car boot sales' to 'Licences - markets' in version 3.00.  Changed scope notes in version 3.07. Name changed to 'Market event licence' in version 4.00.
+function: 164
+interactions: [0, 4, 8, 9]
+powers: [2358, 2358, 2358, 2954, 2954, 2954]
+internal: false
 
 ---
 

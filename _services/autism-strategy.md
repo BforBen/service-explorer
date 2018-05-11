@@ -1,9 +1,12 @@
 ---
 esd_id: 1728
-internal: false
 title: "Autism strategy"
 history: >-
   
+function: 65
+interactions: []
+powers: [103, 370, 370, 370, 370, 370, 370, 370, 370, 370, 370, 370]
+internal: false
 
 ---
 

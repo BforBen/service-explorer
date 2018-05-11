@@ -1,9 +1,12 @@
 ---
 esd_id: 199
-internal: false
 title: "Health advice"
 history: >-
   Added scope notes in version 2.02. Term name changed from 'Health advice' to 'Health - advice' in version 3.00. Name changed to 'Health advice' in version 4.00.
+function: 65
+interactions: [6, 8]
+powers: [369, 369, 369, 369, 369, 369, 383, 383, 383, 383, 383, 383, 383, 383, 383, 383, 2681, 2681, 2681, 2681, 2681, 2681, 2681, 2681, 2681, 2681]
+internal: false
 
 ---
 

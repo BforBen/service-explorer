@@ -1,9 +1,12 @@
 ---
 esd_id: 1294
-internal: false
 title: "Massage and special treatments therapist registration"
 history: >-
   Added in version 3.08. Name changed to 'Massgae and special treatments therapist registration' in version 4.00.
+function: 163
+interactions: [0, 11, 8, 9]
+powers: []
+internal: false
 
 ---
 

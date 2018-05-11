@@ -1,6 +1,8 @@
 ---
-esd_id: 2575
 title: "Schools - performance targets"
+esd_id: 2575
+type: duty
+parent_id:  
 ---
 
 The governing body of a maintained school must set performance targets for pupils in the second, third and fourth key stages. 

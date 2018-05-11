@@ -1,9 +1,12 @@
 ---
 esd_id: 37
-internal: false
 title: "School catering"
 history: >-
   Added scope notes in version 2.02. Term name changed from 'School catering' to 'Schools - catering' in version 3.00.  Term name changed to 'School catering' in version 4.00.
+function: 135
+interactions: [4, 8]
+powers: [889, 889, 890, 893, 893, 894, 895, 895, 912, 1145, 1145, 2669, 2749]
+internal: false
 
 ---
 

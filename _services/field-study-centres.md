@@ -1,9 +1,12 @@
 ---
 esd_id: 751
-internal: false
 title: "Field study centres"
 history: >-
   Added scope notes in version 2.02. Term name changed from 'Residential study centres' to 'Countryside - residential study centres' in version 3.00. Name changed to 'Field study centres' in version 4.00.
+function: 33
+interactions: [0, 8]
+powers: []
+internal: false
 
 ---
 

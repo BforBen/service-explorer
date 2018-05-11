@@ -1,6 +1,8 @@
 ---
-esd_id: 2623
 title: "Schools - admissions"
+esd_id: 2623
+type: duty
+parent_id:  
 ---
 
 Local authorities must adhere to prescribed matters in relation to the content of the admission arrangements determined each year; the proportion of selective admissions, the prescribed subjects for selection by aptitude; and the priority to be given to looked after children (who have to be looked after at the time of their application to the school).  They must consult with prescribed bodies for at least 8 weeks up to 1 March, including with the school's governing body where they propose to increase or keep the same number, and publish their proposed admission arrangements on their website and send copies as prescribed. 

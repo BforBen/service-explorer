@@ -1,9 +1,12 @@
 ---
 esd_id: 970
-internal: true
 title: "Finance - fund management"
 history: >-
   Term name changed from 'Fund management' to 'Accounts - fund management' in version 3.00. Name/scope notes changed in version 4.0.1.
+function: 116
+interactions: []
+powers: [2188, 2188, 2188, 2494, 2494]
+internal: true
 
 ---
 

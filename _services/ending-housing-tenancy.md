@@ -1,9 +1,12 @@
 ---
 esd_id: 1619
-internal: false
 title: "Ending housing tenancy"
 history: >-
   Added in version 4.00.
+function: 156
+interactions: [0, 8]
+powers: [107, 107, 107, 107]
+internal: false
 
 ---
 

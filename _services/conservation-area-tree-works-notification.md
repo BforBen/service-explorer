@@ -1,9 +1,12 @@
 ---
 esd_id: 1736
-internal: false
 title: "Conservation area tree works notification"
 history: >-
   
+function: 101
+interactions: [0, 8]
+powers: []
+internal: false
 
 ---
 

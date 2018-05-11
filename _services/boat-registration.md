@@ -1,9 +1,12 @@
 ---
 esd_id: 763
-internal: false
 title: "Boat registration"
 history: >-
   Added scope notes in version 2.02. Term name changed from 'Personal watercraft registration' to 'Boats - registration' in version 3.00. Name changed to 'Boat registration' in version 4.00.
+function: 169
+interactions: [0, 8]
+powers: [1617, 1617, 1617]
+internal: false
 
 ---
 

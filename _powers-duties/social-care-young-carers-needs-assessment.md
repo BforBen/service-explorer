@@ -1,6 +1,8 @@
 ---
-esd_id: 2825
 title: "Social care - young carers needs assessment"
+esd_id: 2825
+type: duty
+parent_id:  
 ---
 
 Local authorities must carry out the assessment of a young carer’s needs appropriately and proportionately and must provide information about the manner and form of the assessment so far as reasonably practicable before it takes place.  

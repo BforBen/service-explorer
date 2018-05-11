@@ -1,9 +1,12 @@
 ---
 esd_id: 1696
-internal: false
 title: "Criminal behaviour order"
 history: >-
   New name for anti-social behaviour order in March 2016 review
+function: 133
+interactions: [17]
+powers: [780, 781]
+internal: false
 
 ---
 

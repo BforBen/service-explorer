@@ -1,9 +1,12 @@
 ---
 esd_id: 1703
-internal: false
 title: "Councillor casual vacancies"
 history: >-
   
+function: 147
+interactions: []
+powers: [1085, 1085, 2132, 2133]
+internal: false
 
 ---
 

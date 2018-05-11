@@ -1,9 +1,12 @@
 ---
 esd_id: 1735
-internal: false
 title: "Removal/variation of planning conditions"
 history: >-
   
+function: 101
+interactions: [0, 8]
+powers: [2821, 2821, 2821, 2821, 2821, 2821, 2821, 2821, 2821, 2821, 2821, 2821, 2821, 2821, 2821, 2821, 2821]
+internal: false
 
 ---
 

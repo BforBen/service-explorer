@@ -1,6 +1,8 @@
 ---
-esd_id: 2833
 title: "Environment - flood risk assessment review"
+esd_id: 2833
+type: duty
+parent_id:  
 ---
 
 A local authority must  (subject to Part V) review—

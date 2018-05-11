@@ -1,9 +1,12 @@
 ---
 esd_id: 1466
-internal: false
 title: "Accessibility - local facilities"
 history: >-
   Added in version 3.10. Name changed to 'Accessibility - local facilities' in version 4.00.
+function: 75
+interactions: [8]
+powers: [2068, 2068]
+internal: false
 
 ---
 

@@ -1,9 +1,12 @@
 ---
 esd_id: 985
-internal: true
 title: "ICT - business continuity"
 history: >-
   Term name changed from 'Business continuity' to 'ICT - business continuity' in version 3.00.
+function: 120
+interactions: []
+powers: []
+internal: true
 
 ---
 

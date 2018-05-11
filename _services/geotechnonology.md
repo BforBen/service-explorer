@@ -1,9 +1,12 @@
 ---
 esd_id: 595
-internal: false
 title: "Geotechnonology"
 history: >-
   Added scope notes in version 2.02. Term name changed from 'Geo-technical services' to 'Environmental services - geotechnonology ' in version 3.00. Name changed to 'Geotechnology' in version 4.00.
+function: 37
+interactions: [8]
+powers: []
+internal: false
 
 ---
 

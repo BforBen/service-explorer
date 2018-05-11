@@ -1,9 +1,12 @@
 ---
 esd_id: 1125
-internal: false
 title: "Under age sales"
 history: >-
   Name changed to 'Under age sales' in version 4.00.
+function: 15
+interactions: [0, 8]
+powers: [448, 659, 659, 659, 659, 659, 661, 661, 661, 739, 740, 1193, 1193, 2368, 2368, 2407]
+internal: false
 
 ---
 

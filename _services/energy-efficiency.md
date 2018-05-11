@@ -1,9 +1,12 @@
 ---
 esd_id: 880
-internal: false
 title: "Energy efficiency"
 history: >-
   Name and scope notes updated in version 3.00 to clarify scope and council responsibilities. Term name changed from 'Energy efficiency assessment' to 'Energy - efficiency advice and assessment' in version 3.00. Name changed to 'Energy efficiency' in version 4.00.
+function: 69
+interactions: [0, 8]
+powers: [940]
+internal: false
 
 ---
 

@@ -1,9 +1,12 @@
 ---
 esd_id: 720
-internal: false
 title: "Community strategy"
 history: >-
   Added scope notes in version 2.02. Scope notes updated in version 3.00 to include Scottish legislation.
+function: 53
+interactions: [3, 8]
+powers: [405, 716, 716, 716, 716, 717, 717, 717, 717, 733, 733, 733, 733, 1029, 1029, 1029, 1029]
+internal: false
 
 ---
 

@@ -1,9 +1,12 @@
 ---
 esd_id: 322
-internal: false
 title: "Stillbirth registration"
 history: >-
   Added scope notes in version 2.02. Term name changed from 'Stillbirth - registering' to 'Birth - stillbirths - registering' in version 3.00. Scope notes amended in version 3.05. Name changed to 'Stillbirth registration' in version 4.00.
+function: 54
+interactions: [8, 9]
+powers: [1716, 1716, 1716, 1716, 1716, 1716, 1716, 1716, 1716, 1716, 1716, 1716, 1716, 1717, 1717, 1717, 1717, 1717, 1717, 1717, 1717, 1717, 1717, 1717, 1717, 1717, 1718, 1718, 1718, 1718, 1718, 1718, 1718, 1718, 1718, 1718, 1718, 1718, 1718, 1719, 1719, 1719, 1719, 1719, 1719, 1719, 1719, 1719, 1719, 1719, 1719, 1719, 3191, 3191, 3191, 3191, 3191, 3191, 3191, 3191, 3191]
+internal: false
 
 ---
 

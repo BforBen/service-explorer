@@ -1,9 +1,12 @@
 ---
 esd_id: 1142
-internal: false
 title: "Caretaking"
 history: >-
   Name changed to 'Caretaking' in version 4.00.
+function: 159
+interactions: [0, 8]
+powers: []
+internal: false
 
 ---
 

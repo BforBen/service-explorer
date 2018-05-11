@@ -1,9 +1,12 @@
 ---
 esd_id: 1781
-internal: false
 title: "Staying put arrangement"
 history: >-
   Added in March 2016 review of legislation
+function: 153
+interactions: [0, 8]
+powers: [2932]
+internal: false
 
 ---
 

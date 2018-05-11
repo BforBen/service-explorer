@@ -1,6 +1,8 @@
 ---
-esd_id: 2931
 title: "Special educational needs - continued provision where EHC plan maintained"
+esd_id: 2931
+type: power
+parent_id:  
 ---
 
 This section applies where, immediately before a child in need reaches the age of 18—

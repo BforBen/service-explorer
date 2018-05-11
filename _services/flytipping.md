@@ -1,9 +1,12 @@
 ---
 esd_id: 587
-internal: false
 title: "Flytipping"
 history: >-
   Added scope notes in version 2.02. Term name changed from 'Flytipping' to 'Refuse - flytipping ' in version 3.00. Name changed to 'Flytipping' in version 4.00.
+function: 40
+interactions: [0, 8, 17]
+powers: [1209, 1209, 1209, 1209, 1209, 1209, 1209, 1209, 1209, 1228, 1229, 1531, 1607, 2101, 2103, 2105, 2105, 2105, 2105, 2105, 2106, 2106, 2106, 2106, 2106, 2107, 2107, 2107, 2107, 2107]
+internal: false
 
 ---
 

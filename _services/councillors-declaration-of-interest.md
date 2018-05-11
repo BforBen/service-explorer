@@ -1,9 +1,12 @@
 ---
 esd_id: 355
-internal: false
 title: "Councillors declaration of interest"
 history: >-
   Added scope notes in version 2.02. Term name changed from 'Councillors declaration of interest' to 'Councillors - declaration of interest' in version 3.00. Name changed to 'Councillors decalarations of interest' in version 4.00.
+function: 147
+interactions: [8]
+powers: [1085, 1085]
+internal: false
 
 ---
 

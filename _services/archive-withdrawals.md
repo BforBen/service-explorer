@@ -1,9 +1,12 @@
 ---
 esd_id: 605
-internal: false
 title: "Archive withdrawals"
 history: >-
   Added scope notes in version 2.02. Term name changed from 'Withdrawal of records' to 'Archives - withdrawals' in version 3.00. name changed to 'Archive withdrawals' in version 4.00.
+function: 77
+interactions: [8]
+powers: [1592, 1592, 1592, 1592, 1593, 1593, 1593, 2158, 2158]
+internal: false
 
 ---
 

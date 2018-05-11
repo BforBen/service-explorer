@@ -1,9 +1,12 @@
 ---
 esd_id: 1763
-internal: false
 title: "Council tax appeals"
 history: >-
   Added in March 2016 review of legislation
+function: 56
+interactions: [0, 8]
+powers: [2524]
+internal: false
 
 ---
 

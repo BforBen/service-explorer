@@ -1,9 +1,12 @@
 ---
 esd_id: 1061
-internal: false
 title: "European Public Information Centre (EPIC) network"
 history: >-
   Name changed to 'MEuropean Public Information Centre (EPIC) network' in version 4.00.
+function: 161
+interactions: [8]
+powers: []
+internal: false
 
 ---
 

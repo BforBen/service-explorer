@@ -1,6 +1,8 @@
 ---
-esd_id: 2932
 title: "Fostering - staying put arrangements"
+esd_id: 2932
+type: duty
+parent_id:  
 ---
 
 A “staying put arrangement” is an arrangement under which—

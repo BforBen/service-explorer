@@ -1,9 +1,12 @@
 ---
 esd_id: 781
-internal: false
 title: "Reservoir management"
 history: >-
   Added scope notes in version 2.02. Scope notes updated in version 3.00 to clarify council responsibility. Term name changed from 'Reservoir management' to 'Reservoirs - management' in version 3.00. Scope notes amended in version 3.05. Name changed to 'Reservoir management' in version 4.00.
+function: 97
+interactions: [8]
+powers: []
+internal: false
 
 ---
 

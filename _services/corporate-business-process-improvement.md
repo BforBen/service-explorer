@@ -1,9 +1,12 @@
 ---
 esd_id: 1151
-internal: true
 title: "Corporate - business process improvement"
 history: >-
   Added in version 3.05. Name/scope notes changed in version 4.0.1.
+function: 53
+interactions: [0, 8]
+powers: [2606, 2606, 2606]
+internal: true
 
 ---
 

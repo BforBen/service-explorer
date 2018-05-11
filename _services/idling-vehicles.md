@@ -1,9 +1,12 @@
 ---
 esd_id: 1085
-internal: false
 title: "Idling vehicles"
 history: >-
   Name changed to 'Idling vehicles' in version 4.00
+function: 37
+interactions: [4, 8]
+powers: []
+internal: false
 
 ---
 

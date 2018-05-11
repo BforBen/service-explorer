@@ -1,9 +1,12 @@
 ---
 esd_id: 164
-internal: false
 title: "Protection from harassment"
 history: >-
   Added scope notes in version 2.02. Term name changed from 'Harassment help' to 'Social services - harassment - advice and support' in version 3.00. Name changed to 'Protection from harassment' in version 4.00.
+function: 21
+interactions: [6, 8]
+powers: []
+internal: false
 
 ---
 

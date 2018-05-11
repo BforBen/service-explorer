@@ -1,9 +1,12 @@
 ---
 esd_id: 828
-internal: false
 title: "Contracts lists"
 history: >-
   Name changed for clarification in March 2016 review
+function: 145
+interactions: [8]
+powers: [1969, 1969, 1969, 1969]
+internal: false
 
 ---
 

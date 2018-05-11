@@ -1,9 +1,12 @@
 ---
 esd_id: 881
-internal: false
 title: "Sports equipment hire"
 history: >-
   Term name changed from 'Equipment hire' to 'Sports - equipment hire' in version 3.00.
+function: 80
+interactions: [1, 4, 8]
+powers: [1490, 1490, 1490, 1490, 1490, 1490]
+internal: false
 
 ---
 

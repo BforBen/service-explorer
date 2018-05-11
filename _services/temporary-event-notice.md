@@ -1,9 +1,12 @@
 ---
 esd_id: 1071
-internal: false
 title: "Temporary event notice"
 history: >-
   Term name changed from 'Licences - licenced premises - occasional permission for voluntary organisations selling alcohol' to 'Licences - alcohol and entertainment - Temporary Event Notices' for England and 'Licences - licensed premises - occasional permission for voluntary organisations selling alcohol' for Scotland in version 3.04. Name changed to 'Temporary event notices' in version 4.00
+function: 83
+interactions: [0, 4, 8, 9]
+powers: [471, 471, 471, 471, 472, 472, 472, 472, 473, 473, 473, 473, 474, 474, 474, 474, 617, 617, 617, 617, 618, 618, 618, 618, 619, 619, 619, 619, 620, 620, 620, 620, 621, 621, 621, 621, 622, 622, 622, 622, 645, 646, 647, 648, 649, 650, 651, 652, 659, 659, 659, 659, 659, 663, 663, 663, 664, 664, 664, 664]
+internal: false
 
 ---
 

@@ -1,9 +1,12 @@
 ---
 esd_id: 1697
-internal: false
 title: "Standing advisory council on religious education (SACRE)"
 history: >-
   
+function: 138
+interactions: []
+powers: [827, 828, 1125]
+internal: false
 
 ---
 

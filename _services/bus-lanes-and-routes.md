@@ -1,9 +1,12 @@
 ---
 esd_id: 1599
-internal: false
 title: "Bus lanes and routes"
 history: >-
   Added in version 4.00.
+function: 113
+interactions: [8]
+powers: [1153, 1153, 1184]
+internal: false
 
 ---
 

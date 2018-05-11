@@ -1,9 +1,12 @@
 ---
 esd_id: 1672
-internal: false
 title: "Business rate supplement"
 history: >-
   
+function: 9
+interactions: []
+powers: [40, 41, 42, 43, 44, 45, 46, 47, 48, 50, 2535, 2536, 2703, 2703, 3111, 3111, 3112, 3112, 3113, 3113]
+internal: false
 
 ---
 

@@ -1,9 +1,12 @@
 ---
 esd_id: 1734
-internal: false
 title: "Discharge of planning conditions"
 history: >-
   
+function: 101
+interactions: [0, 8]
+powers: [2821, 2821, 2821, 2821, 2821, 2821, 2821, 2821, 2821, 2821, 2821, 2821, 2821, 2821, 2821, 2821, 2821]
+internal: false
 
 ---
 

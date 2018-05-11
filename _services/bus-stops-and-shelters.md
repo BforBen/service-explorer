@@ -1,9 +1,12 @@
 ---
 esd_id: 637
-internal: false
 title: "Bus stops and shelters"
 history: >-
   Added scope notes in version 2.02. Term name changed from 'Bus shelters' to 'Transport - bus stops and shelters - positioning' in version 3.00. Name changed to 'Bus stops and shelters' in version 4.00.
+function: 111
+interactions: [0, 8]
+powers: [1672, 1672, 1673, 1673, 1674, 1674, 3148, 3148, 3148, 3148, 3148, 3148, 3148, 3148]
+internal: false
 
 ---
 

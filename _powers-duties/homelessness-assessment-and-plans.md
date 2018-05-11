@@ -1,6 +1,8 @@
 ---
-esd_id: 3194
 title: "Homelessness - assessment and plans"
+esd_id: 3194
+type: duty
+parent_id:  
 ---
 
 If the local housing authority are satisfied that an applicant is-

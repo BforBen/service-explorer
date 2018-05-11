@@ -1,9 +1,12 @@
 ---
 esd_id: 1536
-internal: false
 title: "Feedback and suggestions"
 history: >-
   Added scope notes in version 3.11.
+function: 47
+interactions: [0, 8]
+powers: []
+internal: false
 
 ---
 

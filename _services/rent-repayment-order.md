@@ -1,9 +1,12 @@
 ---
 esd_id: 1798
-internal: false
 title: "Rent repayment order"
 history: >-
   Added in March 2018
+function: 71
+interactions: [0, 8]
+powers: []
+internal: false
 
 ---
 

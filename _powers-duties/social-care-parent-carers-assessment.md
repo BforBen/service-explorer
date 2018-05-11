@@ -1,6 +1,8 @@
 ---
-esd_id: 2930
 title: "Social care - parent carers assessment"
+esd_id: 2930
+type: duty
+parent_id:  
 ---
 
 A local authority in England must, if the conditions below are met, assess whether a parent carer within their area has needs for support and, if so, what those needs are.

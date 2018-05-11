@@ -1,6 +1,8 @@
 ---
-esd_id: 2661
 title: "Council tax reduction - fraud (Wales)"
+esd_id: 2661
+type: power
+parent_id:  
 ---
 
 A local authority (billing authority) may require information from specified persons for the purpose of preventing, detecting and securing evidence of the commission of offences connected with a reduction under a council tax reduction scheme and impose penalties in connection with council tax reduction schemes.

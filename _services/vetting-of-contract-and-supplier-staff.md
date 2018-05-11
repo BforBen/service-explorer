@@ -1,9 +1,12 @@
 ---
 esd_id: 863
-internal: false
 title: "Vetting of contract and supplier staff"
 history: >-
   Term name changed from 'CRB vetting of contract/supplier staff' to 'Jobs - vetting of contract and supplier staff' in version 3.00. Name changed to 'Vetting of contract and supplier staff' in version 4.00.
+function: 119
+interactions: [6, 8]
+powers: []
+internal: false
 
 ---
 

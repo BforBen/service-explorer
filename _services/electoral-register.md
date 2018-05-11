@@ -1,9 +1,12 @@
 ---
 esd_id: 364
-internal: false
 title: "Electoral register"
 history: >-
   Added scope notes in version 2.02. Scope notes amended in version 3.05. Name changed to 'Electoral register' in version 4.00.
+function: 146
+interactions: [0, 8]
+powers: [2354, 2355, 2692, 2692, 2747, 2958, 2959]
+internal: false
 
 ---
 

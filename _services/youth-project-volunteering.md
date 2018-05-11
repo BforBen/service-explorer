@@ -1,9 +1,12 @@
 ---
 esd_id: 629
-internal: false
 title: "Youth project volunteering"
 history: >-
   Added scope notes in version 2.02. Term name changed from 'Youth projects - volunteering' to 'Volunteering - youth projects' in version 3.00. Name changed to 'Youth project volunteering' in version 4.00.
+function: 57
+interactions: [6, 8]
+powers: []
+internal: false
 
 ---
 

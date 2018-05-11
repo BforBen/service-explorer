@@ -1,9 +1,12 @@
 ---
 esd_id: 35
-internal: false
 title: "School attendance and truancy"
 history: >-
   Added scope notes in version 2.02. Scope notes updated in version 3.00 for clarity. Term name changed from 'Truancy' to 'Schools - truancy' in version 3.00.  Term name changed to 'School attendance and truancy' in version 4.00.
+function: 135
+interactions: [8]
+powers: [841, 842, 843, 844, 845, 1124, 2575, 2575, 2698]
+internal: false
 
 ---
 

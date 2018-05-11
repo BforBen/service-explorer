@@ -1,9 +1,12 @@
 ---
 esd_id: 1436
-internal: false
 title: "Permitted absence from school"
 history: >-
   Added in version 3.09. Name changed to 'Permitted absence from school' and scope notes revised in version 4.00.
+function: 138
+interactions: [0, 8]
+powers: []
+internal: false
 
 ---
 

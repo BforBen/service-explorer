@@ -1,9 +1,12 @@
 ---
 esd_id: 522
-internal: false
 title: "Commercial waste special collections"
 history: >-
   Added scope notes in version 2.02. Scope notes updated in version 3.00 to include confidential waste. Term name changed from 'Commercial waste - special trade collections' to 'Refuse - commercial waste - special trade collections' in version 3.00. Name changed to 'Commercial waste special collections' in version 4.00.
+function: 140
+interactions: [0, 8]
+powers: [1211, 1211, 1211]
+internal: false
 
 ---
 

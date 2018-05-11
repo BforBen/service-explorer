@@ -1,9 +1,12 @@
 ---
 esd_id: 1600
-internal: false
 title: "Alarm notification area"
 history: >-
   Update to name and description in March 2016 review
+function: 21
+interactions: [0, 8]
+powers: [223, 223, 224, 225, 225, 226, 226, 227, 227, 228, 228, 229, 229, 230, 230, 231, 231, 1089, 1089, 1089, 1089, 1089, 1090, 1090, 1090, 1090, 1090, 1091, 1091, 1091, 1091, 1091, 1093, 1093, 1093, 1093, 1093, 2097, 2097, 2097, 2097, 2097]
+internal: false
 
 ---
 

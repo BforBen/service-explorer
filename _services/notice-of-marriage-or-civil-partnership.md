@@ -1,9 +1,12 @@
 ---
 esd_id: 876
-internal: false
 title: "Notice of marriage or civil partnership"
 history: >-
   Scope notes changed in version 3.00 as legislation is now current.
+function: 54
+interactions: [0, 1, 4, 8, 9]
+powers: [210, 211, 212, 213, 214, 215, 1716, 1716, 1716, 1716, 1716, 1716, 1716, 1716, 1716, 1716, 1716, 1716, 1716, 1717, 1717, 1717, 1717, 1717, 1717, 1717, 1717, 1717, 1717, 1717, 1717, 1717, 1718, 1718, 1718, 1718, 1718, 1718, 1718, 1718, 1718, 1718, 1718, 1718, 1718, 1719, 1719, 1719, 1719, 1719, 1719, 1719, 1719, 1719, 1719, 1719, 1719, 1719, 2810]
+internal: false
 
 ---
 

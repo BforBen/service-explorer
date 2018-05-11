@@ -1,9 +1,12 @@
 ---
 esd_id: 573
-internal: false
 title: "School crossing patrols"
 history: >-
   Added scope notes in version 2.02. Name changed to 'school crossing patrols' in version 4.00.
+function: 112
+interactions: [8]
+powers: [3130]
+internal: false
 
 ---
 

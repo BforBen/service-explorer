@@ -1,6 +1,8 @@
 ---
-esd_id: 1952
 title: "Disabled persons - duty to consider needs of disabled persons"
+esd_id: 1952
+type: duty
+parent_id:  
 ---
 
 When requested to do so by—

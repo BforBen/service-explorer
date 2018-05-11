@@ -1,6 +1,8 @@
 ---
-esd_id: 2410
 title: "Special educational needs or disability - identification of children and young people with needs"
+esd_id: 2410
+type: duty
+parent_id:  
 ---
 
 A local authority in England must exercise its functions with a view to securing that it identifies—

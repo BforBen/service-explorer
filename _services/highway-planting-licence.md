@@ -1,9 +1,12 @@
 ---
 esd_id: 1655
-internal: false
 title: "Highway planting licence"
 history: >-
   Added in version 4.0.1 to the English hand welsh, local government service list.
+function: 85
+interactions: []
+powers: [2273]
+internal: false
 
 ---
 

@@ -1,9 +1,12 @@
 ---
 esd_id: 33
-internal: false
 title: "Schools development plans"
 history: >-
   Added scope notes in version 2.02.Scope notes updated to include Scottish legislation in version 3.00. Term name changed from 'School and LEA plans' to 'Schools - development plans' in version 3.00. Term name changed to 'Schools development plans' in version 4.00.
+function: 138
+interactions: [8]
+powers: [479, 479, 479, 479, 521, 521, 786, 786, 788, 788, 789, 789, 789, 789, 1888, 1888, 1888, 1888, 1966, 2696, 2696, 2696, 2696, 2723]
+internal: false
 
 ---
 

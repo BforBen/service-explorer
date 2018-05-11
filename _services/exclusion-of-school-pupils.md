@@ -1,9 +1,12 @@
 ---
 esd_id: 34
-internal: false
 title: "Exclusion of school pupils"
 history: >-
   Term name changed from 'Exclusions' to 'School exclusions' and scope notes added in version 2.02. Term name changed from 'School exclusions' to 'Schools - exclusion of pupils' in version 3.00. Term name changed to 'Exclusion of school pupils' in version 4.00.
+function: 138
+interactions: [8]
+powers: [266, 499, 520, 520, 520, 860, 860, 2546, 2643]
+internal: false
 
 ---
 

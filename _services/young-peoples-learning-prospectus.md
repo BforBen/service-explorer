@@ -1,9 +1,12 @@
 ---
 esd_id: 1145
-internal: false
 title: "Young people's learning prospectus"
 history: >-
   Added in version 3.05. Name changed to 'Young people's learning prospectus' in version 4.00.
+function: 138
+interactions: [0, 8]
+powers: [1004, 1004, 1004, 1004, 1004, 1005, 1005, 1005, 1005, 1005, 1006, 1006, 1006, 1006, 1006, 1006, 1007, 1007, 1007, 1007, 1007]
+internal: false
 
 ---
 

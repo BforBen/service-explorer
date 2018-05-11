@@ -1,6 +1,8 @@
 ---
-esd_id: 2412
 title: "Special educational needs or disability - joint commissioning arrangements"
+esd_id: 2412
+type: duty
+parent_id:  
 ---
 
 A local authority and its partner commissioning bodies must make arrangements (“joint commissioning arrangements”) about the education, health and care provision to be secured for—

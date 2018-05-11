@@ -1,6 +1,8 @@
 ---
-esd_id: 2687
 title: "Public health - weighing and measuring of children"
+esd_id: 2687
+type: duty
+parent_id:  
 ---
 
 Where a local authority carries out a weighing and measuring exercise it must comply with prescribed conditions and may process the resulting information, including personal information relating to the children concerned, and disclose it to prescribed persons. It may also process it for the purposes of research, monitoring, audit or the planning of services or for any purpose connected with public health as prescribed and must have regard to guidance issued by the Secretary of State.

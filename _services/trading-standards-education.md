@@ -1,9 +1,12 @@
 ---
 esd_id: 1110
-internal: false
 title: "Trading standards education"
 history: >-
   Name changed to 'Trading standards education' in version 4.00.
+function: 15
+interactions: [8]
+powers: [180, 180, 180]
+internal: false
 
 ---
 

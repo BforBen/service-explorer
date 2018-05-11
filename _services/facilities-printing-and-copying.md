@@ -1,9 +1,12 @@
 ---
 esd_id: 962
-internal: true
 title: "Facilities - printing and copying"
 history: >-
   Term name changed from 'Printing and copying services' to 'Facilities - printing and copying' in version 3.00.
+function: 118
+interactions: []
+powers: []
+internal: true
 
 ---
 

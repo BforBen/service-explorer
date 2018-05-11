@@ -1,9 +1,12 @@
 ---
 esd_id: 1052
-internal: false
 title: "Farming advice"
 history: >-
   Name changed to 'Farming advice' in version 4.00.
+function: 33
+interactions: [8]
+powers: []
+internal: false
 
 ---
 

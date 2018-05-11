@@ -1,9 +1,12 @@
 ---
 esd_id: 1520
-internal: false
 title: "Debt enforcement"
 history: >-
   Added scope notes in version 3.11.
+function: 2
+interactions: [8]
+powers: []
+internal: false
 
 ---
 

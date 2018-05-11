@@ -1,9 +1,12 @@
 ---
 esd_id: 586
-internal: false
 title: "Vandalism prevention"
 history: >-
   Added scope notes in version 2.02. Term name changed from 'Vandalism' to 'Vandalism - prevention measures' in version 3.00. Name changed to 'Vandilism prevention' in version 4.00.
+function: 21
+interactions: [0, 8]
+powers: [2691, 2691, 2691, 2691]
+internal: false
 
 ---
 

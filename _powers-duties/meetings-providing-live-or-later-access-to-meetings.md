@@ -1,6 +1,8 @@
 ---
-esd_id: 2483
 title: "Meetings - providing live or later access to meetings"
+esd_id: 2483
+type: duty
+parent_id:  
 ---
 
 A local authority must comply with Regulations made by the Secretary of State in making provision for and in connection with allowing persons—

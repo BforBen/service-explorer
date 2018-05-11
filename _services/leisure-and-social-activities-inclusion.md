@@ -1,9 +1,12 @@
 ---
 esd_id: 241
-internal: false
 title: "Leisure and social activities inclusion"
 history: >-
   Added scope notes in version 2.02. Term name changed from 'Leisure and social activities' to 'Social services - inclusion - leisure and social activities' in version 3.00. Name changed to 'Leisure and social activities inclusion' in version 4.00.
+function: 75
+interactions: [8]
+powers: []
+internal: false
 
 ---
 

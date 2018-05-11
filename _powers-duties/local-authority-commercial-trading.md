@@ -1,6 +1,8 @@
 ---
-esd_id: 2879
 title: "Local authority - commercial trading"
+esd_id: 2879
+type: power
+parent_id:  
 ---
 
 A local authority as a best value authority is authorised to do for a commercial purpose anything which it is authorised to do for the purpose of carrying on any of its ordinary functions.

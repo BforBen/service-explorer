@@ -1,9 +1,12 @@
 ---
 esd_id: 879
-internal: false
 title: "Environmental information regulations"
 history: >-
   
+function: 37
+interactions: [8]
+powers: [234, 234, 234, 234]
+internal: false
 
 ---
 

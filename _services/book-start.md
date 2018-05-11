@@ -1,9 +1,12 @@
 ---
 esd_id: 1601
-internal: false
 title: "Book start"
 history: >-
   Added in version 4.00.
+function: 25
+interactions: [0, 8]
+powers: []
+internal: false
 
 ---
 

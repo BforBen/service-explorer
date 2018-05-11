@@ -1,9 +1,12 @@
 ---
 esd_id: 1587
-internal: false
 title: "Road congestion reduction"
 history: >-
   Added in version 3.14.
+function: 113
+interactions: [0, 8]
+powers: [2496, 2496, 2497, 2497]
+internal: false
 
 ---
 

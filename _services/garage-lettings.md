@@ -1,9 +1,12 @@
 ---
 esd_id: 115
-internal: false
 title: "Garage lettings"
 history: >-
   Added scope notes in version 2.02. Term name changed from 'Council lettings - garages' to 'Land and property - council lettings - garages' in version 3.00. Term name changed to 'Land and property - garages - lettings' and scope notes amended in version 3.05. Name changed to 'Garage lettings' in version 4.00.
+function: 159
+interactions: [0, 8]
+powers: [1590]
+internal: false
 
 ---
 

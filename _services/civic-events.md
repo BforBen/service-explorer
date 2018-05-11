@@ -1,9 +1,12 @@
 ---
 esd_id: 1555
-internal: false
 title: "Civic events"
 history: >-
   Added scope notes in version 3.11.
+function: 46
+interactions: [8]
+powers: [3003]
+internal: false
 
 ---
 

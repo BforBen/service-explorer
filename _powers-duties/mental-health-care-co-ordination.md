@@ -1,6 +1,8 @@
 ---
-esd_id: 2566
 title: "Mental health - care co-ordination"
+esd_id: 2566
+type: duty
+parent_id:  
 ---
 
 Where a Local Health Board is responsible for providing a secondary mental health service to a relevant patient and a LA is also responsible for providing such a service, then 

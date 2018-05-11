@@ -1,9 +1,12 @@
 ---
 esd_id: 900
-internal: false
 title: "Commercial property development"
 history: >-
   Term name changed from 'Land and property improvement' to 'Land and property - improvement' in version 3.00. Name changed to 'Commercial property development' in version 4.00.
+function: 8
+interactions: [8]
+powers: [1588, 1588, 1588, 1588, 1588]
+internal: false
 
 ---
 

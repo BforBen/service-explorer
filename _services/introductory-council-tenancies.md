@@ -1,9 +1,12 @@
 ---
 esd_id: 713
-internal: false
 title: "Introductory council tenancies"
 history: >-
   Term name changed from 'Introductory tenancies' to 'Introductory council tenancies' and scope notes added in version 2.02. Scope notes updated in version 3.00 to cover Scottish regulations. Term name changed from 'Introductory council tenancies' to 'Housing - introductory council tenancies' in version 3.00. Name changed to ''Introductory council tenancies' in version 4.00.
+function: 156
+interactions: [0, 8]
+powers: [942, 943, 944]
+internal: false
 
 ---
 

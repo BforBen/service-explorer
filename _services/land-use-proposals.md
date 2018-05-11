@@ -1,9 +1,12 @@
 ---
 esd_id: 594
-internal: false
 title: "Land use proposals"
 history: >-
   Term name changed from 'Land use - proposals' to ' Proposals for land use' and scope notes added in version 2.02. Term name changed from 'Proposals for land use' to 'Planning - land use proposals' in version 3.00. Name used to 'Land use proposals' in version 4.00.
+function: 103
+interactions: [8]
+powers: [702, 702, 702, 702, 702, 702, 702, 702, 702, 703, 703, 703, 703, 703, 703, 703, 703, 703, 722, 722, 722, 722, 722, 722, 722, 722, 722, 1587, 1587, 1587, 1589, 1589, 2327]
+internal: false
 
 ---
 

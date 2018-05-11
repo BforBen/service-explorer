@@ -1,9 +1,12 @@
 ---
 esd_id: 513
-internal: false
 title: "Street names and numbering"
 history: >-
   Added scope notes in version 2.02. Scope notes updated to include relevant legislation and Scottish regulations in version 3.00. Term name changed from 'Statutory register - street naming and numbering' to 'Planning - street names and numbering - statutory register' in version 3.00. Name changed to 'Street names and numbering' in version 4.00.
+function: 170
+interactions: [8]
+powers: [1763, 1763, 1771, 1771, 1772, 1772, 1773, 1773, 1871, 1871, 2194, 2194, 2195]
+internal: false
 
 ---
 

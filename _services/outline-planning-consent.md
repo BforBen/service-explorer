@@ -1,9 +1,12 @@
 ---
 esd_id: 1730
-internal: false
 title: "Outline planning consent"
 history: >-
   
+function: 101
+interactions: [0, 8]
+powers: [2821, 2821, 2821, 2821, 2821, 2821, 2821, 2821, 2821, 2821, 2821, 2821, 2821, 2821, 2821, 2821, 2821]
+internal: false
 
 ---
 

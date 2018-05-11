@@ -1,9 +1,12 @@
 ---
 esd_id: 343
-internal: false
 title: "Employment and training initiatives"
 history: >-
   Added scope notes in version 2.02, updated in version 3.06. Term name changed from 'Employment and training initiatives' to 'Jobs - employment and training initiatives' in version 3.00. Name changed to 'Employment and training initiatives' in version 4.00.
+function: 10
+interactions: [1, 6, 8]
+powers: [1585, 1585, 3031, 3031]
+internal: false
 
 ---
 

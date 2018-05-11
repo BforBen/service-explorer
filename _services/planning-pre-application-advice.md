@@ -1,9 +1,12 @@
 ---
 esd_id: 1737
-internal: false
 title: "Planning pre-application advice"
 history: >-
   
+function: 101
+interactions: [0, 8]
+powers: [2821, 2821, 2821, 2821, 2821, 2821, 2821, 2821, 2821, 2821, 2821, 2821, 2821, 2821, 2821, 2821, 2821]
+internal: false
 
 ---
 

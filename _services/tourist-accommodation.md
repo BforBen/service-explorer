@@ -1,9 +1,12 @@
 ---
 esd_id: 734
-internal: false
 title: "Tourist accommodation"
 history: >-
   Term name changed from 'Accommodation' to 'Tourist accommodation' and scope notes added in version 2.02. Term name changed from 'Tourist accommodation' to 'Tourism - accommodation - information' in version 3.00. Term name changed to 'Tourist accommodation' in version 4.00.
+function: 81
+interactions: [1, 6, 8]
+powers: [2162, 2162, 2162, 2162, 2162, 2162, 2162]
+internal: false
 
 ---
 

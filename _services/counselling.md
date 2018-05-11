@@ -1,9 +1,12 @@
 ---
 esd_id: 163
-internal: false
 title: "Counselling"
 history: >-
   Added scope notes in version 2.02. Scope notes updated in version 3.00. Term name changed from 'Counselling' to 'Social services - counselling' in version 3.00. Name changed to 'Counselling' in version 4.00.
+function: 150
+interactions: [6, 8]
+powers: []
+internal: false
 
 ---
 

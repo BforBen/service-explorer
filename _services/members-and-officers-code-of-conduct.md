@@ -1,9 +1,12 @@
 ---
 esd_id: 1702
-internal: false
 title: "Members and officers code of conduct"
 history: >-
   
+function: 53
+interactions: []
+powers: [1081, 1086]
+internal: false
 
 ---
 

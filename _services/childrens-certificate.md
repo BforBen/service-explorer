@@ -1,9 +1,12 @@
 ---
 esd_id: 1069
-internal: false
 title: "Children's certificate"
 history: >-
   Name changed to 'Children's certificates' in version 4.00
+function: 83
+interactions: [0, 4, 8, 9]
+powers: []
+internal: false
 
 ---
 

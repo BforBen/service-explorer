@@ -1,9 +1,12 @@
 ---
 esd_id: 882
-internal: false
 title: "Festive decorations"
 history: >-
   Term name changed from 'Festive decorations' to 'Council - festive decorations' in version 3.00. Name changed to 'Festive decorations' in version 4.00.
+function: 144
+interactions: [8]
+powers: [2275]
+internal: false
 
 ---
 

@@ -1,9 +1,12 @@
 ---
 esd_id: 159
-internal: false
 title: "Fostering"
 history: >-
   Added scope notes in version 2.02. Term name changed from 'Fostering' to 'Social services - fostering' in version 3.00. Name changed to 'Fostering' in version 4.00.
+function: 153
+interactions: [0, 8]
+powers: [178, 179, 181, 181, 181, 181, 181, 181, 181, 181, 181, 181, 181, 181, 181, 181, 181, 453, 2016, 2017, 2574, 2748, 2748, 2748, 2748]
+internal: false
 
 ---
 

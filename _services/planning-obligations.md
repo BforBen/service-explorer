@@ -1,9 +1,12 @@
 ---
 esd_id: 1710
-internal: false
 title: "Planning obligations"
 history: >-
   
+function: 101
+interactions: []
+powers: [1413]
+internal: false
 
 ---
 

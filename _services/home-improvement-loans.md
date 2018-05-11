@@ -1,9 +1,12 @@
 ---
 esd_id: 858
-internal: false
 title: "Home improvement loans"
 history: >-
   Term name changed from 'Mortgages' to 'Housing - improvement and repairs - loans' in version 3.00. Name changed to 'Home improvement loans' in version 4.00.
+function: 129
+interactions: [0, 2, 8]
+powers: [984, 984, 984, 984]
+internal: false
 
 ---
 

@@ -1,9 +1,12 @@
 ---
 esd_id: 1742
-internal: false
 title: "Public weighbridges"
 history: >-
   
+function: 15
+interactions: [0, 8]
+powers: []
+internal: false
 
 ---
 

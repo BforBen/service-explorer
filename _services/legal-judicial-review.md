@@ -1,9 +1,12 @@
 ---
 esd_id: 1670
-internal: true
 title: "Legal - judicial review"
 history: >-
   Added in version 4.0.1 to the internal service list.
+function: 117
+interactions: []
+powers: []
+internal: true
 
 ---
 

@@ -1,9 +1,12 @@
 ---
 esd_id: 735
-internal: false
 title: "School visits"
 history: >-
   Added scope notes in version 2.02. Scope notes updated for clarification of service scope in version 3.00. Term name changed from 'Educational visits' to 'Schools - visits' in version 3.00. Name changed to 'School visits' in version 4.00.
+function: 139
+interactions: [8]
+powers: [488, 488, 847, 847, 853]
+internal: false
 
 ---
 

@@ -1,6 +1,8 @@
 ---
-esd_id: 2438
 title: "Anti-social behaviour - case reviews"
+esd_id: 2438
+type: duty
+parent_id:  
 ---
 
 In a case where a person has made a complaint about anti-social behaviour in a particular local government area, the relevant bodies in that area must carry out a review of the response to that behaviour (an “ASB case review)” if—

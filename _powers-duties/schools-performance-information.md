@@ -1,6 +1,8 @@
 ---
-esd_id: 2589
 title: "Schools - performance information"
+esd_id: 2589
+type: duty
+parent_id:  
 ---
 
 Head teachers of maintained schools must make information available to governing bodies to enable them to comply. 

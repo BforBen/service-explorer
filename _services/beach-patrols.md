@@ -1,9 +1,12 @@
 ---
 esd_id: 756
-internal: false
 title: "Beach patrols"
 history: >-
   Added scope notes in version 2.02. Term name changed from 'Beach patrol' to 'Coastline - beach patrols' in version 3.00. name changed to 'Beach patrols' in version 4.00.
+function: 96
+interactions: [8]
+powers: []
+internal: false
 
 ---
 

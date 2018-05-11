@@ -1,9 +1,12 @@
 ---
 esd_id: 388
-internal: false
 title: "Sex establishment licence"
 history: >-
   Added scope notes in version 2.02. Scope notes updated in version 3.00 to cover Scottish legislation. Term name changed from 'Licence - sex establishment' to 'Licences - sex shops' in version 3.00. Name changed to 'Sex establishment licence' in version 4.00.
+function: 163
+interactions: [0, 4, 8, 9]
+powers: [2339]
+internal: false
 
 ---
 

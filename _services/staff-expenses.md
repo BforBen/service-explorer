@@ -1,9 +1,12 @@
 ---
 esd_id: 1727
-internal: true
 title: "Staff - expenses"
 history: >-
   
+function: 119
+interactions: []
+powers: [1591]
+internal: true
 
 ---
 

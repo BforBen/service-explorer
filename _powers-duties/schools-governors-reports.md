@@ -1,6 +1,8 @@
 ---
-esd_id: 2596
 title: "Schools - governors reports"
+esd_id: 2596
+type: duty
+parent_id:  
 ---
 
 Governors' reports must contained prescribed information

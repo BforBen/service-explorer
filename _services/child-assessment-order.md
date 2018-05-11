@@ -1,9 +1,12 @@
 ---
 esd_id: 1780
-internal: false
 title: "Child assessment order"
 history: >-
   Added in March 2016 review of legislation
+function: 155
+interactions: [8]
+powers: [2933, 3026, 3026, 3026, 3026, 3026, 3026, 3027, 3027, 3027, 3027, 3027, 3027, 3028, 3028, 3028, 3028, 3028, 3029, 3029, 3029, 3029, 3029, 3029]
+internal: false
 
 ---
 

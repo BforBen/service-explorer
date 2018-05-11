@@ -1,6 +1,8 @@
 ---
-esd_id: 2913
 title: "Weights and measures - employment of officers"
+esd_id: 2913
+type: power
+parent_id:  
 ---
 
 A local authority who are for the time being, or have at any time been, a local weights and measures authority under this Act or the Weights and Measures Act 1963 may provide and maintain within their area for use by the public such weighing or measuring equipment as may appear to the authority to be expedient.

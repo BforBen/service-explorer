@@ -1,9 +1,12 @@
 ---
 esd_id: 1668
-internal: true
 title: "Corporate - research"
 history: >-
   Added in version 4.0.1 to the internal service list.
+function: 114
+interactions: []
+powers: [388, 388, 905, 905, 2158, 2158]
+internal: true
 
 ---
 

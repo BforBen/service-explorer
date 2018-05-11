@@ -1,9 +1,12 @@
 ---
 esd_id: 976
-internal: true
 title: "Staff - job analysis"
 history: >-
   Term name changed from 'Job analysis' to 'Staff - job analysis' in version 3.00.  Scope notes revised in version 3.01.
+function: 119
+interactions: []
+powers: [2813, 2813, 2813]
+internal: true
 
 ---
 

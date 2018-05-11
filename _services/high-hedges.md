@@ -1,9 +1,12 @@
 ---
 esd_id: 1122
-internal: false
 title: "High hedges"
 history: >-
   Name changed to 'High hedges' in version 4.00.
+function: 170
+interactions: [0, 8]
+powers: [449, 450, 451, 452]
+internal: false
 
 ---
 

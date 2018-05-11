@@ -1,9 +1,12 @@
 ---
 esd_id: 1539
-internal: false
 title: "Business travel and commuting"
 history: >-
   Added scope notes in version 3.11.
+function: 113
+interactions: [8]
+powers: [3013, 3013, 3013, 3013]
+internal: false
 
 ---
 

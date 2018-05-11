@@ -1,9 +1,12 @@
 ---
 esd_id: 777
-internal: false
 title: "Ports of entry - detention"
 history: >-
   Added scope notes in version 2.02. Scope notes extended in version 3.0 to provide additional detail. Term name changed from 'Detention and further action' to 'Ports of entry - detention' in version 3.00.
+function: 169
+interactions: [8]
+powers: []
+internal: false
 
 ---
 

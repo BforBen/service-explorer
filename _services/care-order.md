@@ -1,9 +1,12 @@
 ---
 esd_id: 1769
-internal: false
 title: "Care order"
 history: >-
   Added in March 2016 review of legislation
+function: 154
+interactions: [8]
+powers: [2010, 2010, 2010, 2010, 2011, 2011]
+internal: false
 
 ---
 

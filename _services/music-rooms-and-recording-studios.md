@@ -1,9 +1,12 @@
 ---
 esd_id: 1517
-internal: false
 title: "Music rooms and recording studios"
 history: >-
   Added scope notes in version 3.11.
+function: 73
+interactions: [0, 8]
+powers: []
+internal: false
 
 ---
 

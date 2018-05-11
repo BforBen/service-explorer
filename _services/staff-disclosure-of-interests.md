@@ -1,9 +1,12 @@
 ---
 esd_id: 1665
-internal: true
 title: "Staff - disclosure of interests"
 history: >-
   Added in version 4.0.1 to the internal service list.
+function: 119
+interactions: []
+powers: []
+internal: true
 
 ---
 
